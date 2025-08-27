@@ -1,12 +1,31 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { ProviderSection } from '../components/ProviderSection';
+import { mockProviders } from '../data/mockData';
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div className="min-h-screen bg-background">
+      {/* Header */}
+      <header className="border-b border-border/50 bg-card/50 backdrop-blur-sm sticky top-0 z-10">
+        <div className="px-4 py-4">
+          <h1 className="font-serif text-2xl font-semibold text-foreground">
+            Daily Dev
+          </h1>
+          <p className="text-muted-foreground text-sm mt-1">
+            Curated developer content from across the web
+          </p>
+        </div>
+      </header>
+
+      {/* Main content */}
+      <main className="py-6">
+        {mockProviders.map((provider) => (
+          <ProviderSection
+            key={provider.name}
+            name={provider.name}
+            articles={provider.articles}
+          />
+        ))}
+      </main>
     </div>
   );
 };
