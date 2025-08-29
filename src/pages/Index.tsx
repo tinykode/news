@@ -1,7 +1,31 @@
 import { ProviderSection } from '../components/ProviderSection';
-import { mockProviders } from '../data/mockData';
+import { useState, useEffect } from 'react';
 
 const Index = () => {
+  const [providers, setProviders] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch('/assets/posts.json')
+      .then(response => response.json())
+      .then(data => {
+        setProviders(data);
+        setLoading(false);
+      })
+      .catch(error => {
+        console.error('Error loading posts:', error);
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-muted-foreground">Loading latest posts...</div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
@@ -18,7 +42,7 @@ const Index = () => {
 
       {/* Main content */}
       <main className="py-6">
-        {mockProviders.map((provider) => (
+        {providers.map((provider: any) => (
           <ProviderSection
             key={provider.name}
             name={provider.name}

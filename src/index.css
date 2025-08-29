@@ -8,14 +8,14 @@
 
 @layer base {
   :root {
-    /* Paper-like background colors */
-    --background: 45 15% 97%;
-    --foreground: 20 14% 15%;
+    /* Paper-like background colors - enhanced warmth */
+    --background: 42 25% 96%;
+    --foreground: 25 20% 12%;
 
-    /* Card colors - slightly warmer paper */
-    --card: 50 20% 99%;
-    --card-foreground: 20 14% 15%;
-    --card-shadow: 20 10% 85%;
+    /* Card colors - cream paper with subtle texture feeling */
+    --card: 45 30% 98%;
+    --card-foreground: 25 20% 12%;
+    --card-shadow: 35 15% 80%;
 
     --popover: 50 20% 99%;
     --popover-foreground: 20 14% 15%;
@@ -42,10 +42,19 @@
 
     --radius: 0.75rem;
 
-    /* Custom paper design tokens */
-    --paper-shadow: 0 2px 8px -2px hsl(var(--card-shadow) / 0.1);
-    --paper-shadow-hover: 0 4px 16px -4px hsl(var(--card-shadow) / 0.15);
-    --transition-smooth: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    /* Enhanced paper design tokens */
+    --paper-shadow: 0 3px 12px -3px hsl(var(--card-shadow) / 0.12), 0 1px 4px -1px hsl(var(--card-shadow) / 0.06);
+    --paper-shadow-hover: 0 6px 20px -6px hsl(var(--card-shadow) / 0.18), 0 2px 8px -2px hsl(var(--card-shadow) / 0.08);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    /* Paper texture simulation */
+    --paper-texture: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 1px,
+      hsl(var(--card-shadow) / 0.02) 1px,
+      hsl(var(--card-shadow) / 0.02) 2px
+    );
 
     --sidebar-background: 0 0% 98%;
 

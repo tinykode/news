@@ -13,10 +13,8 @@ interface ProviderSectionProps {
 }
 
 export const ProviderSection = ({ name, articles }: ProviderSectionProps) => {
-  // Split articles into two rows
-  const midPoint = Math.ceil(articles.length / 2);
-  const firstRow = articles.slice(0, midPoint);
-  const secondRow = articles.slice(midPoint);
+  // Show only top 6 articles in 2x3 grid
+  const topArticles = articles.slice(0, 6);
 
   return (
     <div className="mb-8">
@@ -24,32 +22,16 @@ export const ProviderSection = ({ name, articles }: ProviderSectionProps) => {
         {name}
       </h2>
       
-      {/* First row - horizontal scroll */}
-      <div className="overflow-x-auto scrollbar-hide mb-3">
-        <div className="flex gap-3 px-4" style={{ width: 'max-content' }}>
-          {firstRow.map((article, index) => (
-            <div key={article.id} className="w-48 flex-shrink-0">
-              <ArticleCard
-                title={article.title}
-                description={article.description}
-                url={article.url}
-              />
-            </div>
-          ))}
-        </div>
-      </div>
-
-      {/* Second row - horizontal scroll */}
-      <div className="overflow-x-auto scrollbar-hide">
-        <div className="flex gap-3 px-4" style={{ width: 'max-content' }}>
-          {secondRow.map((article, index) => (
-            <div key={article.id} className="w-48 flex-shrink-0">
-              <ArticleCard
-                title={article.title}
-                description={article.description}
-                url={article.url}
-              />
-            </div>
+      {/* 2x3 Grid */}
+      <div className="px-4">
+        <div className="grid grid-cols-2 gap-3 max-w-2xl mx-auto">
+          {topArticles.map((article) => (
+            <ArticleCard
+              key={article.id}
+              title={article.title}
+              description={article.description}
+              url={article.url}
+            />
           ))}
         </div>
       </div>
