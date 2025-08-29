@@ -3,40 +3,40 @@
     "name": "Hacker News",
     "articles": [
       {
-        "id": "hn-1",
-        "title": "Show HN: I built a tool to analyze code complexity",
-        "description": "A new approach to measuring technical debt and code maintainability using AST analysis and machine learning.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45068091",
+        "title": "Do the simplest thing that could possibly work",
+        "description": "Do the simplest thing that could possibly work",
+        "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
       },
       {
-        "id": "hn-2",
-        "title": "The hidden costs of serverless computing",
-        "description": "An in-depth analysis of when serverless makes sense and when traditional architecture is more cost-effective.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45068986",
+        "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+        "description": "The Theoretical Limitations of Embedding-Based Retrieval",
+        "url": "https://arxiv.org/abs/2508.21038"
       },
       {
-        "id": "hn-3",
-        "title": "WebAssembly is now supported in all major browsers",
-        "description": "The latest milestone in web performance brings native speed to web applications across all platforms.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45066395",
+        "title": "John Carmack's arguments against building a custom XR OS at Meta",
+        "description": "John Carmack's arguments against building a custom XR OS at Meta",
+        "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
       },
       {
-        "id": "hn-4",
-        "title": "Building resilient distributed systems with Rust",
-        "description": "Lessons learned from migrating a high-traffic service from Node.js to Rust for better performance.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45065705",
+        "title": "Essential Coding Theory [pdf]",
+        "description": "Essential Coding Theory [pdf]",
+        "url": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
       },
       {
-        "id": "hn-5",
-        "title": "The future of database design in 2024",
-        "description": "Exploring new paradigms in data storage, from graph databases to time-series optimizations.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45069014",
+        "title": "How to Stop Google from AI-Summarising Your Website",
+        "description": "How to Stop Google from AI-Summarising Your Website",
+        "url": "https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website"
       },
       {
-        "id": "hn-6",
-        "title": "Why I switched from React to Svelte",
-        "description": "A developer's journey comparing modern frontend frameworks and their real-world performance.",
-        "url": "https://news.ycombinator.com"
+        "id": "hn-45037419",
+        "title": "Lisp from Nothing, Second Edition",
+        "description": "Lisp from Nothing, Second Edition",
+        "url": "http://t3x.org/lfn/index.html"
       }
     ]
   },
@@ -44,40 +44,40 @@
     "name": "Reddit",
     "articles": [
       {
-        "id": "reddit-1",
-        "title": "Advice for junior developers starting their first job",
-        "description": "Senior engineers share practical tips for navigating your first software development role successfully.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n38vz6",
+        "title": "Petition to stop Google's attack on Android devs",
+        "description": "Sign the petition! 🫵✊🤝",
+        "url": "https://chng.it/7GrRtBnPtd"
       },
       {
-        "id": "reddit-2",
-        "title": "The best VS Code extensions for productivity in 2024",
-        "description": "Community recommendations for must-have extensions that will speed up your development workflow.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n3guzd",
+        "title": "The $69 Billion Domino Effect: How VMware’s Debt-Fueled Acquisition Is Killing Open Source, One Repository at a Time",
+        "description": "Bitnami’s decision to end its free tier by August 2025 has sparked widespread outrage among developers who rely on its services. This change is part of Broadcom CEO Hock Tan’s strategy to monetize essential software following acquisitions, impacting countless users and forcing companies to either pay steep fees or undergo costly migrations.",
+        "url": "https://fastcode.io/2025/08/30/the-69-billion-domino-effect-how-vmwares-debt-fueled-acquisition-is-killing-open-source-one-repository-at-a-time"
       },
       {
-        "id": "reddit-3",
-        "title": "How to debug production issues like a pro",
-        "description": "Step-by-step strategies for identifying and fixing critical bugs in live applications.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n2xsd1",
+        "title": "Open source dilemma in the EU too: many see benefits, too few contribute",
+        "description": "Open source dilemma in the EU too: many see benefits, too few contribute",
+        "url": "https://www.heise.de/en/news/Open-source-dilemma-in-the-EU-too-many-see-benefits-too-few-contribute-10624536.html"
       },
       {
-        "id": "reddit-4",
-        "title": "Understanding microservices architecture patterns",
-        "description": "Real examples of when to use microservices vs monoliths based on team size and complexity.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n3bl8q",
+        "title": "Grok's First Vibe-Coding Agent Has a High 'Dishonesty Rate'",
+        "description": "Grok's First Vibe-Coding Agent Has a High 'Dishonesty Rate'",
+        "url": "https://www.pcmag.com/news/groks-first-vibe-coding-agent-has-a-high-dishonesty-rate"
       },
       {
-        "id": "reddit-5",
-        "title": "Machine learning for software engineers",
-        "description": "Getting started with ML concepts without a PhD - practical applications for everyday development.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n3i1y1",
+        "title": "Cognitive Load is what matters",
+        "description": "Hi! It was posted a few times in past year, but every time I get valuable feedback. Thanks!",
+        "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "reddit-6",
-        "title": "Code review best practices that actually work",
-        "description": "How to give and receive constructive feedback that improves code quality and team culture.",
-        "url": "https://reddit.com/r/programming"
+        "id": "reddit-1n3brtd",
+        "title": "AI slop attacks on the curl project - Daniel Stenberg",
+        "description": "AI slop attacks on the curl project - Daniel Stenberg",
+        "url": "https://www.youtube.com/watch?v=6n2eDcRjSsk"
       }
     ]
   },
@@ -85,40 +85,40 @@
     "name": "Dev Community",
     "articles": [
       {
-        "id": "dev-1",
-        "title": "Building accessible web applications from the start",
-        "description": "Essential techniques for creating inclusive user experiences that work for everyone.",
-        "url": "https://dev.to"
+        "id": "dev-2796150",
+        "title": "10 Open Source Gems To Become The Ultimate Developer 🔥",
+        "description": "TL;DR   Every day we use different technological tools, already on automatism, although we...",
+        "url": "https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk"
       },
       {
-        "id": "dev-2",
-        "title": "CSS Grid vs Flexbox: When to use which",
-        "description": "Visual guide to choosing the right layout method for your responsive design needs.",
-        "url": "https://dev.to"
+        "id": "dev-2802642",
+        "title": "10 Open Source Tools Every Developer Should Know 🔥",
+        "description": "When studying a profession, we often encounter the fact that new knowledge gives us a feeling of the...",
+        "url": "https://dev.to/anthonymax/10-open-source-tools-every-developer-should-know-1c8i"
       },
       {
-        "id": "dev-3",
-        "title": "API design principles for developer happiness",
-        "description": "Creating RESTful APIs that are intuitive, consistent, and easy to integrate with.",
-        "url": "https://dev.to"
+        "id": "dev-2790781",
+        "title": "I built a bundle-saving UI tool and open-sourced it 🔥",
+        "description": "Hi community :) I have built HMPL, a bundle-saving UI tool and open-sourced it! :) Lately:   I got to...",
+        "url": "https://dev.to/anthonymax/i-built-a-bundle-saving-ui-tool-and-open-sourced-it-3e2e"
       },
       {
-        "id": "dev-4",
-        "title": "Docker containers for local development",
-        "description": "Setting up consistent development environments across your team using containerization.",
-        "url": "https://dev.to"
+        "id": "dev-2798876",
+        "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
+        "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
+        "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
       },
       {
-        "id": "dev-5",
-        "title": "Testing strategies for modern web applications",
-        "description": "Balancing unit, integration, and end-to-end tests for reliable software delivery.",
-        "url": "https://dev.to"
+        "id": "dev-2802575",
+        "title": "8 Tool Tech Stack to Build an Enterprise-Grade RAG System (Without the Headaches)",
+        "description": "Ever since I dove into a major enterprise RAG (Retrieval-Augmented Generation) project, I’ve learned...",
+        "url": "https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-42h"
       },
       {
-        "id": "dev-6",
-        "title": "Performance optimization techniques for React",
-        "description": "Practical methods to speed up your React applications and improve user experience.",
-        "url": "https://dev.to"
+        "id": "dev-2749944",
+        "title": "11+ Best V0 Alternatives That Every Developer Must Try",
+        "description": "Looking for the best V0 alternatives in 2025?  V0 (by Vercel) is a powerful AI web app builder that...",
+        "url": "https://dev.to/vinishbhaskar/v0-alternatives-4c8n"
       }
     ]
   }

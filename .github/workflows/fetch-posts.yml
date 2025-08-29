@@ -18,12 +18,15 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        
+
+    - name: Install dependencies
+      run: npm install
+
     - name: Create assets directory
       run: mkdir -p public/assets
       
     - name: Fetch posts
-      run: node scripts/fetchPosts.js
+      run: vite-node scripts/fetchPosts.js
       
     - name: Commit and push if changed
       run: |

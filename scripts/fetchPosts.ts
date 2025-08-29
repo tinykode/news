@@ -3,6 +3,8 @@ import { HackerNewsProvider } from './providers/HackerNewsProvider.js';
 import { RedditProvider } from './providers/RedditProvider.js';
 import { DevToProvider } from './providers/DevToProvider.js';
 
+import { Article } from './providers/BaseProvider.js';
+
 const providers = [
   new HackerNewsProvider(),
   new RedditProvider(),
@@ -10,8 +12,8 @@ const providers = [
 ];
 
 async function fetchAllPosts() {
-  const results = [];
-  
+  const results: { name: string; articles: Article[] }[] = [];
+
   for (const provider of providers) {
     try {
       console.log(`Fetching posts from ${provider.name}...`);
