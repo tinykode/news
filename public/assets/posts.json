@@ -9,16 +9,22 @@
         "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "hn-45080051",
-        "title": "Red is a next-generation programming language strongly inspired by REBOL",
-        "description": "Red is a next-generation programming language strongly inspired by REBOL",
-        "url": "https://github.com/red/red"
-      },
-      {
         "id": "hn-45080388",
         "title": "Sheafification – The optimal path to mathematical mastery",
         "description": "Sheafification – The optimal path to mathematical mastery",
         "url": "https://sheafification.com/the-fast-track/"
+      },
+      {
+        "id": "hn-45080051",
+        "title": "Red: A programming language inspired by REBOL",
+        "description": "Red: A programming language inspired by REBOL",
+        "url": "https://github.com/red/red"
+      },
+      {
+        "id": "hn-45080538",
+        "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+        "description": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+        "url": "https://www.bbc.com/news/articles/c0l6ye6xe12o"
       },
       {
         "id": "hn-45079911",
@@ -31,12 +37,6 @@
         "title": "Why did books start being divided into chapters? A new history",
         "description": "Why did books start being divided into chapters? A new history",
         "url": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer"
-      },
-      {
-        "id": "hn-45080538",
-        "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
-        "description": "Intermittent fasting correlated with increased risk of cardiovascular disease",
-        "url": "https://www.bbc.com/news/articles/c0l6ye6xe12o"
       }
     ]
   },
