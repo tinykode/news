@@ -1,6 +1,6 @@
 [
   {
-    "name": "Hacker News",
+    "name": "Hacker News AI",
     "articles": [
       {
         "id": "hn-45017028",
@@ -9,112 +9,116 @@
         "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
       },
       {
-        "id": "hn-45074248",
-        "title": "Cognitive load is what matters",
-        "url": "https://github.com/zakirullin/cognitive-load"
-      },
-      {
         "id": "hn-45026719",
         "title": "Gemini 2.5 Flash Image",
         "description": "Also: <a href=\"https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;</a>, \n<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-model-gets-a-bananas-upgrade&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-mo...</a>",
         "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
       },
       {
-        "id": "hn-45068091",
-        "title": "Do the simplest thing that could possibly work",
-        "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
+        "id": "hn-45030760",
+        "title": "Claude for Chrome",
+        "description": "See also <a href=\"https:&#x2F;&#x2F;claude.ai&#x2F;chrome\" rel=\"nofollow\">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a>",
+        "url": "https://www.anthropic.com/news/claude-for-chrome"
       },
       {
-        "id": "hn-44985730",
-        "title": "FFmpeg 8.0",
-        "url": "https://ffmpeg.org/index.html#pr8.0"
+        "id": "hn-44976568",
+        "title": "AI tooling must be disclosed for contributions",
+        "description": "AI tooling must be disclosed for contributions",
+        "url": "https://github.com/ghostty-org/ghostty/pull/8289"
       },
       {
-        "id": "hn-45010876",
-        "title": "What are OKLCH colors?",
-        "url": "https://jakub.kr/components/oklch-colors"
+        "id": "hn-45014131",
+        "title": "Show HN: Base, an SQLite database editor for macOS",
+        "description": "I recently released v3 of Base, my SQLite editor for macOS.<p>The goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.<p>The coolest features are<p>- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.<p>- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.<p>This update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.<p>I&#x27;d love to hear any feedback or answer any questions.",
+        "url": "https://menial.co.uk/base/"
+      },
+      {
+        "id": "hn-45004846",
+        "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
+        "description": "Comet AI browser can get prompt injected from any site, drain your bank account",
+        "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
       }
     ]
   },
   {
-    "name": "Reddit",
+    "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-webdev-n2kq37wgj",
-        "title": "[r/webdev] [AMA] The Future of AI Agents in Coding with Guy Gur-Ari & Igor Ostrovsky, co-founders of Augment Code. Aug 29, 10am PT / 1pm ET. We’ll answer questions on the future of AI agents and why context matters in AI coding on r/webdev. Ask us anything!",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/webdev/comments/1mzxiyq/ama_the_future_of_ai_agents_in_coding_with_guy/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/zG8fQuL632tUuZ...",
-        "url": "https://www.reddit.com/r/webdev/comments/1mzxiyq/ama_the_future_of_ai_agents_in_coding_with_guy/"
+        "id": "reddit-ChatGPT-b9kpt8fif",
+        "title": "[r/ChatGPT] GPT-5 AMA with OpenAI’s Sam Altman and some of the GPT-5 team",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Ask us anything about GPT-5, but don’t ask us about GPT-6 (yet).</p> <p>Participating in the AMA: </p> <ul> <li>sam altman — ceo (<a href=&quot;https://w...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/"
       },
       {
-        "id": "reddit-reactjs-64t1qy8ty",
-        "title": "[r/reactjs] Am I overengineering my folder structure in a React project?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone!</p> <p>I&#39;m organizing a React project (with TypeScript, Zustand, and React Query) and created a very specific folder structure for each...",
-        "url": "https://www.reddit.com/r/reactjs/comments/1n50j6q/am_i_overengineering_my_folder_structure_in_a/"
+        "id": "reddit-LocalLLaMA-kyy4hskg6",
+        "title": "[r/LocalLLaMA] LongCat-Flash-Chat 560B MoE",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/&quot;> <img src=&quot;https://preview.redd.it/4pfegt9ezcmf1.png?width=640&amp;crop=sma...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/"
       },
       {
-        "id": "reddit-javascript-1fa1igjya",
-        "title": "[r/javascript] Your /r/javascript recap for the week of August 11 - August 17, 2025",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>Monday, August 11 - Sunday, August 17, 2025</strong></p> <h3>Top Posts</h3> <table><thead> <tr> <th>score</th> <th>comments</th> <th>title &amp; ...",
-        "url": "https://www.reddit.com/r/javascript/comments/1mtgve3/your_rjavascript_recap_for_the_week_of_august_11/"
+        "id": "reddit-MachineLearning-nrhkvxlie",
+        "title": "[r/MachineLearning] [D] What is up with Tensorflow and JAX?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hi all,</p> <p>been in the Machine Learning world till 2021, I still mostly used the old TF 1.x interface and just used TF2.x for a short time. Last work...",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4nm4h/d_what_is_up_with_tensorflow_and_jax/"
       },
       {
-        "id": "reddit-javascript-odkwe7fwv",
-        "title": "[r/javascript] What do you think about this CLI tool for managing and opening multiple projects easily?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone! 👋</p> <p>I built <strong>OpenMate</strong>, a CLI tool to help developers quickly manage and open their projects without navigating direct...",
-        "url": "https://www.reddit.com/r/javascript/comments/1n4uyvl/what_do_you_think_about_this_cli_tool_for/"
+        "id": "reddit-LocalLLaMA-qcep4tt53",
+        "title": "[r/LocalLLaMA] The Huawei GPU is not equivalent to an RTX 6000 Pro whatsoever",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>This is a response to the recent viral post about the “amazing” Huawei GPU offering 96 GB for “only” 2000$ when Nvidia is way more expensive. (Edit: as m...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4wo0y/the_huawei_gpu_is_not_equivalent_to_an_rtx_6000/"
       },
       {
-        "id": "reddit-webdev-maubq11fj",
-        "title": "[r/webdev] Monthly Getting Started / Web Dev Career Thread",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat...",
-        "url": "https://www.reddit.com/r/webdev/comments/1meukh3/monthly_getting_started_web_dev_career_thread/"
+        "id": "reddit-artificial-jt1ij98ax",
+        "title": "[r/artificial] xAI's Grok has no place in US federal government, say advocacy groups",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/&quot;> <img src=&quot;https://external-preview.redd.it/qK3LxpV3Z...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/"
       },
       {
-        "id": "reddit-programming-f71fie5ep",
-        "title": "[r/programming] Turn off Cursor, turn on your mind",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>A case against agentic coding</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/Low-Strawberry7579&quot;> /u/Lo...",
-        "url": "https://www.reddit.com/r/programming/comments/1n4ufic/turn_off_cursor_turn_on_your_mind/"
+        "id": "reddit-deeplearning-8y7wk9dsn",
+        "title": "[r/deeplearning] 23yo AI student in Italy looking for career advice",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hello everyone, I&#39;m a AI student, currently in a 3-year AI bachelor&#39;s program in Italy. I&#39;m trying to figure out my next career steps and wou...",
+        "url": "https://www.reddit.com/r/deeplearning/comments/1n4qll8/23yo_ai_student_in_italy_looking_for_career_advice/"
       }
     ]
   },
   {
-    "name": "Dev Community",
+    "name": "Dev Community AI",
     "articles": [
       {
-        "id": "dev-2796150",
-        "title": "10 Open Source Gems To Become The Ultimate Developer 🔥",
-        "description": "TL;DR   Every day we use different technological tools, already on automatism, although we...",
-        "url": "https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk"
+        "id": "dev-2720785",
+        "title": "Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!",
+        "description": "We're thrilled to partner with n8n and Bright Data to bring the community a brand new...",
+        "url": "https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb"
       },
       {
-        "id": "dev-2808520",
-        "title": "10 Open Source Tools Every Developer Should Know 🔥",
-        "description": "When studying a profession, we often encounter the fact that new knowledge gives us a feeling of the...",
-        "url": "https://dev.to/anthonymax/10-open-source-tools-every-developer-should-know-559p"
+        "id": "dev-2767019",
+        "title": "MemMouse — Enterprise Memory Management",
+        "description": "This is a submission for the Redis AI Challenge: Beyond the Cache.           What I Built   MemMouse...",
+        "url": "https://dev.to/vsoldatov/memmouse-enterprise-memory-management-m9o"
+      },
+      {
+        "id": "dev-2756682",
+        "title": "LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️",
+        "description": "When we talk about such a topic as data storage, we immediately remember these 3 concepts. But here's...",
+        "url": "https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d"
+      },
+      {
+        "id": "dev-2783813",
+        "title": "Build Your Own AI Stock Portfolio Agent with Agno + AG-UI",
+        "description": "In this guide, you will learn how to integrate Agno agents with the AG-UI protocol.   Additionally,...",
+        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp"
+      },
+      {
+        "id": "dev-2754197",
+        "title": "Build a Fullstack Stock Portfolio Agent with CrewAI and AG-UI",
+        "description": "In this guide, you will learn how to integrate CrewAI agents with AG-UI protocol. Also, we will cover...",
+        "url": "https://dev.to/copilotkit/how-to-integrate-crewai-agents-with-ag-ui-protocol-crewai-ag-ui-copilotkit-3n1d"
       },
       {
         "id": "dev-2798876",
         "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
         "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
         "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
-      },
-      {
-        "id": "dev-2802575",
-        "title": "8 Tool Tech Stack to Build an Enterprise-Grade RAG System (Without the Headaches)",
-        "description": "Ever since I dove into a major enterprise RAG (Retrieval-Augmented Generation) project, I’ve learned...",
-        "url": "https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-42h"
-      },
-      {
-        "id": "dev-2752922",
-        "title": "How I Built an Interactive Asteroid Dashboard with NASA's Data",
-        "description": "I was scrolling through Instagram the other day and stumbled on a reel.  The creator was listing...",
-        "url": "https://dev.to/arjuncodess/how-i-built-an-interactive-asteroid-dashboard-with-nasas-data-12li"
-      },
-      {
-        "id": "dev-2749944",
-        "title": "11+ Best V0 Alternatives That Every Developer Must Try",
-        "description": "Looking for the best V0 alternatives in 2025?  V0 (by Vercel) is a powerful AI web app builder that...",
-        "url": "https://dev.to/vinishbhaskar/v0-alternatives-4c8n"
       }
     ]
   }

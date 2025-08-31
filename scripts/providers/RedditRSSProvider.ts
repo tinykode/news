@@ -1,57 +1,18 @@
 import { BaseProvider, Article } from './BaseProvider.js';
 
 export class RedditRSSProvider extends BaseProvider {
-  name = 'Reddit';
+  name = 'Reddit AI';
   
-  // Default subreddits to fetch from
   private subreddits = [
-    'programming',
-    'webdev', 
-    'javascript',
-    'reactjs',
-    'Frontend'
+    'MachineLearning',
+    'artificial',
+    'ChatGPT',
+    'OpenAI',
+    'LocalLLaMA',
+    'singularity',
+    'deeplearning'
   ];
   
-  constructor(subreddits?: string[]) {
-    super();
-    if (subreddits && subreddits.length > 0) {
-      this.subreddits = subreddits;
-    }
-  }
-  
-  // Static factory methods for common configurations
-  static createProgrammingFocused(): RedditRSSProvider {
-    return new RedditRSSProvider(['programming', 'webdev', 'javascript', 'reactjs', 'Frontend']);
-  }
-  
-  static createTechNews(): RedditRSSProvider {
-    return new RedditRSSProvider(['technology', 'programming', 'MachineLearning', 'artificial', 'startups']);
-  }
-  
-  static createFullStack(): RedditRSSProvider {
-    return new RedditRSSProvider(['programming', 'webdev', 'Frontend', 'backend', 'devops', 'docker']);
-  }
-  
-  // Method to get current subreddits
-  getSubreddits(): string[] {
-    return [...this.subreddits];
-  }
-  
-  // Method to add a subreddit
-  addSubreddit(subreddit: string): void {
-    if (!this.subreddits.includes(subreddit)) {
-      this.subreddits.push(subreddit);
-    }
-  }
-  
-  // Method to remove a subreddit
-  removeSubreddit(subreddit: string): void {
-    const index = this.subreddits.indexOf(subreddit);
-    if (index > -1) {
-      this.subreddits.splice(index, 1);
-    }
-  }
-
   async fetchPosts(): Promise<Article[]> {
     try {
       const allArticles: Article[] = [];

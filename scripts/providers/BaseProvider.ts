@@ -12,6 +12,6 @@ export abstract class BaseProvider {
   
   async getTopPosts(): Promise<Article[]> {
     const posts = await this.fetchPosts();
-    return posts.slice(0, 6);
+    return posts.slice(0, 10);
   }
 }

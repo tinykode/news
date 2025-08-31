@@ -1,73 +1,91 @@
-# Welcome to your Lovable project
+# AI Paper Feed 🤖
 
-## Project info
+An AI-focused news aggregator that curates the latest and most interesting posts about artificial intelligence, machine learning, and large language models from multiple sources.
 
-**URL**: https://lovable.dev/projects/403e6340-ac73-44c7-90fb-09b169e8f852
+## 🚀 Features
 
-## How can I edit this code?
+- **Multi-source AI content**: Aggregates AI-related posts from Hacker News, Reddit AI communities, and Dev.to
+- **Smart filtering**: Uses keyword matching and tag filtering to ensure only AI/ML content is displayed
+- **Real-time updates**: Fresh content fetched regularly from multiple providers
+- **Clean interface**: Modern, responsive design built with React and shadcn/ui
 
-There are several ways of editing your application.
+## 📊 Data Sources
 
-**Use Lovable**
+### Hacker News AI
+- Filters top stories for AI-related content using comprehensive keyword matching
+- Keywords include: AI, machine learning, neural networks, LLM, GPT, ChatGPT, OpenAI, Claude, etc.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/403e6340-ac73-44c7-90fb-09b169e8f852) and start prompting.
+### Reddit AI Communities
+- Fetches from AI-focused subreddits: MachineLearning, artificial, ChatGPT, OpenAI, LocalLLaMA, singularity, deeplearning
+- Configurable subreddit selection with preset configurations for different AI focuses
 
-Changes made via Lovable will be committed automatically to this repo.
+### Dev Community AI
+- Filters Dev.to articles for AI-related tags and content
+- Searches both tagged AI content and filters general articles for AI keywords
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## 🛠 Technologies
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Frontend**: React, TypeScript, Vite
+- **UI**: shadcn-ui, Tailwind CSS
+- **Data Fetching**: Node.js scripts with multiple provider architecture
+- **Deployment**: Lovable platform
 
-## How can I deploy this project?
+## 🚀 Quick Start
 
-Simply open [Lovable](https://lovable.dev/projects/403e6340-ac73-44c7-90fb-09b169e8f852) and click on Share -> Publish.
+```sh
+# Clone the repository
+git clone <YOUR_GIT_URL>
 
-## Can I connect a custom domain to my Lovable project?
+# Navigate to project directory
+cd <YOUR_PROJECT_NAME>
 
-Yes, you can!
+# Install dependencies
+npm i
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# Fetch latest AI posts
+npm run prepare:posts
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Start development server
+npm run dev
+```
+
+## 📝 Configuration
+
+### Reddit Provider Options
+
+```typescript
+// Default AI-focused subreddits
+new RedditRSSProvider()
+
+// Pre-configured options
+RedditRSSProvider.createLLMFocused()    // LLM-specific communities
+RedditRSSProvider.createAIResearch()    // Research-focused communities  
+RedditRSSProvider.createGeneralAI()     // General AI discussions
+
+// Custom subreddits
+new RedditRSSProvider(['ChatGPT', 'OpenAI', 'ClaudeAI'])
+```
+
+### Adding New Providers
+
+The architecture supports easy addition of new AI content providers. Simply extend the `BaseProvider` class and implement the `fetchPosts()` method with appropriate AI content filtering.
+
+## 🔄 Content Updates
+
+Posts are fetched via the `prepare:posts` script, which:
+1. Calls each provider to fetch AI-related content
+2. Applies filtering based on keywords and tags
+3. Removes duplicates and shuffles for diversity
+4. Saves results to `public/assets/posts.json`
+
+## 📱 Deployment
+
+### Via Lovable
+1. Open [Lovable Project](https://lovable.dev/projects/403e6340-ac73-44c7-90fb-09b169e8f852)
+2. Click Share → Publish
+
+### Custom Domain
+Navigate to Project > Settings > Domains and click Connect Domain.
+[Learn more about custom domains](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
