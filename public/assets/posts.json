@@ -9,16 +9,16 @@
         "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "hn-45080051",
-        "title": "Red: A programming language inspired by REBOL",
-        "description": "Red: A programming language inspired by REBOL",
-        "url": "https://github.com/red/red"
-      },
-      {
         "id": "hn-45080388",
         "title": "Sheafification – The optimal path to mathematical mastery",
         "description": "Sheafification – The optimal path to mathematical mastery",
         "url": "https://sheafification.com/the-fast-track/"
+      },
+      {
+        "id": "hn-45080051",
+        "title": "Red: A programming language inspired by REBOL",
+        "description": "Red: A programming language inspired by REBOL",
+        "url": "https://github.com/red/red"
       },
       {
         "id": "hn-45080538",
@@ -42,7 +42,44 @@
   },
   {
     "name": "Reddit",
-    "articles": []
+    "articles": [
+      {
+        "id": "reddit-0p2sveznh",
+        "title": "WoW private servers C++ code review by Tariq10x",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>High quality deep dive on how private servers work under the hood. As someone who played on these back in the days I always wondered how they pulled it o...",
+        "url": "https://www.reddit.com/r/programming/comments/1n47l0k/wow_private_servers_c_code_review_by_tariq10x/"
+      },
+      {
+        "id": "reddit-a5vzlkjde",
+        "title": "Why &quot;What Happened First?&quot; Is One of the Hardest Questions in Large-Scale Systems",
+        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/scalablethread&quot;> /u/scalablethread </a> <br/> <span><a href=&quot;https://newsletter.scalablethread.com/p/why-what-happened-f...",
+        "url": "https://www.reddit.com/r/programming/comments/1n4dldv/why_what_happened_first_is_one_of_the_hardest/"
+      },
+      {
+        "id": "reddit-yv057ywla",
+        "title": "Second edition of tinyrenderer: software rendering in 500 lines of bare C++",
+        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/haqreu&quot;> /u/haqreu </a> <br/> <span><a href=&quot;https://haqr.eu/tinyrenderer/&quot;>[link]</a></span> &#32; <span><a href=&...",
+        "url": "https://www.reddit.com/r/programming/comments/1n4bxwe/second_edition_of_tinyrenderer_software_rendering/"
+      },
+      {
+        "id": "reddit-4mwtaxomr",
+        "title": "The Parallelism Mesh Zoo",
+        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/mttd&quot;> /u/mttd </a> <br/> <span><a href=&quot;https://blog.ezyang.com/2025/08/the-parallelism-mesh-zoo/&quot;>[link]</a></spa...",
+        "url": "https://www.reddit.com/r/programming/comments/1n4n74c/the_parallelism_mesh_zoo/"
+      },
+      {
+        "id": "reddit-bkwhpabxn",
+        "title": "The $69 Billion Domino Effect: How VMware’s Debt-Fueled Acquisition Is Killing Open Source, One Repository at a Time",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Bitnami’s decision to end its free tier by August 2025 has sparked widespread outrage among developers who rely on its services. This change is part of B...",
+        "url": "https://www.reddit.com/r/programming/comments/1n3guzd/the_69_billion_domino_effect_how_vmwares/"
+      },
+      {
+        "id": "reddit-mgamajlq6",
+        "title": "Engineers turned managers/client-facing: What actually helped with the communication learning curve?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone,</p> <p>I&#39;ve been on the technical side of data space (i.e. data scientist, data engineer) who recently got promoted to a more client-fa...",
+        "url": "https://www.reddit.com/r/programming/comments/1n4n934/engineers_turned_managersclientfacing_what/"
+      }
+    ]
   },
   {
     "name": "Dev Community",
