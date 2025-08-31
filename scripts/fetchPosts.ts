@@ -1,13 +1,13 @@
 import { writeFileSync } from 'fs';
 import { HackerNewsProvider } from './providers/HackerNewsProvider.js';
-import { RedditProvider } from './providers/RedditProvider.js';
+import { RedditRSSProvider } from './providers/RedditRSSProvider.js';
 import { DevToProvider } from './providers/DevToProvider.js';
 
 import { Article } from './providers/BaseProvider.js';
 
 const providers = [
   new HackerNewsProvider(),
-  new RedditProvider(),
+  new RedditRSSProvider(),
   new DevToProvider()
 ];
 
