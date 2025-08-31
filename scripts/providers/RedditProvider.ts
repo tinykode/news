@@ -5,7 +5,12 @@ export class RedditProvider extends BaseProvider {
 
   async fetchPosts(): Promise<Article[]> {
     try {
-      const response = await fetch('https://www.reddit.com/r/programming/hot.json?limit=10');
+      const response = await fetch('https://www.reddit.com/r/programming/hot.json?limit=10', {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+      });
+      console.log(response);
       const data = await response.json();
       
       return data.data.children
