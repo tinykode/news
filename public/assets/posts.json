@@ -37,6 +37,30 @@
         "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
         "description": "Comet AI browser can get prompt injected from any site, drain your bank account",
         "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
+      },
+      {
+        "id": "hn-45062614",
+        "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "description": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+      },
+      {
+        "id": "hn-45062910",
+        "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "description": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
+      },
+      {
+        "id": "hn-45066395",
+        "title": "John Carmack's arguments against building a custom XR OS at Meta",
+        "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a>",
+        "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
+      },
+      {
+        "id": "hn-45050415",
+        "title": "Are OpenAI and Anthropic losing money on inference?",
+        "description": "Are OpenAI and Anthropic losing money on inference?",
+        "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
       }
     ]
   },
@@ -44,40 +68,64 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-ChatGPT-b9kpt8fif",
-        "title": "[r/ChatGPT] GPT-5 AMA with OpenAI’s Sam Altman and some of the GPT-5 team",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Ask us anything about GPT-5, but don’t ask us about GPT-6 (yet).</p> <p>Participating in the AMA: </p> <ul> <li>sam altman — ceo (<a href=&quot;https://w...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/"
+        "id": "reddit-deeplearning-fruipg97y",
+        "title": "[r/deeplearning] Parctical guide: fine-tuning Qwen3 with LoRA. KL-anchored SFT and β-tuned DPO",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>You can steer a <strong>language model toward</strong> target behaviors without degrading general capabilities by tuning two knobs: add a small <strong>K...",
+        "url": "https://www.reddit.com/r/deeplearning/comments/1n51q0y/parctical_guide_finetuning_qwen3_with_lora/"
       },
       {
-        "id": "reddit-LocalLLaMA-kyy4hskg6",
-        "title": "[r/LocalLLaMA] LongCat-Flash-Chat 560B MoE",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/&quot;> <img src=&quot;https://preview.redd.it/4pfegt9ezcmf1.png?width=640&amp;crop=sma...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/"
+        "id": "reddit-OpenAI-xtl8zkfjb",
+        "title": "[r/OpenAI] I asked GPT, ‘Give me a life hack so good it feels illegal.’",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n4jq0k/i_asked_gpt_give_me_a_life_hack_so_good_it_feels/&quot;> <img src=&quot;https://preview.redd.it/bqbxatjyq9mf1.jpeg?wi...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n4jq0k/i_asked_gpt_give_me_a_life_hack_so_good_it_feels/"
       },
       {
-        "id": "reddit-MachineLearning-nrhkvxlie",
-        "title": "[r/MachineLearning] [D] What is up with Tensorflow and JAX?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hi all,</p> <p>been in the Machine Learning world till 2021, I still mostly used the old TF 1.x interface and just used TF2.x for a short time. Last work...",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4nm4h/d_what_is_up_with_tensorflow_and_jax/"
+        "id": "reddit-OpenAI-f6d0aouue",
+        "title": "[r/OpenAI] Plus users will continue to have access to GPT-4o, while other legacy models will no longer be available.",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n4tm4d/plus_users_will_continue_to_have_access_to_gpt4o/&quot;> <img src=&quot;https://preview.redd.it/jijjqtx4ocmf1.png?wid...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n4tm4d/plus_users_will_continue_to_have_access_to_gpt4o/"
       },
       {
-        "id": "reddit-LocalLLaMA-qcep4tt53",
-        "title": "[r/LocalLLaMA] The Huawei GPU is not equivalent to an RTX 6000 Pro whatsoever",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>This is a response to the recent viral post about the “amazing” Huawei GPU offering 96 GB for “only” 2000$ when Nvidia is way more expensive. (Edit: as m...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4wo0y/the_huawei_gpu_is_not_equivalent_to_an_rtx_6000/"
+        "id": "reddit-artificial-p7n8h75ar",
+        "title": "[r/artificial] People thinking Al will end all jobs are hallucinating- Yann LeCun reposted",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n3kvkm/people_thinking_al_will_end_all_jobs_are/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/_Tq4H-TcIT30ZggJ...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n3kvkm/people_thinking_al_will_end_all_jobs_are/"
       },
       {
-        "id": "reddit-artificial-jt1ij98ax",
-        "title": "[r/artificial] xAI's Grok has no place in US federal government, say advocacy groups",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/&quot;> <img src=&quot;https://external-preview.redd.it/qK3LxpV3Z...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/"
+        "id": "reddit-singularity-bbwpxgdot",
+        "title": "[r/singularity] Advanced Voice Mode was one of the biggest disappointments in AI",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>When OpenAI first announced gpt-4o and hyped about all the cool Speech-to-speech things it was able to do, I was so excited. Who wouldn&#39;t be? During ...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n4y03s/advanced_voice_mode_was_one_of_the_biggest/"
       },
       {
-        "id": "reddit-deeplearning-8y7wk9dsn",
+        "id": "reddit-OpenAI-vmaxdlerl",
+        "title": "[r/OpenAI] Codex vscode usage limit. Wtf?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n4xhn8/codex_vscode_usage_limit_wtf/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/F4qC2_TXD6tXotVJxaDi80YeAjK2lNrT...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n4xhn8/codex_vscode_usage_limit_wtf/"
+      },
+      {
+        "id": "reddit-deeplearning-pavd8fb7k",
         "title": "[r/deeplearning] 23yo AI student in Italy looking for career advice",
         "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hello everyone, I&#39;m a AI student, currently in a 3-year AI bachelor&#39;s program in Italy. I&#39;m trying to figure out my next career steps and wou...",
         "url": "https://www.reddit.com/r/deeplearning/comments/1n4qll8/23yo_ai_student_in_italy_looking_for_career_advice/"
+      },
+      {
+        "id": "reddit-LocalLLaMA-7zz8vrd1v",
+        "title": "[r/LocalLLaMA] Launching Our New AMA Series With Z.AI, Creators of GLM (Tomorrow, 9AM-12PM PST)",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n1unkv/launching_our_new_ama_series_with_zai_creators_of/&quot;> <img src=&quot;https://preview.redd.it/ek8o2pfzumlf1.jp...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n1unkv/launching_our_new_ama_series_with_zai_creators_of/"
+      },
+      {
+        "id": "reddit-artificial-r20vp8k7r",
+        "title": "[r/artificial] ‘Sliding into an abyss’: experts warn over rising use of AI for mental health support",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n44u8v/sliding_into_an_abyss_experts_warn_over_rising/&quot;> <img src=&quot;https://external-preview.redd.it/iaJjI8iQih...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n44u8v/sliding_into_an_abyss_experts_warn_over_rising/"
+      },
+      {
+        "id": "reddit-OpenAI-xsizx06g7",
+        "title": "[r/OpenAI] The AI did something Ive never seen before today",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’m writing a story (yes I’m actually writing it myself), but have been using chatgpt for image creation. I always try to keep the images safe and within...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n4k5k5/the_ai_did_something_ive_never_seen_before_today/"
       }
     ]
   },
@@ -119,6 +167,30 @@
         "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
         "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
         "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
+      },
+      {
+        "id": "dev-2748377",
+        "title": "CI/CD Pipeline for Secure Java Alert System with Docker & GitHub Actions",
+        "description": "This setup defines a CI/CD pipeline and containerization strategy for the Critical Alert System, a...",
+        "url": "https://dev.to/michael_isijola_31f98c8dc/cicd-pipeline-for-secure-java-alert-system-with-docker-github-actions-pj"
+      },
+      {
+        "id": "dev-2783975",
+        "title": "There's something off in the \"dev with AI or die\" narrative",
+        "description": "It's everywhere, it's eating up every other dev topic debate: learn to dev with AI or you'll be...",
+        "url": "https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975"
+      },
+      {
+        "id": "dev-2769953",
+        "title": "Build Your Own AI Stock Portfolio Agent with LlamaIndex + AG-UI",
+        "description": "In this guide, you will learn how to integrate LlamaIndex agents with the AG-UI protocol. Also, we...",
+        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-llamaindex-ag-ui-62"
+      },
+      {
+        "id": "dev-2750123",
+        "title": "How I Designed a Credit System That Actually Makes Users Upgrade",
+        "description": "In the first 24 hours after launching Learnflow AI, I was quietly optimistic. Users signed up....",
+        "url": "https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5"
       }
     ]
   }
