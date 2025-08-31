@@ -3,83 +3,46 @@
     "name": "Hacker News",
     "articles": [
       {
-        "id": "hn-45068091",
-        "title": "Do the simplest thing that could possibly work",
-        "description": "Do the simplest thing that could possibly work",
-        "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
+        "id": "hn-45074248",
+        "title": "Cognitive load is what matters",
+        "description": "Cognitive load is what matters",
+        "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "hn-45068986",
-        "title": "The Theoretical Limitations of Embedding-Based Retrieval",
-        "description": "The Theoretical Limitations of Embedding-Based Retrieval",
-        "url": "https://arxiv.org/abs/2508.21038"
+        "id": "hn-45080051",
+        "title": "Red is a next-generation programming language strongly inspired by REBOL",
+        "description": "Red is a next-generation programming language strongly inspired by REBOL",
+        "url": "https://github.com/red/red"
       },
       {
-        "id": "hn-45066395",
-        "title": "John Carmack's arguments against building a custom XR OS at Meta",
-        "description": "John Carmack's arguments against building a custom XR OS at Meta",
-        "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
+        "id": "hn-45080388",
+        "title": "Sheafification – The optimal path to mathematical mastery",
+        "description": "Sheafification – The optimal path to mathematical mastery",
+        "url": "https://sheafification.com/the-fast-track/"
       },
       {
-        "id": "hn-45065705",
-        "title": "Essential Coding Theory [pdf]",
-        "description": "Essential Coding Theory [pdf]",
-        "url": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+        "id": "hn-45079911",
+        "title": "Are people's bosses making them use AI tools?",
+        "description": "Are people's bosses making them use AI tools?",
+        "url": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/"
       },
       {
-        "id": "hn-45069014",
-        "title": "How to Stop Google from AI-Summarising Your Website",
-        "description": "How to Stop Google from AI-Summarising Your Website",
-        "url": "https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website"
+        "id": "hn-45077735",
+        "title": "Why did books start being divided into chapters? A new history",
+        "description": "Why did books start being divided into chapters? A new history",
+        "url": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer"
       },
       {
-        "id": "hn-45037419",
-        "title": "Lisp from Nothing, Second Edition",
-        "description": "Lisp from Nothing, Second Edition",
-        "url": "http://t3x.org/lfn/index.html"
+        "id": "hn-45080538",
+        "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+        "description": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+        "url": "https://www.bbc.com/news/articles/c0l6ye6xe12o"
       }
     ]
   },
   {
     "name": "Reddit",
-    "articles": [
-      {
-        "id": "reddit-1n38vz6",
-        "title": "Petition to stop Google's attack on Android devs",
-        "description": "Sign the petition! 🫵✊🤝",
-        "url": "https://chng.it/7GrRtBnPtd"
-      },
-      {
-        "id": "reddit-1n3guzd",
-        "title": "The $69 Billion Domino Effect: How VMware’s Debt-Fueled Acquisition Is Killing Open Source, One Repository at a Time",
-        "description": "Bitnami’s decision to end its free tier by August 2025 has sparked widespread outrage among developers who rely on its services. This change is part of Broadcom CEO Hock Tan’s strategy to monetize essential software following acquisitions, impacting countless users and forcing companies to either pay steep fees or undergo costly migrations.",
-        "url": "https://fastcode.io/2025/08/30/the-69-billion-domino-effect-how-vmwares-debt-fueled-acquisition-is-killing-open-source-one-repository-at-a-time"
-      },
-      {
-        "id": "reddit-1n2xsd1",
-        "title": "Open source dilemma in the EU too: many see benefits, too few contribute",
-        "description": "Open source dilemma in the EU too: many see benefits, too few contribute",
-        "url": "https://www.heise.de/en/news/Open-source-dilemma-in-the-EU-too-many-see-benefits-too-few-contribute-10624536.html"
-      },
-      {
-        "id": "reddit-1n3bl8q",
-        "title": "Grok's First Vibe-Coding Agent Has a High 'Dishonesty Rate'",
-        "description": "Grok's First Vibe-Coding Agent Has a High 'Dishonesty Rate'",
-        "url": "https://www.pcmag.com/news/groks-first-vibe-coding-agent-has-a-high-dishonesty-rate"
-      },
-      {
-        "id": "reddit-1n3i1y1",
-        "title": "Cognitive Load is what matters",
-        "description": "Hi! It was posted a few times in past year, but every time I get valuable feedback. Thanks!",
-        "url": "https://github.com/zakirullin/cognitive-load"
-      },
-      {
-        "id": "reddit-1n3brtd",
-        "title": "AI slop attacks on the curl project - Daniel Stenberg",
-        "description": "AI slop attacks on the curl project - Daniel Stenberg",
-        "url": "https://www.youtube.com/watch?v=6n2eDcRjSsk"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Dev Community",
@@ -91,16 +54,10 @@
         "url": "https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk"
       },
       {
-        "id": "dev-2802642",
+        "id": "dev-2808520",
         "title": "10 Open Source Tools Every Developer Should Know 🔥",
         "description": "When studying a profession, we often encounter the fact that new knowledge gives us a feeling of the...",
-        "url": "https://dev.to/anthonymax/10-open-source-tools-every-developer-should-know-1c8i"
-      },
-      {
-        "id": "dev-2790781",
-        "title": "I built a bundle-saving UI tool and open-sourced it 🔥",
-        "description": "Hi community :) I have built HMPL, a bundle-saving UI tool and open-sourced it! :) Lately:   I got to...",
-        "url": "https://dev.to/anthonymax/i-built-a-bundle-saving-ui-tool-and-open-sourced-it-3e2e"
+        "url": "https://dev.to/anthonymax/10-open-source-tools-every-developer-should-know-559p"
       },
       {
         "id": "dev-2798876",
@@ -113,6 +70,12 @@
         "title": "8 Tool Tech Stack to Build an Enterprise-Grade RAG System (Without the Headaches)",
         "description": "Ever since I dove into a major enterprise RAG (Retrieval-Augmented Generation) project, I’ve learned...",
         "url": "https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-42h"
+      },
+      {
+        "id": "dev-2752922",
+        "title": "How I Built an Interactive Asteroid Dashboard with NASA's Data",
+        "description": "I was scrolling through Instagram the other day and stumbled on a reel.  The creator was listing...",
+        "url": "https://dev.to/arjuncodess/how-i-built-an-interactive-asteroid-dashboard-with-nasas-data-12li"
       },
       {
         "id": "dev-2749944",
