@@ -7,7 +7,11 @@ import { Article } from './providers/BaseProvider.js';
 
 const providers = [
   new HackerNewsProvider(),
-  new RedditRSSProvider(),
+  new RedditRSSProvider(), // Uses default subreddits: programming, webdev, javascript, reactjs, Frontend
+  // Alternative configurations:
+  // RedditRSSProvider.createTechNews(), // Uses: technology, programming, MachineLearning, artificial, startups
+  // RedditRSSProvider.createFullStack(), // Uses: programming, webdev, Frontend, backend, devops, docker
+  // new RedditRSSProvider(['programming', 'typescript', 'node']), // Custom subreddits
   new DevToProvider()
 ];
 

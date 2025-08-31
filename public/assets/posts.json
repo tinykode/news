@@ -3,40 +3,36 @@
     "name": "Hacker News",
     "articles": [
       {
+        "id": "hn-45017028",
+        "title": "Google will allow only apps from verified developers to be installed on Android",
+        "description": "Also <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-developer-verification-for-android-apps-outside-the-play-store&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-develo...</a> (from merged thread)<p>Official announcement 1: <a href=\"https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-android-security.html\" rel=\"nofollow\">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-...</a><p>Official announcement 2: <a href=\"https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification\" rel=\"nofollow\">https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification</a><p>Play Console Help: <a href=\"https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answer&#x2F;16471116\" rel=\"nofollow\">https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answ...</a>",
+        "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
+      },
+      {
         "id": "hn-45074248",
         "title": "Cognitive load is what matters",
-        "description": "Cognitive load is what matters",
         "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "hn-45080388",
-        "title": "Sheafification – The optimal path to mathematical mastery",
-        "description": "Sheafification – The optimal path to mathematical mastery",
-        "url": "https://sheafification.com/the-fast-track/"
+        "id": "hn-45026719",
+        "title": "Gemini 2.5 Flash Image",
+        "description": "Also: <a href=\"https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;</a>, \n<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-model-gets-a-bananas-upgrade&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-mo...</a>",
+        "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
       },
       {
-        "id": "hn-45080051",
-        "title": "Red: A programming language inspired by REBOL",
-        "description": "Red: A programming language inspired by REBOL",
-        "url": "https://github.com/red/red"
+        "id": "hn-45068091",
+        "title": "Do the simplest thing that could possibly work",
+        "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
       },
       {
-        "id": "hn-45080538",
-        "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
-        "description": "Intermittent fasting correlated with increased risk of cardiovascular disease",
-        "url": "https://www.bbc.com/news/articles/c0l6ye6xe12o"
+        "id": "hn-44985730",
+        "title": "FFmpeg 8.0",
+        "url": "https://ffmpeg.org/index.html#pr8.0"
       },
       {
-        "id": "hn-45079911",
-        "title": "Are people's bosses making them use AI tools?",
-        "description": "Are people's bosses making them use AI tools?",
-        "url": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/"
-      },
-      {
-        "id": "hn-45079962",
-        "title": "My phone is an ereader now",
-        "description": "My phone is an ereader now",
-        "url": "https://www.davepagurek.com/blog/minimal-phone/"
+        "id": "hn-45010876",
+        "title": "What are OKLCH colors?",
+        "url": "https://jakub.kr/components/oklch-colors"
       }
     ]
   },
@@ -44,40 +40,40 @@
     "name": "Reddit",
     "articles": [
       {
-        "id": "reddit-0p2sveznh",
-        "title": "WoW private servers C++ code review by Tariq10x",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>High quality deep dive on how private servers work under the hood. As someone who played on these back in the days I always wondered how they pulled it o...",
-        "url": "https://www.reddit.com/r/programming/comments/1n47l0k/wow_private_servers_c_code_review_by_tariq10x/"
+        "id": "reddit-webdev-n2kq37wgj",
+        "title": "[r/webdev] [AMA] The Future of AI Agents in Coding with Guy Gur-Ari & Igor Ostrovsky, co-founders of Augment Code. Aug 29, 10am PT / 1pm ET. We’ll answer questions on the future of AI agents and why context matters in AI coding on r/webdev. Ask us anything!",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/webdev/comments/1mzxiyq/ama_the_future_of_ai_agents_in_coding_with_guy/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/zG8fQuL632tUuZ...",
+        "url": "https://www.reddit.com/r/webdev/comments/1mzxiyq/ama_the_future_of_ai_agents_in_coding_with_guy/"
       },
       {
-        "id": "reddit-a5vzlkjde",
-        "title": "Why &quot;What Happened First?&quot; Is One of the Hardest Questions in Large-Scale Systems",
-        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/scalablethread&quot;> /u/scalablethread </a> <br/> <span><a href=&quot;https://newsletter.scalablethread.com/p/why-what-happened-f...",
-        "url": "https://www.reddit.com/r/programming/comments/1n4dldv/why_what_happened_first_is_one_of_the_hardest/"
+        "id": "reddit-reactjs-64t1qy8ty",
+        "title": "[r/reactjs] Am I overengineering my folder structure in a React project?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone!</p> <p>I&#39;m organizing a React project (with TypeScript, Zustand, and React Query) and created a very specific folder structure for each...",
+        "url": "https://www.reddit.com/r/reactjs/comments/1n50j6q/am_i_overengineering_my_folder_structure_in_a/"
       },
       {
-        "id": "reddit-yv057ywla",
-        "title": "Second edition of tinyrenderer: software rendering in 500 lines of bare C++",
-        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/haqreu&quot;> /u/haqreu </a> <br/> <span><a href=&quot;https://haqr.eu/tinyrenderer/&quot;>[link]</a></span> &#32; <span><a href=&...",
-        "url": "https://www.reddit.com/r/programming/comments/1n4bxwe/second_edition_of_tinyrenderer_software_rendering/"
+        "id": "reddit-javascript-1fa1igjya",
+        "title": "[r/javascript] Your /r/javascript recap for the week of August 11 - August 17, 2025",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>Monday, August 11 - Sunday, August 17, 2025</strong></p> <h3>Top Posts</h3> <table><thead> <tr> <th>score</th> <th>comments</th> <th>title &amp; ...",
+        "url": "https://www.reddit.com/r/javascript/comments/1mtgve3/your_rjavascript_recap_for_the_week_of_august_11/"
       },
       {
-        "id": "reddit-4mwtaxomr",
-        "title": "The Parallelism Mesh Zoo",
-        "description": "&#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/mttd&quot;> /u/mttd </a> <br/> <span><a href=&quot;https://blog.ezyang.com/2025/08/the-parallelism-mesh-zoo/&quot;>[link]</a></spa...",
-        "url": "https://www.reddit.com/r/programming/comments/1n4n74c/the_parallelism_mesh_zoo/"
+        "id": "reddit-javascript-odkwe7fwv",
+        "title": "[r/javascript] What do you think about this CLI tool for managing and opening multiple projects easily?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone! 👋</p> <p>I built <strong>OpenMate</strong>, a CLI tool to help developers quickly manage and open their projects without navigating direct...",
+        "url": "https://www.reddit.com/r/javascript/comments/1n4uyvl/what_do_you_think_about_this_cli_tool_for/"
       },
       {
-        "id": "reddit-bkwhpabxn",
-        "title": "The $69 Billion Domino Effect: How VMware’s Debt-Fueled Acquisition Is Killing Open Source, One Repository at a Time",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Bitnami’s decision to end its free tier by August 2025 has sparked widespread outrage among developers who rely on its services. This change is part of B...",
-        "url": "https://www.reddit.com/r/programming/comments/1n3guzd/the_69_billion_domino_effect_how_vmwares/"
+        "id": "reddit-webdev-maubq11fj",
+        "title": "[r/webdev] Monthly Getting Started / Web Dev Career Thread",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat...",
+        "url": "https://www.reddit.com/r/webdev/comments/1meukh3/monthly_getting_started_web_dev_career_thread/"
       },
       {
-        "id": "reddit-mgamajlq6",
-        "title": "Engineers turned managers/client-facing: What actually helped with the communication learning curve?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hey everyone,</p> <p>I&#39;ve been on the technical side of data space (i.e. data scientist, data engineer) who recently got promoted to a more client-fa...",
-        "url": "https://www.reddit.com/r/programming/comments/1n4n934/engineers_turned_managersclientfacing_what/"
+        "id": "reddit-programming-f71fie5ep",
+        "title": "[r/programming] Turn off Cursor, turn on your mind",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>A case against agentic coding</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=&quot;https://www.reddit.com/user/Low-Strawberry7579&quot;> /u/Lo...",
+        "url": "https://www.reddit.com/r/programming/comments/1n4ufic/turn_off_cursor_turn_on_your_mind/"
       }
     ]
   },
