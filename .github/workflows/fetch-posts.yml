@@ -27,7 +27,7 @@ jobs:
       run: mkdir -p public/assets
       
     - name: Fetch posts
-      run: vite-node scripts/fetchPosts.js
+      run: npm run prepare:posts
       
     - name: Commit and push if changed
       run: |
