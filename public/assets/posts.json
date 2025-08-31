@@ -9,16 +9,16 @@
         "url": "https://github.com/zakirullin/cognitive-load"
       },
       {
-        "id": "hn-45080388",
-        "title": "Sheafification – The optimal path to mathematical mastery",
-        "description": "Sheafification – The optimal path to mathematical mastery",
-        "url": "https://sheafification.com/the-fast-track/"
-      },
-      {
         "id": "hn-45080051",
         "title": "Red: A programming language inspired by REBOL",
         "description": "Red: A programming language inspired by REBOL",
         "url": "https://github.com/red/red"
+      },
+      {
+        "id": "hn-45080388",
+        "title": "Sheafification – The optimal path to mathematical mastery",
+        "description": "Sheafification – The optimal path to mathematical mastery",
+        "url": "https://sheafification.com/the-fast-track/"
       },
       {
         "id": "hn-45080538",
@@ -33,10 +33,10 @@
         "url": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/"
       },
       {
-        "id": "hn-45077735",
-        "title": "Why did books start being divided into chapters? A new history",
-        "description": "Why did books start being divided into chapters? A new history",
-        "url": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer"
+        "id": "hn-45079962",
+        "title": "My phone is an ereader now",
+        "description": "My phone is an ereader now",
+        "url": "https://www.davepagurek.com/blog/minimal-phone/"
       }
     ]
   },
