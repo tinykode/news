@@ -68,64 +68,64 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-singularity-vkhpgmt8z",
-        "title": "[r/singularity] Nano Banana is live",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n0n1n7/nano_banana_is_live/&quot;> <img src=&quot;https://preview.redd.it/iv1l6a73hdlf1.jpeg?width=640&amp;crop=smart&a...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n0n1n7/nano_banana_is_live/"
+        "id": "reddit-artificial-kdum3dwkv",
+        "title": "[r/artificial] Don’t Let ChatGPT Think for You",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>AI tools like ChatGPT are powerful, but they can quietly weaken you if you let them replace your own thinking. Every time you ask it to solve something y...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n5cxkt/dont_let_chatgpt_think_for_you/"
       },
       {
-        "id": "reddit-deeplearning-1ajpyyq3b",
-        "title": "[r/deeplearning] Just learned how AI Agents actually work (and why they’re different from LLM + Tools )",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Been working with LLMs and kept building &quot;agents&quot; that were actually just chatbots with APIs attached. Some things that really clicked for me: ...",
-        "url": "https://www.reddit.com/r/deeplearning/comments/1n5fdx2/just_learned_how_ai_agents_actually_work_and_why/"
+        "id": "reddit-deeplearning-pcnivw0sc",
+        "title": "[r/deeplearning] Meituan's New 560 B Parameter Open Source LongCat-Flash AI Was Trained In Just 30 Days, Revealing The Blazing Pace Of AI Model Development!",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>The most amazing thing about this new model is that it was trained in only 30 days. By comparison, GPT-5 took 18 months, Grok 4 took 3-6 months and Gemin...",
+        "url": "https://www.reddit.com/r/deeplearning/comments/1n4zlfo/meituans_new_560_b_parameter_open_source/"
       },
       {
-        "id": "reddit-ChatGPT-z0q7cp7fz",
-        "title": "[r/ChatGPT] Restored this 1839 image of the first woman ever photographed",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n59exb/restored_this_1839_image_of_the_first_woman_ever/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/i8JKdSGFjd4...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n59exb/restored_this_1839_image_of_the_first_woman_ever/"
-      },
-      {
-        "id": "reddit-singularity-28fexflck",
-        "title": "[r/singularity] Banana+Heroes 3",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/gZFiPPklURneJ7KoDoDDLeeJS61MY8BhvwltwhS47...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/"
-      },
-      {
-        "id": "reddit-ChatGPT-w8bqpw14d",
-        "title": "[r/ChatGPT] GPT-5 AMA with OpenAI’s Sam Altman and some of the GPT-5 team",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Ask us anything about GPT-5, but don’t ask us about GPT-6 (yet).</p> <p>Participating in the AMA: </p> <ul> <li>sam altman — ceo (<a href=&quot;https://w...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/"
-      },
-      {
-        "id": "reddit-artificial-bmg7n3vud",
+        "id": "reddit-artificial-igc162lau",
         "title": "[r/artificial] xAI's Grok has no place in US federal government, say advocacy groups",
         "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/&quot;> <img src=&quot;https://external-preview.redd.it/qK3LxpV3Z...",
         "url": "https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/"
       },
       {
-        "id": "reddit-ChatGPT-4104g5y5l",
+        "id": "reddit-OpenAI-z34k709na",
+        "title": "[r/OpenAI] I just played an old school text adventure game with ChatGPT",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n56rrs/i_just_played_an_old_school_text_adventure_game/&quot;> <img src=&quot;https://preview.redd.it/jcrss3aqbfmf1.jpeg?wid...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n56rrs/i_just_played_an_old_school_text_adventure_game/"
+      },
+      {
+        "id": "reddit-singularity-jom3qcu4w",
+        "title": "[r/singularity] Banana+Heroes 3",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/gZFiPPklURneJ7KoDoDDLeeJS61MY8BhvwltwhS47...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/"
+      },
+      {
+        "id": "reddit-OpenAI-hqeah06xk",
+        "title": "[r/OpenAI] A Different Perspective For People Who think AI Progress is Slowing Down:",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>3 years ago LLMs could barely do 2 digit multiplication and weren&#39;t very useful other than as a novelty.</p> <p>A few weeks ago, both Google and Open...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n5eocx/a_different_perspective_for_people_who_think_ai/"
+      },
+      {
+        "id": "reddit-singularity-l6qqa9dhb",
+        "title": "[r/singularity] I disagree with this subs consensus: UBI IS inevitable",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>There’s been a lot of chatter on this sub about UBI and how many believe it’s just unlikely to happen. I personally disagree.</p> <p>While it’s true that...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n5dib1/i_disagree_with_this_subs_consensus_ubi_is/"
+      },
+      {
+        "id": "reddit-ChatGPT-4yp1e4b63",
         "title": "[r/ChatGPT] I pulled the ultimate UNO reverse!",
         "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/&quot;> <img src=&quot;https://preview.redd.it/mefcoktx4dmf1.png?width=640&amp;cro...",
         "url": "https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/"
       },
       {
-        "id": "reddit-artificial-jt31zm7f1",
-        "title": "[r/artificial] AI showing me where to prune a tree",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n57jnc/ai_showing_me_where_to_prune_a_tree/&quot;> <img src=&quot;https://external-preview.redd.it/ZWw0OWw2N21oZm1mMXo7F...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n57jnc/ai_showing_me_where_to_prune_a_tree/"
+        "id": "reddit-deeplearning-hk100pwq1",
+        "title": "[r/deeplearning] Just learned how AI Agents actually work (and why they’re different from LLM + Tools )",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Been working with LLMs and kept building &quot;agents&quot; that were actually just chatbots with APIs attached. Some things that really clicked for me: ...",
+        "url": "https://www.reddit.com/r/deeplearning/comments/1n5fdx2/just_learned_how_ai_agents_actually_work_and_why/"
       },
       {
-        "id": "reddit-LocalLLaMA-le0lzzti6",
-        "title": "[r/LocalLLaMA] Launching Our New AMA Series With Z.AI, Creators of GLM (Tomorrow, 9AM-12PM PST)",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n1unkv/launching_our_new_ama_series_with_zai_creators_of/&quot;> <img src=&quot;https://preview.redd.it/ek8o2pfzumlf1.jp...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n1unkv/launching_our_new_ama_series_with_zai_creators_of/"
-      },
-      {
-        "id": "reddit-ChatGPT-kjsoneqd4",
-        "title": "[r/ChatGPT] Just applied to be the CEO of OpenAI. Got rejected 😭",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n504ps/just_applied_to_be_the_ceo_of_openai_got_rejected/&quot;> <img src=&quot;https://preview.redd.it/07gq1y870emf1.png?w...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n504ps/just_applied_to_be_the_ceo_of_openai_got_rejected/"
+        "id": "reddit-MachineLearning-ebxutc97q",
+        "title": "[r/MachineLearning] [D] Monthly Who's Hiring and Who wants to be Hired?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>For Job Postings</strong> please use this template</p> <blockquote> <p>Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contrac...",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/"
       }
     ]
   },
