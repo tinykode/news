@@ -1,5 +1,5 @@
 import { BaseProvider, Article } from './BaseProvider.js';
-
+import { shuffleArray } from '../utils.js'
 export class RedditRSSProvider extends BaseProvider {
   name = 'Reddit AI';
   
@@ -34,11 +34,11 @@ export class RedditRSSProvider extends BaseProvider {
       });
       
       // Sort by a mix of recency and randomness to get diverse content
-      const shuffledArticles = this.shuffleArray(allArticles);
-      
-      // Return top 10 unique articles
+      const shuffledArticles = shuffleArray(allArticles);
+
+      // Return all unique articles
       const uniqueArticles = this.removeDuplicates(shuffledArticles);
-      return uniqueArticles.slice(0, 10);
+      return uniqueArticles;
     } catch (error) {
       console.error('Error fetching Reddit RSS posts:', error);
       return [];
@@ -48,7 +48,7 @@ export class RedditRSSProvider extends BaseProvider {
   private async fetchFromSubreddit(subreddit: string): Promise<Article[]> {
     try {
       // Use RSS feed instead of JSON API as it's less likely to be blocked
-      const response = await fetch(`https://www.reddit.com/r/${subreddit}/hot.rss?limit=5`, {
+      const response = await fetch(`https://www.reddit.com/r/${subreddit}/hot.rss?limit=50`, {
         headers: {
           'User-Agent': 'paper-feed/1.0.0 (RSS Reader)',
           'Accept': 'application/rss+xml, application/xml, text/xml'
@@ -105,8 +105,8 @@ export class RedditRSSProvider extends BaseProvider {
             url: linkMatch[1]
           });
         }
-        
-        if (articles.length >= 5) break;
+
+        if (articles.length >= 50) break;
       }
       
       return articles;
@@ -114,15 +114,6 @@ export class RedditRSSProvider extends BaseProvider {
       console.error(`Error fetching Reddit RSS posts from r/${subreddit}:`, error);
       return [];
     }
-  }
-  
-  private shuffleArray<T>(array: T[]): T[] {
-    const shuffled = [...array];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-    return shuffled;
   }
   
   private removeDuplicates(articles: Article[]): Article[] {

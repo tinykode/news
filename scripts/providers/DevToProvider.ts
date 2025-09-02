@@ -1,3 +1,4 @@
+import { shuffleArray } from '../utils.js';
 import { BaseProvider, Article } from './BaseProvider.js';
 
 interface DevToArticle {
@@ -43,11 +44,11 @@ export class DevToProvider extends BaseProvider {
     try {
       // Fetch articles with AI-related tags first
       const aiTagsQuery = this.aiTags.slice(0, 5).join(',');
-      const taggedResponse = await fetch(`https://dev.to/api/articles?tag=${aiTagsQuery}&top=15`);
+      const taggedResponse = await fetch(`https://dev.to/api/articles?tag=${aiTagsQuery}&top=100`);
       const taggedArticles: DevToArticle[] = await taggedResponse.json();
       
       // Also fetch general top articles and filter for AI content
-      const generalResponse = await fetch('https://dev.to/api/articles?top=30');
+      const generalResponse = await fetch('https://dev.to/api/articles?top=100');
       const generalArticles: DevToArticle[] = await generalResponse.json();
       
       const allArticles: DevToArticle[] = [...taggedArticles, ...generalArticles];
@@ -57,7 +58,7 @@ export class DevToProvider extends BaseProvider {
         new Map(allArticles.map((article: DevToArticle) => [article.id, article])).values()
       );
       
-      const aiArticles = uniqueArticles
+      const aiArticles = shuffleArray(uniqueArticles)
         .filter((article: DevToArticle) => 
           this.isAIRelated(article.title, article.description || '', article.tag_list)
         )
@@ -68,7 +69,7 @@ export class DevToProvider extends BaseProvider {
           url: article.url
         }));
         
-      return aiArticles.slice(0, 15);
+      return aiArticles;
     } catch (error) {
       console.error('Error fetching Dev.to AI posts:', error);
       return [];

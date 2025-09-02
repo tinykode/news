@@ -1,3 +1,4 @@
+import { shuffleArray } from '../utils.js';
 import { BaseProvider, Article } from './BaseProvider.js';
 
 export class HackerNewsProvider extends BaseProvider {
@@ -33,8 +34,8 @@ export class HackerNewsProvider extends BaseProvider {
       });
       
       const stories = await Promise.all(storyPromises);
-      
-      const aiStories = stories
+
+      const aiStories = shuffleArray(stories)
         .filter(story => story && story.title && story.url)
         .filter(story => this.isAIRelated(story.title, story.text))
         .map(story => ({
@@ -43,9 +44,8 @@ export class HackerNewsProvider extends BaseProvider {
           description: story.text || story.title,
           url: story.url
         }));
-        
-      // Return up to 15 AI-related stories
-      return aiStories.slice(0, 15);
+
+      return aiStories;
     } catch (error) {
       console.error('Error fetching HackerNews AI posts:', error);
       return [];

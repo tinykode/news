@@ -13,8 +13,7 @@ interface ProviderSectionProps {
 }
 
 export const ProviderSection = ({ name, articles }: ProviderSectionProps) => {
-  // Show only top 6 articles in 2x3 grid
-  const topArticles = articles.slice(0, 6);
+  const topArticles = articles;
 
   return (
     <div className="px-4 mb-8">

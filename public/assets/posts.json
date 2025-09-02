@@ -3,6 +3,30 @@
     "name": "Hacker News AI",
     "articles": [
       {
+        "id": "hn-45066395",
+        "title": "John Carmack's arguments against building a custom XR OS at Meta",
+        "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a>",
+        "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
+      },
+      {
+        "id": "hn-45066258",
+        "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+        "description": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+        "url": "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
+      },
+      {
+        "id": "hn-45062614",
+        "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "description": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+      },
+      {
+        "id": "hn-45030760",
+        "title": "Claude for Chrome",
+        "description": "See also <a href=\"https:&#x2F;&#x2F;claude.ai&#x2F;chrome\" rel=\"nofollow\">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a>",
+        "url": "https://www.anthropic.com/news/claude-for-chrome"
+      },
+      {
         "id": "hn-45017028",
         "title": "Google will allow only apps from verified developers to be installed on Android",
         "description": "Also <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-developer-verification-for-android-apps-outside-the-play-store&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-develo...</a> (from merged thread)<p>Official announcement 1: <a href=\"https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-android-security.html\" rel=\"nofollow\">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-...</a><p>Official announcement 2: <a href=\"https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification\" rel=\"nofollow\">https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification</a><p>Play Console Help: <a href=\"https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answer&#x2F;16471116\" rel=\"nofollow\">https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answ...</a>",
@@ -15,16 +39,16 @@
         "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
       },
       {
-        "id": "hn-45030760",
-        "title": "Claude for Chrome",
-        "description": "See also <a href=\"https:&#x2F;&#x2F;claude.ai&#x2F;chrome\" rel=\"nofollow\">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a>",
-        "url": "https://www.anthropic.com/news/claude-for-chrome"
+        "id": "hn-45038653",
+        "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
+        "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;nrwl&#x2F;nx&#x2F;security&#x2F;advisories&#x2F;GHSA-cxm3-wv7p-598c\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nrwl&#x2F;nx&#x2F;security&#x2F;advisories&#x2F;GHSA-cxm3-wv7...</a><p><a href=\"https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware\" rel=\"nofollow\">https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert...</a>",
+        "url": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
       },
       {
-        "id": "hn-44976568",
-        "title": "AI tooling must be disclosed for contributions",
-        "description": "AI tooling must be disclosed for contributions",
-        "url": "https://github.com/ghostty-org/ghostty/pull/8289"
+        "id": "hn-45092925",
+        "title": "Google AI Overview made up an elaborate story about me",
+        "description": "Google AI Overview made up an elaborate story about me",
+        "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
       },
       {
         "id": "hn-45014131",
@@ -33,10 +57,10 @@
         "url": "https://menial.co.uk/base/"
       },
       {
-        "id": "hn-45004846",
-        "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
-        "description": "Comet AI browser can get prompt injected from any site, drain your bank account",
-        "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
+        "id": "hn-45086020",
+        "title": "Eternal Struggle",
+        "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a>",
+        "url": "https://yoavg.github.io/eternal/"
       }
     ]
   },
@@ -44,40 +68,64 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-ChatGPT-b9kpt8fif",
-        "title": "[r/ChatGPT] GPT-5 AMA with OpenAI’s Sam Altman and some of the GPT-5 team",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Ask us anything about GPT-5, but don’t ask us about GPT-6 (yet).</p> <p>Participating in the AMA: </p> <ul> <li>sam altman — ceo (<a href=&quot;https://w...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/"
+        "id": "reddit-ChatGPT-sw12m2ool",
+        "title": "[r/ChatGPT] Goodchatgpt",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n61gbd/goodchatgpt/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/BtT7TBz375SVzUvNXNwEnAmzL0buQ8WJ4PaSla-38Ds.jpg&...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1n61gbd/goodchatgpt/"
       },
       {
-        "id": "reddit-LocalLLaMA-kyy4hskg6",
-        "title": "[r/LocalLLaMA] LongCat-Flash-Chat 560B MoE",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/&quot;> <img src=&quot;https://preview.redd.it/4pfegt9ezcmf1.png?width=640&amp;crop=sma...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4v0ql/longcatflashchat_560b_moe/"
+        "id": "reddit-MachineLearning-lvmjcwbwx",
+        "title": "[r/MachineLearning] [D] My model is taking too much time in calculating FFT to find top k",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>so basically my batch size is 32<br/> d_model is 128<br/> d_ff is 256<br/> enc_in = 5<br/> seq_len = 128 and pred_len is 10</p> <p>I narrow downed the bo...",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4st5p/d_my_model_is_taking_too_much_time_in_calculating/"
       },
       {
-        "id": "reddit-MachineLearning-nrhkvxlie",
-        "title": "[r/MachineLearning] [D] What is up with Tensorflow and JAX?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hi all,</p> <p>been in the Machine Learning world till 2021, I still mostly used the old TF 1.x interface and just used TF2.x for a short time. Last work...",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4nm4h/d_what_is_up_with_tensorflow_and_jax/"
+        "id": "reddit-LocalLLaMA-0tuftvdu3",
+        "title": "[r/LocalLLaMA] Context Reasoning Benchmarks: GPT-5, Claude, Gemini, Grok on Real Tasks",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n5n2h3/context_reasoning_benchmarks_gpt5_claude_gemini/&quot;> <img src=&quot;https://preview.redd.it/h8d68m9enjmf1.png?...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n5n2h3/context_reasoning_benchmarks_gpt5_claude_gemini/"
       },
       {
-        "id": "reddit-LocalLLaMA-qcep4tt53",
-        "title": "[r/LocalLLaMA] The Huawei GPU is not equivalent to an RTX 6000 Pro whatsoever",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>This is a response to the recent viral post about the “amazing” Huawei GPU offering 96 GB for “only” 2000$ when Nvidia is way more expensive. (Edit: as m...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n4wo0y/the_huawei_gpu_is_not_equivalent_to_an_rtx_6000/"
+        "id": "reddit-LocalLLaMA-ax3bp5xn6",
+        "title": "[r/LocalLLaMA] AMD 6x7900xtx 24GB + 2xR9700 32GB VLLM QUESTIONS",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n5u32n/amd_6x7900xtx_24gb_2xr9700_32gb_vllm_questions/&quot;> <img src=&quot;https://preview.redd.it/txo8g9us0lmf1.jpeg?...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n5u32n/amd_6x7900xtx_24gb_2xr9700_32gb_vllm_questions/"
       },
       {
-        "id": "reddit-artificial-jt1ij98ax",
-        "title": "[r/artificial] xAI's Grok has no place in US federal government, say advocacy groups",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/&quot;> <img src=&quot;https://external-preview.redd.it/qK3LxpV3Z...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/"
+        "id": "reddit-OpenAI-yasxv5kbi",
+        "title": "[r/OpenAI] I love using AI to get around clickbait",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Some <a href=&quot;https://www.consumerreports.org/electronics-computers/headphones/which-apple-airpods-headphones-to-buy-a3032659552/&quot;>Consumer Rep...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n6ad5f/i_love_using_ai_to_get_around_clickbait/"
       },
       {
-        "id": "reddit-deeplearning-8y7wk9dsn",
-        "title": "[r/deeplearning] 23yo AI student in Italy looking for career advice",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hello everyone, I&#39;m a AI student, currently in a 3-year AI bachelor&#39;s program in Italy. I&#39;m trying to figure out my next career steps and wou...",
-        "url": "https://www.reddit.com/r/deeplearning/comments/1n4qll8/23yo_ai_student_in_italy_looking_for_career_advice/"
+        "id": "reddit-singularity-1fbrsllhz",
+        "title": "[r/singularity] Robotics last grand challenge: Assembling this 7,541-piece Millennium Falcon",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n3bv2z/robotics_last_grand_challenge_assembling_this/&quot;> <img src=&quot;https://preview.redd.it/dyzjsicuhzlf1.jpeg?...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n3bv2z/robotics_last_grand_challenge_assembling_this/"
+      },
+      {
+        "id": "reddit-singularity-cvq4unyih",
+        "title": "[r/singularity] Would you choose to live indefinitely in a robot body?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n47t0x/would_you_choose_to_live_indefinitely_in_a_robot/&quot;> <img src=&quot;https://preview.redd.it/oxk4mqby17mf1.pn...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n47t0x/would_you_choose_to_live_indefinitely_in_a_robot/"
+      },
+      {
+        "id": "reddit-deeplearning-1xrhlkenv",
+        "title": "[r/deeplearning] [Resource] Free Deep Learning Course in 4 languages 🇬🇧🇫🇷🇪🇸🇨🇳",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>Hello everyone!</strong></p> <p>I’m excited to share a personal project I’ve been working on: a series of Jupyter notebooks covering the fundamen...",
+        "url": "https://www.reddit.com/r/deeplearning/comments/1n2g7r8/resource_free_deep_learning_course_in_4_languages/"
+      },
+      {
+        "id": "reddit-artificial-dyjpzprnb",
+        "title": "[r/artificial] I see a lot of ads for lifetime access to multiple pro versions of AI for less than $50. How?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I understand tokens are relatively cheap and I understand it&#39;s for the life of the company but even if they last 6 months, it&#39;s still cheaper tha...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n4e7hr/i_see_a_lot_of_ads_for_lifetime_access_to/"
+      },
+      {
+        "id": "reddit-LocalLLaMA-wcjtkiejb",
+        "title": "[r/LocalLLaMA] Replay - like Git for App States and Agent Context",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n638gv/replay_like_git_for_app_states_and_agent_context/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/wvY-ULSF...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n638gv/replay_like_git_for_app_states_and_agent_context/"
       }
     ]
   },
@@ -85,40 +133,64 @@
     "name": "Dev Community AI",
     "articles": [
       {
+        "id": "dev-2711922",
+        "title": "The Best Resources for Getting Started with Agents in 2025",
+        "description": "Most AI Agents used to break the moment you tried plugging them into a real app. The issue was the...",
+        "url": "https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3"
+      },
+      {
+        "id": "dev-2624745",
+        "title": "From prompt to deployed app in less than 2 minutes",
+        "description": "A Hands-On Guide to Google AI Studio's New Build Feature   Ever had a brilliant app idea but...",
+        "url": "https://dev.to/googleai/from-prompt-to-deployed-app-in-less-than-2-minutes-dh3"
+      },
+      {
+        "id": "dev-2530375",
+        "title": "👨🏻‍💻 Hacking Dioxus: How Vibe Coding Is Destroying Software Engineering",
+        "description": "TL;DR   If you're hiring vibe coders, think again before it's too late. This post isn't...",
+        "url": "https://dev.to/wiseai/hacking-dioxus-how-vibe-coding-is-destroying-software-engineering-3ggm"
+      },
+      {
+        "id": "dev-2644203",
+        "title": "Announcing the First DEV Education Track: \"Build Apps with Google AI Studio\"",
+        "description": "The moment is here! We recently announced DEV Education Tracks, our new initiative to bring you...",
+        "url": "https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7"
+      },
+      {
+        "id": "dev-2636604",
+        "title": "📢 HMPL-DOM v0.0.1 Released: Write Reactive HTML Without JavaScript",
+        "description": "Hello! This is not clickbait. I thought for a long time about what to call this article, but it is...",
+        "url": "https://dev.to/hmpljs/hmpl-dom-v001-release-the-most-important-module-4783"
+      },
+      {
+        "id": "dev-2555851",
+        "title": "I vibe-coded a $20M YC app in a weekend, here's how🧙‍♂️ 🪄",
+        "description": "I realised that many companies offer no-code platforms to their users for automating workflows. The...",
+        "url": "https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o"
+      },
+      {
+        "id": "dev-2532168",
+        "title": "Fullstack Open Source Projects That Will Help You Become AI Devs (Python, JavaScript, AI)",
+        "description": "Want to know a great way to build a strong career as a developer? Learn Python, JavaScript, and AI....",
+        "url": "https://dev.to/fast/fullstack-open-source-projects-that-will-help-you-become-ai-devs-python-javascript-ai-4m9a"
+      },
+      {
+        "id": "dev-2541653",
+        "title": "Exciting Community News: We're Partnering with Google AI!",
+        "description": "👋 Hey there, we will continue to update this post with relevant news if you're coming here...",
+        "url": "https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4"
+      },
+      {
+        "id": "dev-2599938",
+        "title": "Reflect and Share Your World's Largest Hackathon Journey: Writing Challenge Now Open 🌟",
+        "description": "The building period for the World's Largest Hackathon has officially wrapped up, and what an...",
+        "url": "https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82"
+      },
+      {
         "id": "dev-2720785",
         "title": "Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!",
         "description": "We're thrilled to partner with n8n and Bright Data to bring the community a brand new...",
         "url": "https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb"
-      },
-      {
-        "id": "dev-2767019",
-        "title": "MemMouse — Enterprise Memory Management",
-        "description": "This is a submission for the Redis AI Challenge: Beyond the Cache.           What I Built   MemMouse...",
-        "url": "https://dev.to/vsoldatov/memmouse-enterprise-memory-management-m9o"
-      },
-      {
-        "id": "dev-2756682",
-        "title": "LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️",
-        "description": "When we talk about such a topic as data storage, we immediately remember these 3 concepts. But here's...",
-        "url": "https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d"
-      },
-      {
-        "id": "dev-2783813",
-        "title": "Build Your Own AI Stock Portfolio Agent with Agno + AG-UI",
-        "description": "In this guide, you will learn how to integrate Agno agents with the AG-UI protocol.   Additionally,...",
-        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp"
-      },
-      {
-        "id": "dev-2754197",
-        "title": "Build a Fullstack Stock Portfolio Agent with CrewAI and AG-UI",
-        "description": "In this guide, you will learn how to integrate CrewAI agents with AG-UI protocol. Also, we will cover...",
-        "url": "https://dev.to/copilotkit/how-to-integrate-crewai-agents-with-ag-ui-protocol-crewai-ag-ui-copilotkit-3n1d"
-      },
-      {
-        "id": "dev-2798876",
-        "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
-        "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
-        "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
       }
     ]
   }
