@@ -57,10 +57,34 @@
         "url": "https://menial.co.uk/base/"
       },
       {
+        "id": "hn-45062614",
+        "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "description": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+        "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+      },
+      {
+        "id": "hn-45004846",
+        "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
+        "description": "Comet AI browser can get prompt injected from any site, drain your bank account",
+        "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
+      },
+      {
         "id": "hn-45086020",
         "title": "Eternal Struggle",
         "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a>",
         "url": "https://yoavg.github.io/eternal/"
+      },
+      {
+        "id": "hn-45092925",
+        "title": "Google AI Overview made up an elaborate story about me",
+        "description": "Google AI Overview made up an elaborate story about me",
+        "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
+      },
+      {
+        "id": "hn-45062910",
+        "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "description": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
       }
     ]
   },
@@ -68,64 +92,64 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-ChatGPT-sw12m2ool",
-        "title": "[r/ChatGPT] Goodchatgpt",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n61gbd/goodchatgpt/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/BtT7TBz375SVzUvNXNwEnAmzL0buQ8WJ4PaSla-38Ds.jpg&...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n61gbd/goodchatgpt/"
+        "id": "reddit-LocalLLaMA-exen7hanh",
+        "title": "[r/LocalLLaMA] AMA With Z.AI, The Lab Behind GLM Models",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><h1>AMA with Z.AI — The Lab Behind GLM Models. Ask Us Anything!</h1> <p>Hi <a href=&quot;/r/LocalLLaMA&quot;>r/LocalLLaMA</a></p> <p>Today we are having <st...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2ghx4/ama_with_zai_the_lab_behind_glm_models/"
       },
       {
-        "id": "reddit-MachineLearning-lvmjcwbwx",
-        "title": "[r/MachineLearning] [D] My model is taking too much time in calculating FFT to find top k",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>so basically my batch size is 32<br/> d_model is 128<br/> d_ff is 256<br/> enc_in = 5<br/> seq_len = 128 and pred_len is 10</p> <p>I narrow downed the bo...",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4st5p/d_my_model_is_taking_too_much_time_in_calculating/"
+        "id": "reddit-OpenAI-7p2n1glrz",
+        "title": "[r/OpenAI] Bro asked an AI for a diagnosis instead of a doctor.",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/&quot;> <img src=&quot;https://preview.redd.it/58ucgdy4comf1.jpeg?width=...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/"
       },
       {
-        "id": "reddit-LocalLLaMA-0tuftvdu3",
-        "title": "[r/LocalLLaMA] Context Reasoning Benchmarks: GPT-5, Claude, Gemini, Grok on Real Tasks",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n5n2h3/context_reasoning_benchmarks_gpt5_claude_gemini/&quot;> <img src=&quot;https://preview.redd.it/h8d68m9enjmf1.png?...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n5n2h3/context_reasoning_benchmarks_gpt5_claude_gemini/"
+        "id": "reddit-singularity-ow3sfx0ac",
+        "title": "[r/singularity] You don’t work with great people enough if you keep saying AI is going to replace people - Logan",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/&quot;> <img src=&quot;https://preview.redd.it/z465et3gvkmf1.jpeg?...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/"
       },
       {
-        "id": "reddit-LocalLLaMA-ax3bp5xn6",
-        "title": "[r/LocalLLaMA] AMD 6x7900xtx 24GB + 2xR9700 32GB VLLM QUESTIONS",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n5u32n/amd_6x7900xtx_24gb_2xr9700_32gb_vllm_questions/&quot;> <img src=&quot;https://preview.redd.it/txo8g9us0lmf1.jpeg?...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n5u32n/amd_6x7900xtx_24gb_2xr9700_32gb_vllm_questions/"
+        "id": "reddit-ChatGPT-srwaoknex",
+        "title": "[r/ChatGPT] What am I doing wrong?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/&quot;> <img src=&quot;https://a.thumbs.redditmedia.com/97MUNYJvudP2SbgXm0UnxzsNVLkef8G_EoDJly...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/"
       },
       {
-        "id": "reddit-OpenAI-yasxv5kbi",
-        "title": "[r/OpenAI] I love using AI to get around clickbait",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Some <a href=&quot;https://www.consumerreports.org/electronics-computers/headphones/which-apple-airpods-headphones-to-buy-a3032659552/&quot;>Consumer Rep...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1n6ad5f/i_love_using_ai_to_get_around_clickbait/"
+        "id": "reddit-MachineLearning-xns3yihcl",
+        "title": "[r/MachineLearning] [D] OpenReview website is down!",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I&#39;m trying to upload one pending AAAI review but the website is not opening. </p> <p>Anyone facing the same issue? I&#39;m also curious what would ha...",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1n6aisc/d_openreview_website_is_down/"
       },
       {
-        "id": "reddit-singularity-1fbrsllhz",
-        "title": "[r/singularity] Robotics last grand challenge: Assembling this 7,541-piece Millennium Falcon",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n3bv2z/robotics_last_grand_challenge_assembling_this/&quot;> <img src=&quot;https://preview.redd.it/dyzjsicuhzlf1.jpeg?...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n3bv2z/robotics_last_grand_challenge_assembling_this/"
+        "id": "reddit-artificial-ffffg261z",
+        "title": "[r/artificial] China’s social media platforms rush to abide by AI-generated content labelling law",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/&quot;> <img src=&quot;https://external-preview.redd.it/5t8E-7Afz4...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/"
       },
       {
-        "id": "reddit-singularity-cvq4unyih",
-        "title": "[r/singularity] Would you choose to live indefinitely in a robot body?",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n47t0x/would_you_choose_to_live_indefinitely_in_a_robot/&quot;> <img src=&quot;https://preview.redd.it/oxk4mqby17mf1.pn...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n47t0x/would_you_choose_to_live_indefinitely_in_a_robot/"
+        "id": "reddit-ChatGPT-nyhof95bz",
+        "title": "[r/ChatGPT] ChatGPT vs Gemini",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/&quot;> <img src=&quot;https://preview.redd.it/uxyrsbztokmf1.jpeg?width=640&amp;crop=smart&amp;aut...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/"
       },
       {
-        "id": "reddit-deeplearning-1xrhlkenv",
-        "title": "[r/deeplearning] [Resource] Free Deep Learning Course in 4 languages 🇬🇧🇫🇷🇪🇸🇨🇳",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>Hello everyone!</strong></p> <p>I’m excited to share a personal project I’ve been working on: a series of Jupyter notebooks covering the fundamen...",
-        "url": "https://www.reddit.com/r/deeplearning/comments/1n2g7r8/resource_free_deep_learning_course_in_4_languages/"
+        "id": "reddit-OpenAI-jw0bjooeo",
+        "title": "[r/OpenAI] Do users ever use your AI in completely unexpected ways?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/&quot;> <img src=&quot;https://preview.redd.it/9lgffs5yhlmf1.jpeg?width=640&a...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/"
       },
       {
-        "id": "reddit-artificial-dyjpzprnb",
-        "title": "[r/artificial] I see a lot of ads for lifetime access to multiple pro versions of AI for less than $50. How?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I understand tokens are relatively cheap and I understand it&#39;s for the life of the company but even if they last 6 months, it&#39;s still cheaper tha...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n4e7hr/i_see_a_lot_of_ads_for_lifetime_access_to/"
+        "id": "reddit-LocalLLaMA-3xolx1zj3",
+        "title": "[r/LocalLLaMA] Why are all AI &quot;Success&quot; posts terrible?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>&quot;Wow look at this!&quot; someone cries, and includes a screenshot/gif from a single-line AI prompt magically producing a working product.</p> <p>Gre...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n68afq/why_are_all_ai_success_posts_terrible/"
       },
       {
-        "id": "reddit-LocalLLaMA-wcjtkiejb",
-        "title": "[r/LocalLLaMA] Replay - like Git for App States and Agent Context",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n638gv/replay_like_git_for_app_states_and_agent_context/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/wvY-ULSF...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n638gv/replay_like_git_for_app_states_and_agent_context/"
+        "id": "reddit-artificial-2hkii5rqz",
+        "title": "[r/artificial] What are the limitations of AI Agent in its current application?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/HVoLB6SzjYTxO...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/"
       }
     ]
   },
@@ -191,6 +215,60 @@
         "title": "Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!",
         "description": "We're thrilled to partner with n8n and Bright Data to bring the community a brand new...",
         "url": "https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb"
+      },
+      {
+        "id": "dev-2767019",
+        "title": "MemMouse — Enterprise Memory Management",
+        "description": "This is a submission for the Redis AI Challenge: Beyond the Cache.           What I Built   MemMouse...",
+        "url": "https://dev.to/vsoldatov/memmouse-enterprise-memory-management-m9o"
+      },
+      {
+        "id": "dev-2756682",
+        "title": "LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️",
+        "description": "When we talk about such a topic as data storage, we immediately remember these 3 concepts. But here's...",
+        "url": "https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d"
+      },
+      {
+        "id": "dev-2783813",
+        "title": "Build Your Own AI Stock Portfolio Agent with Agno + AG-UI",
+        "description": "In this guide, you will learn how to integrate Agno agents with the AG-UI protocol.   Additionally,...",
+        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp"
+      },
+      {
+        "id": "dev-2754197",
+        "title": "Build a Fullstack Stock Portfolio Agent with CrewAI and AG-UI",
+        "description": "In this guide, you will learn how to integrate CrewAI agents with AG-UI protocol. Also, we will cover...",
+        "url": "https://dev.to/copilotkit/how-to-integrate-crewai-agents-with-ag-ui-protocol-crewai-ag-ui-copilotkit-3n1d"
+      },
+      {
+        "id": "dev-2798876",
+        "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
+        "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
+        "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
+      },
+      {
+        "id": "dev-2783975",
+        "title": "There's something off in the \"dev with AI or die\" narrative",
+        "description": "It's everywhere, it's eating up every other dev topic debate: learn to dev with AI or you'll be...",
+        "url": "https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975"
+      },
+      {
+        "id": "dev-2769953",
+        "title": "Build Your Own AI Stock Portfolio Agent with LlamaIndex + AG-UI",
+        "description": "In this guide, you will learn how to integrate LlamaIndex agents with the AG-UI protocol. Also, we...",
+        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-llamaindex-ag-ui-62"
+      },
+      {
+        "id": "dev-2750123",
+        "title": "How I Designed a Credit System That Actually Makes Users Upgrade",
+        "description": "In the first 24 hours after launching Learnflow AI, I was quietly optimistic. Users signed up....",
+        "url": "https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5"
+      },
+      {
+        "id": "dev-2781636",
+        "title": "We're the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.",
+        "description": "Hey DEV community! 👋  We're the team behind Google AI Studio and the Gemini API at Google DeepMind....",
+        "url": "https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4"
       }
     ]
   }
