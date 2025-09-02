@@ -45,22 +45,22 @@
         "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
       },
       {
+        "id": "hn-45086020",
+        "title": "Eternal Struggle",
+        "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a>",
+        "url": "https://yoavg.github.io/eternal/"
+      },
+      {
+        "id": "hn-45092925",
+        "title": "Google AI Overview made up an elaborate story about me",
+        "description": "Google AI Overview made up an elaborate story about me",
+        "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
+      },
+      {
         "id": "hn-45062910",
         "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
         "description": "Some users have noticed settings that let Meta analyze and retain phone photos",
         "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
-      },
-      {
-        "id": "hn-45066395",
-        "title": "John Carmack's arguments against building a custom XR OS at Meta",
-        "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a>",
-        "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
-      },
-      {
-        "id": "hn-45050415",
-        "title": "Are OpenAI and Anthropic losing money on inference?",
-        "description": "Are OpenAI and Anthropic losing money on inference?",
-        "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
       }
     ]
   },
@@ -68,64 +68,64 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-artificial-kdum3dwkv",
-        "title": "[r/artificial] Don’t Let ChatGPT Think for You",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>AI tools like ChatGPT are powerful, but they can quietly weaken you if you let them replace your own thinking. Every time you ask it to solve something y...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n5cxkt/dont_let_chatgpt_think_for_you/"
+        "id": "reddit-LocalLLaMA-exen7hanh",
+        "title": "[r/LocalLLaMA] AMA With Z.AI, The Lab Behind GLM Models",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><h1>AMA with Z.AI — The Lab Behind GLM Models. Ask Us Anything!</h1> <p>Hi <a href=&quot;/r/LocalLLaMA&quot;>r/LocalLLaMA</a></p> <p>Today we are having <st...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2ghx4/ama_with_zai_the_lab_behind_glm_models/"
       },
       {
-        "id": "reddit-deeplearning-pcnivw0sc",
-        "title": "[r/deeplearning] Meituan's New 560 B Parameter Open Source LongCat-Flash AI Was Trained In Just 30 Days, Revealing The Blazing Pace Of AI Model Development!",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>The most amazing thing about this new model is that it was trained in only 30 days. By comparison, GPT-5 took 18 months, Grok 4 took 3-6 months and Gemin...",
-        "url": "https://www.reddit.com/r/deeplearning/comments/1n4zlfo/meituans_new_560_b_parameter_open_source/"
+        "id": "reddit-OpenAI-7p2n1glrz",
+        "title": "[r/OpenAI] Bro asked an AI for a diagnosis instead of a doctor.",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/&quot;> <img src=&quot;https://preview.redd.it/58ucgdy4comf1.jpeg?width=...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/"
       },
       {
-        "id": "reddit-artificial-igc162lau",
-        "title": "[r/artificial] xAI's Grok has no place in US federal government, say advocacy groups",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/&quot;> <img src=&quot;https://external-preview.redd.it/qK3LxpV3Z...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n4rdsd/xais_grok_has_no_place_in_us_federal_government/"
+        "id": "reddit-singularity-ow3sfx0ac",
+        "title": "[r/singularity] You don’t work with great people enough if you keep saying AI is going to replace people - Logan",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/&quot;> <img src=&quot;https://preview.redd.it/z465et3gvkmf1.jpeg?...",
+        "url": "https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/"
       },
       {
-        "id": "reddit-OpenAI-z34k709na",
-        "title": "[r/OpenAI] I just played an old school text adventure game with ChatGPT",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n56rrs/i_just_played_an_old_school_text_adventure_game/&quot;> <img src=&quot;https://preview.redd.it/jcrss3aqbfmf1.jpeg?wid...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1n56rrs/i_just_played_an_old_school_text_adventure_game/"
+        "id": "reddit-ChatGPT-srwaoknex",
+        "title": "[r/ChatGPT] What am I doing wrong?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/&quot;> <img src=&quot;https://a.thumbs.redditmedia.com/97MUNYJvudP2SbgXm0UnxzsNVLkef8G_EoDJly...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/"
       },
       {
-        "id": "reddit-singularity-jom3qcu4w",
-        "title": "[r/singularity] Banana+Heroes 3",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/gZFiPPklURneJ7KoDoDDLeeJS61MY8BhvwltwhS47...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n55hkh/bananaheroes_3/"
+        "id": "reddit-MachineLearning-xns3yihcl",
+        "title": "[r/MachineLearning] [D] OpenReview website is down!",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I&#39;m trying to upload one pending AAAI review but the website is not opening. </p> <p>Anyone facing the same issue? I&#39;m also curious what would ha...",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1n6aisc/d_openreview_website_is_down/"
       },
       {
-        "id": "reddit-OpenAI-hqeah06xk",
-        "title": "[r/OpenAI] A Different Perspective For People Who think AI Progress is Slowing Down:",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>3 years ago LLMs could barely do 2 digit multiplication and weren&#39;t very useful other than as a novelty.</p> <p>A few weeks ago, both Google and Open...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1n5eocx/a_different_perspective_for_people_who_think_ai/"
+        "id": "reddit-artificial-ffffg261z",
+        "title": "[r/artificial] China’s social media platforms rush to abide by AI-generated content labelling law",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/&quot;> <img src=&quot;https://external-preview.redd.it/5t8E-7Afz4...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/"
       },
       {
-        "id": "reddit-singularity-l6qqa9dhb",
-        "title": "[r/singularity] I disagree with this subs consensus: UBI IS inevitable",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>There’s been a lot of chatter on this sub about UBI and how many believe it’s just unlikely to happen. I personally disagree.</p> <p>While it’s true that...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n5dib1/i_disagree_with_this_subs_consensus_ubi_is/"
+        "id": "reddit-ChatGPT-nyhof95bz",
+        "title": "[r/ChatGPT] ChatGPT vs Gemini",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/&quot;> <img src=&quot;https://preview.redd.it/uxyrsbztokmf1.jpeg?width=640&amp;crop=smart&amp;aut...",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/"
       },
       {
-        "id": "reddit-ChatGPT-4yp1e4b63",
-        "title": "[r/ChatGPT] I pulled the ultimate UNO reverse!",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/&quot;> <img src=&quot;https://preview.redd.it/mefcoktx4dmf1.png?width=640&amp;cro...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/"
+        "id": "reddit-OpenAI-jw0bjooeo",
+        "title": "[r/OpenAI] Do users ever use your AI in completely unexpected ways?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/&quot;> <img src=&quot;https://preview.redd.it/9lgffs5yhlmf1.jpeg?width=640&a...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/"
       },
       {
-        "id": "reddit-deeplearning-hk100pwq1",
-        "title": "[r/deeplearning] Just learned how AI Agents actually work (and why they’re different from LLM + Tools )",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Been working with LLMs and kept building &quot;agents&quot; that were actually just chatbots with APIs attached. Some things that really clicked for me: ...",
-        "url": "https://www.reddit.com/r/deeplearning/comments/1n5fdx2/just_learned_how_ai_agents_actually_work_and_why/"
+        "id": "reddit-LocalLLaMA-3xolx1zj3",
+        "title": "[r/LocalLLaMA] Why are all AI &quot;Success&quot; posts terrible?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>&quot;Wow look at this!&quot; someone cries, and includes a screenshot/gif from a single-line AI prompt magically producing a working product.</p> <p>Gre...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n68afq/why_are_all_ai_success_posts_terrible/"
       },
       {
-        "id": "reddit-MachineLearning-ebxutc97q",
-        "title": "[r/MachineLearning] [D] Monthly Who's Hiring and Who wants to be Hired?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><strong>For Job Postings</strong> please use this template</p> <blockquote> <p>Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contrac...",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/"
+        "id": "reddit-artificial-2hkii5rqz",
+        "title": "[r/artificial] What are the limitations of AI Agent in its current application?",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/HVoLB6SzjYTxO...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/"
       }
     ]
   },
@@ -169,12 +169,6 @@
         "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
       },
       {
-        "id": "dev-2748377",
-        "title": "CI/CD Pipeline for Secure Java Alert System with Docker & GitHub Actions",
-        "description": "This setup defines a CI/CD pipeline and containerization strategy for the Critical Alert System, a...",
-        "url": "https://dev.to/michael_isijola_31f98c8dc/cicd-pipeline-for-secure-java-alert-system-with-docker-github-actions-pj"
-      },
-      {
         "id": "dev-2783975",
         "title": "There's something off in the \"dev with AI or die\" narrative",
         "description": "It's everywhere, it's eating up every other dev topic debate: learn to dev with AI or you'll be...",
@@ -191,6 +185,12 @@
         "title": "How I Designed a Credit System That Actually Makes Users Upgrade",
         "description": "In the first 24 hours after launching Learnflow AI, I was quietly optimistic. Users signed up....",
         "url": "https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5"
+      },
+      {
+        "id": "dev-2781636",
+        "title": "We're the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.",
+        "description": "Hey DEV community! 👋  We're the team behind Google AI Studio and the Gemini API at Google DeepMind....",
+        "url": "https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4"
       }
     ]
   }
