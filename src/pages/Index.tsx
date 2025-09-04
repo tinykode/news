@@ -32,7 +32,7 @@ const Index = () => {
       <header className="border-b border-border/50 bg-card/50 backdrop-blur-sm sticky top-0 z-10">
         <div className="px-4 py-4">
           <h1 className="font-serif text-2xl font-semibold text-foreground">
-            Daily AI
+            tinykode / news
           </h1>
           <p className="text-muted-foreground text-sm mt-1">
             Curated AI developer content from across the web

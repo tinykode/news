@@ -50,7 +50,7 @@ export class RedditRSSProvider extends BaseProvider {
       // Use RSS feed instead of JSON API as it's less likely to be blocked
       const response = await fetch(`https://www.reddit.com/r/${subreddit}/hot.rss?limit=50`, {
         headers: {
-          'User-Agent': 'paper-feed/1.0.0 (RSS Reader)',
+          'User-Agent': 'tinykode-news/1.0.0 (RSS Reader)',
           'Accept': 'application/rss+xml, application/xml, text/xml'
         }
       });
