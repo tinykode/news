@@ -3,164 +3,79 @@
     "name": "Hacker News AI",
     "articles": [
       {
+        "id": "hn-45062910",
+        "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "description": "Some users have noticed settings that let Meta analyze and retain phone photos",
+        "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
+      },
+      {
         "id": "hn-45066395",
         "title": "John Carmack's arguments against building a custom XR OS at Meta",
         "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a>",
         "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
       },
       {
-        "id": "hn-45066258",
-        "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
-        "description": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
-        "url": "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
+        "id": "hn-45129085",
+        "title": "Stripe Launches L1 Blockchain: Tempo",
+        "description": "Stripe Launches L1 Blockchain: Tempo",
+        "url": "https://tempo.xyz"
       },
       {
-        "id": "hn-45062614",
-        "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-        "description": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-        "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+        "id": "hn-45108548",
+        "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+        "description": "<a href=\"https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223205&#x2F;gov.uscourts.dcd.223205.1436.0_1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223...</a>",
+        "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html"
       },
       {
-        "id": "hn-45030760",
-        "title": "Claude for Chrome",
-        "description": "See also <a href=\"https:&#x2F;&#x2F;claude.ai&#x2F;chrome\" rel=\"nofollow\">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a>",
-        "url": "https://www.anthropic.com/news/claude-for-chrome"
+        "id": "hn-45052423",
+        "title": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
+        "description": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
+        "url": "https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html"
       },
       {
-        "id": "hn-45017028",
-        "title": "Google will allow only apps from verified developers to be installed on Android",
-        "description": "Also <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-developer-verification-for-android-apps-outside-the-play-store&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-develo...</a> (from merged thread)<p>Official announcement 1: <a href=\"https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-android-security.html\" rel=\"nofollow\">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-...</a><p>Official announcement 2: <a href=\"https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification\" rel=\"nofollow\">https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification</a><p>Play Console Help: <a href=\"https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answer&#x2F;16471116\" rel=\"nofollow\">https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answ...</a>",
-        "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
+        "id": "hn-45062738",
+        "title": "If you have a Claude account, they're going to train on your data moving forward",
+        "description": "If you have a Claude account, they're going to train on your data moving forward",
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/"
       },
       {
-        "id": "hn-45026719",
-        "title": "Gemini 2.5 Flash Image",
-        "description": "Also: <a href=\"https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;</a>, \n<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-model-gets-a-bananas-upgrade&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-mo...</a>",
-        "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
+        "id": "hn-45126503",
+        "title": "Almost anything you give sustained attention to will begin to loop on itself",
+        "description": "Almost anything you give sustained attention to will begin to loop on itself",
+        "url": "https://www.henrikkarlsson.xyz/p/attention"
       },
       {
-        "id": "hn-45038653",
-        "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
-        "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;nrwl&#x2F;nx&#x2F;security&#x2F;advisories&#x2F;GHSA-cxm3-wv7p-598c\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nrwl&#x2F;nx&#x2F;security&#x2F;advisories&#x2F;GHSA-cxm3-wv7...</a><p><a href=\"https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware\" rel=\"nofollow\">https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert...</a>",
-        "url": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
+        "id": "hn-45120517",
+        "title": "Where's the shovelware? Why AI coding claims don't add up",
+        "description": "Where's the shovelware? Why AI coding claims don't add up",
+        "url": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding"
       },
       {
-        "id": "hn-45092925",
-        "title": "Google AI Overview made up an elaborate story about me",
-        "description": "Google AI Overview made up an elaborate story about me",
-        "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
+        "id": "hn-45092490",
+        "title": "Bear is now source-available",
+        "description": "Bear is now source-available",
+        "url": "https://herman.bearblog.dev/license/"
       },
       {
-        "id": "hn-45014131",
-        "title": "Show HN: Base, an SQLite database editor for macOS",
-        "description": "I recently released v3 of Base, my SQLite editor for macOS.<p>The goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.<p>The coolest features are<p>- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.<p>- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.<p>This update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.<p>I&#x27;d love to hear any feedback or answer any questions.",
-        "url": "https://menial.co.uk/base/"
-      },
-      {
-        "id": "hn-45062614",
-        "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-        "description": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-        "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
-      },
-      {
-        "id": "hn-45004846",
-        "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
-        "description": "Comet AI browser can get prompt injected from any site, drain your bank account",
-        "url": "https://twitter.com/zack_overflow/status/1959308058200551721"
-      },
-      {
-        "id": "hn-45086020",
-        "title": "Eternal Struggle",
-        "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a>",
-        "url": "https://yoavg.github.io/eternal/"
-      },
-      {
-        "id": "hn-45092925",
-        "title": "Google AI Overview made up an elaborate story about me",
-        "description": "Google AI Overview made up an elaborate story about me",
-        "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
-      },
-      {
-        "id": "hn-45062910",
-        "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
-        "description": "Some users have noticed settings that let Meta analyze and retain phone photos",
-        "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
+        "id": "hn-45062046",
+        "title": "An LLM is a lossy encyclopedia",
+        "description": "(the referenced HN thread starts at <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45060519\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45060519</a>)",
+        "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/"
       }
     ]
   },
   {
     "name": "Reddit AI",
-    "articles": [
-      {
-        "id": "reddit-LocalLLaMA-exen7hanh",
-        "title": "[r/LocalLLaMA] AMA With Z.AI, The Lab Behind GLM Models",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><h1>AMA with Z.AI — The Lab Behind GLM Models. Ask Us Anything!</h1> <p>Hi <a href=&quot;/r/LocalLLaMA&quot;>r/LocalLLaMA</a></p> <p>Today we are having <st...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2ghx4/ama_with_zai_the_lab_behind_glm_models/"
-      },
-      {
-        "id": "reddit-OpenAI-7p2n1glrz",
-        "title": "[r/OpenAI] Bro asked an AI for a diagnosis instead of a doctor.",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/&quot;> <img src=&quot;https://preview.redd.it/58ucgdy4comf1.jpeg?width=...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1n69i4w/bro_asked_an_ai_for_a_diagnosis_instead_of_a/"
-      },
-      {
-        "id": "reddit-singularity-ow3sfx0ac",
-        "title": "[r/singularity] You don’t work with great people enough if you keep saying AI is going to replace people - Logan",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/&quot;> <img src=&quot;https://preview.redd.it/z465et3gvkmf1.jpeg?...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n5syba/you_dont_work_with_great_people_enough_if_you/"
-      },
-      {
-        "id": "reddit-ChatGPT-srwaoknex",
-        "title": "[r/ChatGPT] What am I doing wrong?",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/&quot;> <img src=&quot;https://a.thumbs.redditmedia.com/97MUNYJvudP2SbgXm0UnxzsNVLkef8G_EoDJly...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/"
-      },
-      {
-        "id": "reddit-MachineLearning-xns3yihcl",
-        "title": "[r/MachineLearning] [D] OpenReview website is down!",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I&#39;m trying to upload one pending AAAI review but the website is not opening. </p> <p>Anyone facing the same issue? I&#39;m also curious what would ha...",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1n6aisc/d_openreview_website_is_down/"
-      },
-      {
-        "id": "reddit-artificial-ffffg261z",
-        "title": "[r/artificial] China’s social media platforms rush to abide by AI-generated content labelling law",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/&quot;> <img src=&quot;https://external-preview.redd.it/5t8E-7Afz4...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n5xmdj/chinas_social_media_platforms_rush_to_abide_by/"
-      },
-      {
-        "id": "reddit-ChatGPT-nyhof95bz",
-        "title": "[r/ChatGPT] ChatGPT vs Gemini",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/&quot;> <img src=&quot;https://preview.redd.it/uxyrsbztokmf1.jpeg?width=640&amp;crop=smart&amp;aut...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1n5ryee/chatgpt_vs_gemini/"
-      },
-      {
-        "id": "reddit-OpenAI-jw0bjooeo",
-        "title": "[r/OpenAI] Do users ever use your AI in completely unexpected ways?",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/&quot;> <img src=&quot;https://preview.redd.it/9lgffs5yhlmf1.jpeg?width=640&a...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1n5wdke/do_users_ever_use_your_ai_in_completely/"
-      },
-      {
-        "id": "reddit-LocalLLaMA-3xolx1zj3",
-        "title": "[r/LocalLLaMA] Why are all AI &quot;Success&quot; posts terrible?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>&quot;Wow look at this!&quot; someone cries, and includes a screenshot/gif from a single-line AI prompt magically producing a working product.</p> <p>Gre...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n68afq/why_are_all_ai_success_posts_terrible/"
-      },
-      {
-        "id": "reddit-artificial-2hkii5rqz",
-        "title": "[r/artificial] What are the limitations of AI Agent in its current application?",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/HVoLB6SzjYTxO...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n676lg/what_are_the_limitations_of_ai_agent_in_its/"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Dev Community AI",
     "articles": [
       {
-        "id": "dev-2711922",
-        "title": "The Best Resources for Getting Started with Agents in 2025",
-        "description": "Most AI Agents used to break the moment you tried plugging them into a real app. The issue was the...",
-        "url": "https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3"
+        "id": "dev-2599938",
+        "title": "Reflect and Share Your World's Largest Hackathon Journey: Writing Challenge Now Open 🌟",
+        "description": "The building period for the World's Largest Hackathon has officially wrapped up, and what an...",
+        "url": "https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82"
       },
       {
         "id": "dev-2624745",
@@ -169,34 +84,22 @@
         "url": "https://dev.to/googleai/from-prompt-to-deployed-app-in-less-than-2-minutes-dh3"
       },
       {
-        "id": "dev-2530375",
-        "title": "👨🏻‍💻 Hacking Dioxus: How Vibe Coding Is Destroying Software Engineering",
-        "description": "TL;DR   If you're hiring vibe coders, think again before it's too late. This post isn't...",
-        "url": "https://dev.to/wiseai/hacking-dioxus-how-vibe-coding-is-destroying-software-engineering-3ggm"
+        "id": "dev-2603632",
+        "title": "Letting Playwright MCP Explore your site and Write your Tests",
+        "description": "What if your tests could write themselves — just by using your app like a real user?  In this post,...",
+        "url": "https://dev.to/debs_obrien/letting-playwright-mcp-explore-your-site-and-write-your-tests-mf1"
       },
       {
-        "id": "dev-2644203",
-        "title": "Announcing the First DEV Education Track: \"Build Apps with Google AI Studio\"",
-        "description": "The moment is here! We recently announced DEV Education Tracks, our new initiative to bring you...",
-        "url": "https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7"
+        "id": "dev-2711922",
+        "title": "The Best Resources for Getting Started with Agents in 2025",
+        "description": "Most AI Agents used to break the moment you tried plugging them into a real app. The issue was the...",
+        "url": "https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3"
       },
       {
-        "id": "dev-2636604",
-        "title": "📢 HMPL-DOM v0.0.1 Released: Write Reactive HTML Without JavaScript",
-        "description": "Hello! This is not clickbait. I thought for a long time about what to call this article, but it is...",
-        "url": "https://dev.to/hmpljs/hmpl-dom-v001-release-the-most-important-module-4783"
-      },
-      {
-        "id": "dev-2555851",
-        "title": "I vibe-coded a $20M YC app in a weekend, here's how🧙‍♂️ 🪄",
-        "description": "I realised that many companies offer no-code platforms to their users for automating workflows. The...",
-        "url": "https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o"
-      },
-      {
-        "id": "dev-2532168",
-        "title": "Fullstack Open Source Projects That Will Help You Become AI Devs (Python, JavaScript, AI)",
-        "description": "Want to know a great way to build a strong career as a developer? Learn Python, JavaScript, and AI....",
-        "url": "https://dev.to/fast/fullstack-open-source-projects-that-will-help-you-become-ai-devs-python-javascript-ai-4m9a"
+        "id": "dev-2663849",
+        "title": "9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻",
+        "description": "In the current software development domain where everything changes so rapidly, keeping up with up to...",
+        "url": "https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6"
       },
       {
         "id": "dev-2541653",
@@ -205,70 +108,28 @@
         "url": "https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4"
       },
       {
-        "id": "dev-2599938",
-        "title": "Reflect and Share Your World's Largest Hackathon Journey: Writing Challenge Now Open 🌟",
-        "description": "The building period for the World's Largest Hackathon has officially wrapped up, and what an...",
-        "url": "https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82"
+        "id": "dev-2665910",
+        "title": "Reactive HTML Without JavaScript Frameworks 🔥",
+        "description": "In the modern web development landscape, JavaScript frameworks like  Vue, and Angular dominate...",
+        "url": "https://dev.to/anthonymax/reactive-html-without-javascript-frameworks-1anh"
       },
       {
-        "id": "dev-2720785",
-        "title": "Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!",
-        "description": "We're thrilled to partner with n8n and Bright Data to bring the community a brand new...",
-        "url": "https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb"
+        "id": "dev-2636604",
+        "title": "📢 HMPL-DOM v0.0.1 Released: Write Reactive HTML Without JavaScript",
+        "description": "Hello! This is not clickbait. I thought for a long time about what to call this article, but it is...",
+        "url": "https://dev.to/hmpljs/hmpl-dom-v001-release-the-most-important-module-4783"
       },
       {
-        "id": "dev-2767019",
-        "title": "MemMouse — Enterprise Memory Management",
-        "description": "This is a submission for the Redis AI Challenge: Beyond the Cache.           What I Built   MemMouse...",
-        "url": "https://dev.to/vsoldatov/memmouse-enterprise-memory-management-m9o"
+        "id": "dev-2644203",
+        "title": "Announcing the First DEV Education Track: \"Build Apps with Google AI Studio\"",
+        "description": "The moment is here! We recently announced DEV Education Tracks, our new initiative to bring you...",
+        "url": "https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7"
       },
       {
-        "id": "dev-2756682",
-        "title": "LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️",
-        "description": "When we talk about such a topic as data storage, we immediately remember these 3 concepts. But here's...",
-        "url": "https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d"
-      },
-      {
-        "id": "dev-2783813",
-        "title": "Build Your Own AI Stock Portfolio Agent with Agno + AG-UI",
-        "description": "In this guide, you will learn how to integrate Agno agents with the AG-UI protocol.   Additionally,...",
-        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp"
-      },
-      {
-        "id": "dev-2754197",
-        "title": "Build a Fullstack Stock Portfolio Agent with CrewAI and AG-UI",
-        "description": "In this guide, you will learn how to integrate CrewAI agents with AG-UI protocol. Also, we will cover...",
-        "url": "https://dev.to/copilotkit/how-to-integrate-crewai-agents-with-ag-ui-protocol-crewai-ag-ui-copilotkit-3n1d"
-      },
-      {
-        "id": "dev-2798876",
-        "title": "10 AI Tools That Took My SaaS Website from Zero to Launch!",
-        "description": "I recently set out to build a full-fledged SaaS website from the ground up – and it turned out to be...",
-        "url": "https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0"
-      },
-      {
-        "id": "dev-2783975",
-        "title": "There's something off in the \"dev with AI or die\" narrative",
-        "description": "It's everywhere, it's eating up every other dev topic debate: learn to dev with AI or you'll be...",
-        "url": "https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975"
-      },
-      {
-        "id": "dev-2769953",
-        "title": "Build Your Own AI Stock Portfolio Agent with LlamaIndex + AG-UI",
-        "description": "In this guide, you will learn how to integrate LlamaIndex agents with the AG-UI protocol. Also, we...",
-        "url": "https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-llamaindex-ag-ui-62"
-      },
-      {
-        "id": "dev-2750123",
-        "title": "How I Designed a Credit System That Actually Makes Users Upgrade",
-        "description": "In the first 24 hours after launching Learnflow AI, I was quietly optimistic. Users signed up....",
-        "url": "https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5"
-      },
-      {
-        "id": "dev-2781636",
-        "title": "We're the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.",
-        "description": "Hey DEV community! 👋  We're the team behind Google AI Studio and the Gemini API at Google DeepMind....",
-        "url": "https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4"
+        "id": "dev-2690431",
+        "title": "Introducing Kiro – An AI IDE That Thinks Like a Developer",
+        "description": "👋 Hey there, tech enthusiasts!   I'm Sarvar, a Cloud Architect with a passion for transforming...",
+        "url": "https://dev.to/aws-builders/introducing-kiro-an-ai-ide-that-thinks-like-a-developer-42jp"
       }
     ]
   }
