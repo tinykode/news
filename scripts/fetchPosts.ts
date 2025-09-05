@@ -6,9 +6,9 @@ import { DevToProvider } from './providers/DevToProvider.js';
 import { Article } from './providers/BaseProvider.js';
 
 const providers = [
-  new HackerNewsProvider(), 
-  new RedditRSSProvider(), 
-  new DevToProvider()
+  new RedditRSSProvider(),
+  new DevToProvider(),
+  new HackerNewsProvider(),
 ];
 
 async function fetchAllPosts() {

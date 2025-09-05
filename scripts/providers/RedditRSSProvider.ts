@@ -4,13 +4,12 @@ export class RedditRSSProvider extends BaseProvider {
   name = 'Reddit AI';
   
   private subreddits = [
-    'MachineLearning',
-    'artificial',
     'ChatGPT',
     'OpenAI',
+    'artificial',
+    'ArtificialInteligence',
     'LocalLLaMA',
     'singularity',
-    'deeplearning'
   ];
   
   async fetchPosts(): Promise<Article[]> {
@@ -49,10 +48,10 @@ export class RedditRSSProvider extends BaseProvider {
     try {
       // Use RSS feed instead of JSON API as it's less likely to be blocked
       const response = await fetch(`https://www.reddit.com/r/${subreddit}/hot.rss?limit=50`, {
-        headers: {
-          'User-Agent': 'tinykode-news/1.0.0 (RSS Reader)',
-          'Accept': 'application/rss+xml, application/xml, text/xml'
-        }
+        // headers: {
+        //   'User-Agent': 'paper-feed/1.0.0 (RSS Reader)',
+        //   'Accept': 'application/rss+xml, application/xml, text/xml'
+        // }
       });
       
       if (!response.ok) {

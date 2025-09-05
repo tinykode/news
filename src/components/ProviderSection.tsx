@@ -13,7 +13,7 @@ interface ProviderSectionProps {
 }
 
 export const ProviderSection = ({ name, articles }: ProviderSectionProps) => {
-  const topArticles = articles;
+  const topArticles = articles.slice(0, 6);
 
   return (
     <div className="px-4 mb-8">
