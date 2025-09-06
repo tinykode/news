@@ -6,7 +6,7 @@ const Index = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/assets/posts.json')
+    fetch('./assets/posts.json')
       .then(response => response.json())
       .then(data => {
         setProviders(data);
