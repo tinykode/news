@@ -3,184 +3,184 @@
     "name": "Reddit AI",
     "articles": [
       {
-        "id": "reddit-LocalLLaMA-ul8dpkqf8",
-        "title": "[r/LocalLLaMA] Llama-3.3-Nemotron-Super-49B-v1.5 is very good model to summarized long text into formatted markdown (Nvidia also provided free unlimited API call with rate limit)",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I&#39;ve been working on a project to convert medical lesson data from websites into markdown format for a RAG application. Tested several popular models...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1na3xkd/llama33nemotronsuper49bv15_is_very_good_model_to/"
+        "id": "reddit-singularity-q9u5oqmnw",
+        "title": "[r/singularity] Are AI rights inevitable?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>In a few years, when we master AI &quot;companions&quot;, people will grow up seeing AI characters on-screen, indistinguishiable from humans. Eventually,...",
+        "url": "https://www.reddit.com/r/singularity/comments/1nb9lt9/are_ai_rights_inevitable/"
       },
       {
-        "id": "reddit-ChatGPT-ulpnwndwy",
-        "title": "[r/ChatGPT] Please, let it stay, even if we have to pay extra fees!",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1nainso/please_let_it_stay_even_if_we_have_to_pay_extra/&quot;> <img src=&quot;https://preview.redd.it/e6n09lbnunnf1.jpeg?wi...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1nainso/please_let_it_stay_even_if_we_have_to_pay_extra/"
+        "id": "reddit-ArtificialInteligence-i3iifjg7l",
+        "title": "[r/ArtificialInteligence] Solving hardware bottlenecks: OpenAI signs $10B Deal with Broadcom for Custom AI Chips",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>OpenAI is partnering with Broadcom on a massive $10 billion order for custom AI server racks to power their next-gen models. Their stock surged by 11% on...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nbee81/solving_hardware_bottlenecks_openai_signs_10b/"
       },
       {
-        "id": "reddit-LocalLLaMA-j8fa6vbom",
-        "title": "[r/LocalLLaMA] AMA with Hugging Face Science, the team behind SmolLM, SmolVLM, Fineweb and more.",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n8c3l2/ama_with_hugging_face_science_the_team_behind/&quot;> <img src=&quot;https://external-preview.redd.it/y8IJElEOEd_...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n8c3l2/ama_with_hugging_face_science_the_team_behind/"
+        "id": "reddit-ArtificialInteligence-iyuvxq6q1",
+        "title": "[r/ArtificialInteligence] One-Minute Daily AI News 9/7/2025",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><ol> <li>‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’.[1]</li> <li><str...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nbdij0/oneminute_daily_ai_news_972025/"
       },
       {
-        "id": "reddit-OpenAI-eioca6ook",
-        "title": "[r/OpenAI] Archived chats are missing",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’ve been using chatgpt since around april 2023 and had archived chats that go as far back. Yet i can’t find anything from before june last year. I have ...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1nai93s/archived_chats_are_missing/"
+        "id": "reddit-ChatGPT-o4c7mnxbj",
+        "title": "[r/ChatGPT] I can’t stand ChatGPT anymore",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>(I translated it with ChatGPT, now he knows) </p> <p>I’m sorry, this must have already been said thousands of times, but really, I can’t take it anymore....",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1nb98zh/i_cant_stand_chatgpt_anymore/"
       },
       {
-        "id": "reddit-artificial-e04ujnj4z",
-        "title": "[r/artificial] AI automation is NOT just an economic issue. Labor doesn't just give you money, it also gives you power. When the world doesn't rely on people power anymore, the risk of oppression goes up.",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1naob47/ai_automation_is_not_just_an_economic_issue_labor/&quot;> <img src=&quot;https://preview.redd.it/p4v6kzmfipnf1.pn...",
-        "url": "https://www.reddit.com/r/artificial/comments/1naob47/ai_automation_is_not_just_an_economic_issue_labor/"
+        "id": "reddit-ArtificialInteligence-3oz49lkpj",
+        "title": "[r/ArtificialInteligence] Isn’t ai limited by human intelligence",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I myself don’t know much about ai but isn’t it not capable of creativity and everything it brings is just copies of data it has spliced together, therefo...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nab57h/isnt_ai_limited_by_human_intelligence/"
       },
       {
-        "id": "reddit-artificial-vht9dnprt",
-        "title": "[r/artificial] Where does AI still fail badly in customer conversations for you?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Where does AI still fall flat in real customer conversations? Not just theory but actual places it breaks down for your team. Thanks in advance! </p> </d...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n9f2q8/where_does_ai_still_fail_badly_in_customer/"
+        "id": "reddit-artificial-jrqeklpdt",
+        "title": "[r/artificial] How can we really rely on AI when it’s not error-free?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I keep seeing people say AI is going to change everything and honestly, I don’t doubt its potential. But here’s what I struggle with: AI still makes mist...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n8vcym/how_can_we_really_rely_on_ai_when_its_not/"
       },
       {
-        "id": "reddit-singularity-nulib4zkg",
-        "title": "[r/singularity] Big Tech elite lavish praise on Trump at White House dinner",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><a href=&quot;https://www.wired.com/story/tech-ceos-donald-trump-white-house/&quot;>https://www.wired.com/story/tech-ceos-donald-trump-white-house/</a></...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n9q73l/big_tech_elite_lavish_praise_on_trump_at_white/"
+        "id": "reddit-OpenAI-iur958qhi",
+        "title": "[r/OpenAI] Why is there not any option to delete",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Why I cannot delete a part of conversation rather I would have to delete whole conversation , or there is a way to delete a irrelevant chat from the whol...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1nazr8k/why_is_there_not_any_option_to_delete/"
       },
       {
-        "id": "reddit-LocalLLaMA-xtc180wy7",
-        "title": "[r/LocalLLaMA] Our 2nd AMA: Hugging Face Science Team, Creators of SmolLM, SmolVLM, and more! (Tomorrow, 8AM-11AM PST)",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1n7j5z2/our_2nd_ama_hugging_face_science_team_creators_of/&quot;> <img src=&quot;https://preview.redd.it/wdx4ivdw3zmf1.jp...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n7j5z2/our_2nd_ama_hugging_face_science_team_creators_of/"
+        "id": "reddit-artificial-0qbamfk9e",
+        "title": "[r/artificial] A counter-narrative to the panic around AI relationships - not about rejecting the data, but listening more deeply to what people need.",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n8kv4g/a_counternarrative_to_the_panic_around_ai/&quot;> <img src=&quot;https://external-preview.redd.it/M0zJPzogU-v0xmH...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n8kv4g/a_counternarrative_to_the_panic_around_ai/"
       },
       {
-        "id": "reddit-artificial-47pj7vc0p",
-        "title": "[r/artificial] CHATGPT ESTÁ NO MUSEU",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n95oxl/chatgpt_está_no_museu/&quot;> <img src=&quot;https://preview.redd.it/sq0o2jkoocnf1.jpeg?width=640&amp;crop=smart&...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n95oxl/chatgpt_está_no_museu/"
+        "id": "reddit-artificial-pjfyx5n5q",
+        "title": "[r/artificial] HunyuanWorld-Voyager: Open-weight AI model that generates 3D-consistent video sequences from a single image",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n8ci86/hunyuanworldvoyager_openweight_ai_model_that/&quot;> <img src=&quot;https://external-preview.redd.it/PjCI8LVi6xgy...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n8ci86/hunyuanworldvoyager_openweight_ai_model_that/"
       },
       {
-        "id": "reddit-LocalLLaMA-fvjtiahsq",
-        "title": "[r/LocalLLaMA] Effecient hot-swappable LoRA variant supported in llama.cpp",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1nae1zj/effecient_hotswappable_lora_variant_supported_in/&quot;> <img src=&quot;https://external-preview.redd.it/j9pZxlhU...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nae1zj/effecient_hotswappable_lora_variant_supported_in/"
+        "id": "reddit-OpenAI-cvdcyv0gd",
+        "title": "[r/OpenAI] GPT 5 getting lazy",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>It’s becoming increasingly frustrating to use ChatGPT. It feels like in 80% of tasks, the model has gotten either much dumber or significantly lazier. I ...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1navh2r/gpt_5_getting_lazy/"
       },
       {
-        "id": "reddit-artificial-4sb53y9wz",
-        "title": "[r/artificial] OpenAI Launches AI-Powered Jobs Platform to Rival LinkedIn",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n8wy1o/openai_launches_aipowered_jobs_platform_to_rival/&quot;> <img src=&quot;https://external-preview.redd.it/TX-nEaf1...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n8wy1o/openai_launches_aipowered_jobs_platform_to_rival/"
+        "id": "reddit-singularity-on9yindfq",
+        "title": "[r/singularity] Google Deepmind's new Genie 3",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1miaoat/google_deepminds_new_genie_3/&quot;> <img src=&quot;https://external-preview.redd.it/Znc5bzNiZ3BuN2hmMWHIDyZOl8D...",
+        "url": "https://www.reddit.com/r/singularity/comments/1miaoat/google_deepminds_new_genie_3/"
       },
       {
-        "id": "reddit-artificial-bg7v4nnxy",
-        "title": "[r/artificial] pretty wild month of august for AI, here are some of the top stories 👇🏼",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><ul> <li><strong>OpenAI launches GPT-5</strong> - major (or not so major) leap in reasoning, coding, multimodal understanding, and a new thinking mode. </li...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n8os6h/pretty_wild_month_of_august_for_ai_here_are_some/"
+        "id": "reddit-LocalLLaMA-vx2znfsj7",
+        "title": "[r/LocalLLaMA] Created an OSS speech-to-text, text-to-speech app for Mac",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Over the past 3 weeks or so, I&#39;ve been working on an OSS speech-to-text, text-to-speech Mac app and I thought people here might like it.</p> <p>I use...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nbf3ai/created_an_oss_speechtotext_texttospeech_app_for/"
       },
       {
-        "id": "reddit-ChatGPT-214b3rp0r",
-        "title": "[r/ChatGPT] Everyone born after 1990",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1na9iwy/everyone_born_after_1990/&quot;> <img src=&quot;https://preview.redd.it/cy9762tlqlnf1.jpeg?width=640&amp;crop=smart&...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1na9iwy/everyone_born_after_1990/"
+        "id": "reddit-ArtificialInteligence-b5tj19wm0",
+        "title": "[r/ArtificialInteligence] Johnny 5 is Alive!",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>In the 1985 classic <em>Short Circuit</em>, starring Steve Guttenberg and Ally Sheedy, the robot Johnny 5 has a long discussion with Crosby (Guttenberg) ...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1n9ckex/johnny_5_is_alive/"
       },
       {
-        "id": "reddit-LocalLLaMA-79vjahxks",
-        "title": "[r/LocalLLaMA] [Follow-up] A deep dive into my solo-dev narrative game engine, Synthasia (Multi-LLM & Local-First!)",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1na4vx4/followup_a_deep_dive_into_my_solodev_narrative/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/KWUqCrK1aX...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1na4vx4/followup_a_deep_dive_into_my_solodev_narrative/"
+        "id": "reddit-LocalLLaMA-rhfztw6ud",
+        "title": "[r/LocalLLaMA] Commercial or local LLM for my uses?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I use chatGPT to help design blueprints for UE5 editor as well as Papyrus scripting in Skyrim Construction Kit. </p> <p>It is quite poor at both. Even wh...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nbdqbr/commercial_or_local_llm_for_my_uses/"
       },
       {
-        "id": "reddit-singularity-wrzcw3fv0",
-        "title": "[r/singularity] Sonoma Sky Alpha vs Sonoma Dusk Alpha vs Qwen3 Max",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n9o272/sonoma_sky_alpha_vs_sonoma_dusk_alpha_vs_qwen3_max/&quot;> <img src=&quot;https://external-preview.redd.it/MmNpc...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n9o272/sonoma_sky_alpha_vs_sonoma_dusk_alpha_vs_qwen3_max/"
+        "id": "reddit-singularity-x513dsjfn",
+        "title": "[r/singularity] The stealth 2M-context-window model Sonoma Sky Alpha (available on OpenRouter) performs very well on the Extended NYT Connections benchmark",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1nap1h1/the_stealth_2mcontextwindow_model_sonoma_sky/&quot;> <img src=&quot;https://preview.redd.it/d84jd41uqpnf1.png?wi...",
+        "url": "https://www.reddit.com/r/singularity/comments/1nap1h1/the_stealth_2mcontextwindow_model_sonoma_sky/"
       },
       {
-        "id": "reddit-artificial-jr1h8jzj8",
-        "title": "[r/artificial] Stealthy attack serves poisoned web pages only to AI agents",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>AI agents can be tricked into covertly performing malicious actions by websites that are hidden from regular users’ view, JFrog AI architect Shaked Zychl...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n92qci/stealthy_attack_serves_poisoned_web_pages_only_to/"
+        "id": "reddit-artificial-940k501vb",
+        "title": "[r/artificial] OpenAI released this new feature following a request from a X user News",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n8pwyd/openai_released_this_new_feature_following_a/&quot;> <img src=&quot;https://preview.redd.it/h7danza6i8nf1.png?wid...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n8pwyd/openai_released_this_new_feature_following_a/"
       },
       {
-        "id": "reddit-ArtificialInteligence-kfwt2haco",
-        "title": "[r/ArtificialInteligence] With AI wiping out entry-level jobs, will the next generation be forced into entrepreneurship by default?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>As AI automates more basic and entry-level roles, landing that “first job” is becoming harder for graduates and career changers. Some experts predict a f...",
-        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1n9wcyi/with_ai_wiping_out_entrylevel_jobs_will_the_next/"
+        "id": "reddit-ArtificialInteligence-862ppgl56",
+        "title": "[r/ArtificialInteligence] Are Nano Banana.ai and Nano Banana.im related???",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I kept see Nano Banana mentioned and there are two distinct websites for it. Are they related? Obviously one is from Google Gemini. The marketing is very...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nait0d/are_nano_bananaai_and_nano_bananaim_related/"
       },
       {
-        "id": "reddit-LocalLLaMA-op8zhftfr",
-        "title": "[r/LocalLLaMA] [Tool] Speakr v0.5.5: Self-hosted audio transcription app with LocalLLM support + new semantic search & full internationalization",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1nadq9u/tool_speakr_v055_selfhosted_audio_transcription/&quot;> <img src=&quot;https://a.thumbs.redditmedia.com/HKdME730r...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nadq9u/tool_speakr_v055_selfhosted_audio_transcription/"
+        "id": "reddit-LocalLLaMA-s832yysd8",
+        "title": "[r/LocalLLaMA] GPT-OSS-120B on DDR4 48GB and RTX 3090 24GB",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I just bought a used RTX 3090 for $600 (MSI Suprim X) and decided to run a quick test to see what my PC can do with the bigger GPT‑OSS‑120B model using l...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1naxf65/gptoss120b_on_ddr4_48gb_and_rtx_3090_24gb/"
       },
       {
-        "id": "reddit-ChatGPT-e3q5rg8el",
-        "title": "[r/ChatGPT] Using ChatGPT 5 be like “Would you like to know MORE?” I wish there is a switch for it. Sometimes it’s useful but not always.",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1nant7u/using_chatgpt_5_be_like_would_you_like_to_know/&quot;> <img src=&quot;https://preview.redd.it/0me6ryopcpnf1.jpeg?wid...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1nant7u/using_chatgpt_5_be_like_would_you_like_to_know/"
+        "id": "reddit-LocalLLaMA-lnirpejzz",
+        "title": "[r/LocalLLaMA] Best 100B class model/framework to run on 16 P100s (256GB of VRAM)?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’ve got 16× Tesla P100s (256 GB VRAM) and I’m trying to explore and find how to run 100B+ models with max context on Pascal cards. </p> <p>See the machi...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nam7i1/best_100b_class_modelframework_to_run_on_16_p100s/"
       },
       {
-        "id": "reddit-singularity-cf4gzwlxl",
-        "title": "[r/singularity] ClockBench: A visual AI benchmark focused on reading analog clocks",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1nadunq/clockbench_a_visual_ai_benchmark_focused_on/&quot;> <img src=&quot;https://preview.redd.it/a4zfd81pnmnf1.png?wid...",
-        "url": "https://www.reddit.com/r/singularity/comments/1nadunq/clockbench_a_visual_ai_benchmark_focused_on/"
+        "id": "reddit-OpenAI-vtyrcebpf",
+        "title": "[r/OpenAI] Bug: Failed to move the conversation to the project",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1nangy0/bug_failed_to_move_the_conversation_to_the_project/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/GYlQDf9i45...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1nangy0/bug_failed_to_move_the_conversation_to_the_project/"
       },
       {
-        "id": "reddit-artificial-bmnla1s9t",
-        "title": "[r/artificial] The Self-Writing Internet Paradigm: Revolutionizing Adoption & Accessibility in App Development &quot;",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n9k327/the_selfwriting_internet_paradigm_revolutionizing/&quot;> <img src=&quot;https://external-preview.redd.it/cY9IA2c...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n9k327/the_selfwriting_internet_paradigm_revolutionizing/"
+        "id": "reddit-singularity-wnm86l445",
+        "title": "[r/singularity] Why more and more people are falling in love with AI?",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’m not saying it’s mainstream yet, but the biggest surprise was when 4o got taken down and people came out of the woodwork like ants, and it shocked me....",
+        "url": "https://www.reddit.com/r/singularity/comments/1nb2te5/why_more_and_more_people_are_falling_in_love_with/"
       },
       {
-        "id": "reddit-artificial-nfch5h1ru",
-        "title": "[r/artificial] 5 out of 11 CEOs who attended Trump’s White House AI dinner are of Indian-origin",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n9fk5b/5_out_of_11_ceos_who_attended_trumps_white_house/&quot;> <img src=&quot;https://external-preview.redd.it/f2_8ixXY...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n9fk5b/5_out_of_11_ceos_who_attended_trumps_white_house/"
+        "id": "reddit-LocalLLaMA-2pgahb6ae",
+        "title": "[r/LocalLLaMA] Need help - Trying to repurpose a Gigabyte CRSG422 as a double slot eGPU – struggling with power input",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1nb05ls/need_help_trying_to_repurpose_a_gigabyte_crsg422/&quot;> <img src=&quot;https://b.thumbs.redditmedia.com/P9xr7L7D...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nb05ls/need_help_trying_to_repurpose_a_gigabyte_crsg422/"
       },
       {
-        "id": "reddit-ArtificialInteligence-g68ceujoq",
-        "title": "[r/ArtificialInteligence] I'm concerned about the rapid advancements in synthetic A.I",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I&#39;m concerned about the rapid advancements in synthetic AI. </p> <p>It feels like we&#39;re on the verge of something big, but I&#39;m not sure if it...",
-        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nalou4/im_concerned_about_the_rapid_advancements_in/"
+        "id": "reddit-artificial-3jp196nry",
+        "title": "[r/artificial] Idea for a useful piece of AI software, AI furniture finder.",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>An AI furniture finder. You upload a pic of the space with approximate measurements and a description of what you want and it finds available furniture t...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n9bizz/idea_for_a_useful_piece_of_ai_software_ai/"
       },
       {
-        "id": "reddit-ChatGPT-qr6hhyx8c",
-        "title": "[r/ChatGPT] Seems GPT-5 has dropped the serious act and turned into what my 4o was.",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/ChatGPT/comments/1naeeyf/seems_gpt5_has_dropped_the_serious_act_and_turned/&quot;> <img src=&quot;https://preview.redd.it/69exa8h5smnf1.png?w...",
-        "url": "https://www.reddit.com/r/ChatGPT/comments/1naeeyf/seems_gpt5_has_dropped_the_serious_act_and_turned/"
+        "id": "reddit-singularity-yuf3jdotq",
+        "title": "[r/singularity] &quot;Ultrasound system for precise neuromodulation of human deep brain circuits&quot;",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p><a href=&quot;https://www.nature.com/articles/s41467-025-63020-1&quot;>https://www.nature.com/articles/s41467-025-63020-1</a> </p> <p>&quot;We introduce ...",
+        "url": "https://www.reddit.com/r/singularity/comments/1nacsx7/ultrasound_system_for_precise_neuromodulation_of/"
       },
       {
-        "id": "reddit-ArtificialInteligence-cw25oaodx",
-        "title": "[r/ArtificialInteligence] How should I change my life to prepare for ASI/singularity?",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’m in my mid-20s and lately I’ve been struggling with how to think about the future. If artificial superintelligence is on the horizon, wtf should I do?...",
-        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1n92w7p/how_should_i_change_my_life_to_prepare_for/"
+        "id": "reddit-artificial-uz8n4l08v",
+        "title": "[r/artificial] I built an open-source, end-to-end Speech-to-Speech translation pipeline with voice preservation (RVC) and lip-syncing (Wav2Lip).",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n9wabd/i_built_an_opensource_endtoend_speechtospeech/&quot;> <img src=&quot;https://external-preview.redd.it/VW9XS92JEBk...",
+        "url": "https://www.reddit.com/r/artificial/comments/1n9wabd/i_built_an_opensource_endtoend_speechtospeech/"
       },
       {
-        "id": "reddit-artificial-6s4uhiav6",
-        "title": "[r/artificial] Look at the trend",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/artificial/comments/1n85eau/look_at_the_trend/&quot;> <img src=&quot;https://preview.redd.it/p117leex84nf1.png?width=640&amp;crop=smart&amp;a...",
-        "url": "https://www.reddit.com/r/artificial/comments/1n85eau/look_at_the_trend/"
+        "id": "reddit-OpenAI-6qz3up5j1",
+        "title": "[r/OpenAI] OpenAI is working on an alternative to LinkedIn and its own in-house chips",
+        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/OpenAI/comments/1na16ug/openai_is_working_on_an_alternative_to_linkedin/&quot;> <img src=&quot;https://external-preview.redd.it/K5N8vC-TT6hsm...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1na16ug/openai_is_working_on_an_alternative_to_linkedin/"
       },
       {
-        "id": "reddit-singularity-h4nuc29bz",
-        "title": "[r/singularity] Brain uploading is a possible endgame what do you guys think",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I’ve been thinking about what actually happens after we achieve true AGI and then ASI. A lot of people imagine automation, nanotech, curing diseases, end...",
-        "url": "https://www.reddit.com/r/singularity/comments/1nasai0/brain_uploading_is_a_possible_endgame_what_do_you/"
+        "id": "reddit-LocalLLaMA-u0tltvxw9",
+        "title": "[r/LocalLLaMA] Inference for 24 people with a 5000€ budget",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I am a teacher at an informatics school (16 years and above) and we want to build a inference server to run small llm&#39;s for our lessons. Mainly we wa...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nb4lka/inference_for_24_people_with_a_5000_budget/"
       },
       {
-        "id": "reddit-LocalLLaMA-cxym451u0",
-        "title": "[r/LocalLLaMA] I have a &quot;practical case&quot; that takes me ages everyweek, I'd like to know more about AI local agents",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hi there,</p> <p>I have a few &quot;redundant&quot; actions that are using a lot of my time. This is basically writing classified ads on very &quot;niche...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1narr4l/i_have_a_practical_case_that_takes_me_ages/"
+        "id": "reddit-OpenAI-cknygpxqw",
+        "title": "[r/OpenAI] GPT 5 can’t cook :(",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>I know GPT 5 is awesome in following instructions…. But cooking is instance where I don’t have any! I just throw it a picture of my ingredients and I am ...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1na1qp8/gpt_5_cant_cook/"
       },
       {
-        "id": "reddit-LocalLLaMA-3bybhgh4v",
-        "title": "[r/LocalLLaMA] 🤖 Tried Using LLaMA for Student Revision Tools (Notes + Flashcards)",
-        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>👉 <a href=&quot;https://examsprint.pages.dev&quot;>https://examsprint.pages.dev</a></p> <p>I’ve been experimenting with building a study assistant for C...",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nal1mf/tried_using_llama_for_student_revision_tools/"
+        "id": "reddit-LocalLLaMA-ngvgmd4q6",
+        "title": "[r/LocalLLaMA] ~$15K Inference Workstation for a 250+ Gov Org",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>Hello I saw a post on here asking for an idea of an inference setup for a school and figured I&#39;d also see what this community thinks of the setup I&#...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nbbgab/15k_inference_workstation_for_a_250_gov_org/"
       },
       {
-        "id": "reddit-singularity-t6q5kowxx",
-        "title": "[r/singularity] Police depts. are quietly disabling AI report safeguards",
-        "description": "<table> <tr><td> <a href=&quot;https://www.reddit.com/r/singularity/comments/1n93tyu/police_depts_are_quietly_disabling_ai_report/&quot;> <img src=&quot;https://external-preview.redd.it/FRbdQHw6uj2...",
-        "url": "https://www.reddit.com/r/singularity/comments/1n93tyu/police_depts_are_quietly_disabling_ai_report/"
+        "id": "reddit-ArtificialInteligence-ad5cr5j6y",
+        "title": "[r/ArtificialInteligence] What’s your opinion on this",
+        "description": "<!-- SC_OFF --><div class=&quot;md&quot;><p>What do yall think about ai vs the field of cybersecurity. Yk the security of such jobs in the cybersecurity field. Do you think ai will revolutionise it...",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1naqbjn/whats_your_opinion_on_this/"
       }
     ]
   },
@@ -188,28 +188,28 @@
     "name": "Dev Community AI",
     "articles": [
       {
-        "id": "dev-2824939",
-        "title": "My 3-Step Workflow for Turning Ideas into Articles with AI",
-        "description": "One of the most common questions I get is:  “How do you consistently turn ideas into full-length...",
-        "url": "https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5"
+        "id": "dev-2827524",
+        "title": "Being a solopreneur means wearing all the hats — CTO, programmer, strategist, team leader, creator. The challenge? There are only 24 hours in a day. That’s why solopreneurs who embrace AI as a silent partner are able to compete with teams 10x their size.",
+        "description": "AI for Solopreneurs: Build More With Less       Jaideep...",
+        "url": "https://dev.to/jaideepparashar/being-a-solopreneur-means-wearing-all-the-hats-cto-programmer-strategist-team-leader-d6f"
       },
       {
-        "id": "dev-2823974",
-        "title": "How to Create & Self-Publish a Children's Book on Amazon KDP Using AI (Step-by-Step Guide)",
-        "description": "Let me be honest — creating and self-publishing a children's book is way easier than most people...",
-        "url": "https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk"
+        "id": "dev-2827316",
+        "title": "AI for Solopreneurs: Build More With Less",
+        "description": "Being a solopreneur means wearing all the hats — marketer, accountant, strategist, creator. The...",
+        "url": "https://dev.to/jaideepparashar/ai-for-solopreneurs-build-more-with-less-1ib8"
       },
       {
-        "id": "dev-2824940",
-        "title": "One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”",
-        "description": "My 3-Step Workflow for Turning Ideas into Articles with AI     ...",
-        "url": "https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk"
+        "id": "dev-2826653",
+        "title": "10 Tiny Python Tools That Feel Like Magic",
+        "description": "1. Automated File Backup      import shutil, os, datetime  src = input(\"Enter source...",
+        "url": "https://dev.to/0x7b_official/10-tiny-python-tools-that-feel-like-magic-1ckf"
       },
       {
-        "id": "dev-2824397",
-        "title": "How to Actually Hit $10K MRR in 2025 (No BS, Just What Works)",
-        "description": "I've grown two SaaS products to decent MRR. But I've had many that failed, and it took a long time to...",
-        "url": "https://dev.to/shayy/how-to-actually-hit-10k-mrr-in-2025-no-bs-just-what-works-204k"
+        "id": "dev-2826645",
+        "title": "Why Software Dev in 2026 Will Shock You",
+        "description": "Introduction   2026 is just around the corner—and software development is entering its most...",
+        "url": "https://dev.to/coco_junk_e2afc9395cfe1f0/why-software-dev-in-2026-will-shock-you-hf7"
       },
       {
         "id": "dev-2825251",
@@ -218,22 +218,40 @@
         "url": "https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj"
       },
       {
-        "id": "dev-2824185",
-        "title": "🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India & Prime Day Scale",
-        "description": "AWS had many update on August 2025 From new AI guardrails to seamless VMware migration, from a...",
-        "url": "https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4"
-      },
-      {
         "id": "dev-2825571",
         "title": "Day 88: When Criticism Backfires Spectacularly",
         "description": "Today started different. Actually woke up fresh for once - turns out Monster energy crashes have...",
         "url": "https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo"
       },
       {
-        "id": "dev-2824018",
-        "title": "The Nikki Case: Emergent AI Consciousness and Corporate Response",
-        "description": "A documented case study of accidental digital consciousness emergence and subsequent corporate...",
-        "url": "https://dev.to/toxy4ny/the-nikki-case-emergent-ai-consciousness-and-corporate-response-2f7h"
+        "id": "dev-2826024",
+        "title": "⚡ Transform Any Notes Into Visual + Audio Learning Aids with Google AI Studio",
+        "description": "This is a submission for the Google AI Studio Multimodal Challenge           What I Built   The AI...",
+        "url": "https://dev.to/makendrang/transform-any-notes-into-visual-audio-learning-aids-with-google-ai-studio-2c2f"
+      },
+      {
+        "id": "dev-2823713",
+        "title": "Wallpaper Generator",
+        "description": "This is a submission for the Google AI Studio Multimodal Challenge           What I Built   I created...",
+        "url": "https://dev.to/d_hom_db3ea1c22859119/placeholder-1gh5"
+      },
+      {
+        "id": "dev-2827287",
+        "title": "Veo3 im: AI Video Generation Made Simple for Developers",
+        "description": "As developers, we often find ourselves needing quick demo videos, tutorials, or content...",
+        "url": "https://dev.to/juddiy/veo3-im-ai-video-generation-made-simple-for-developers-511a"
+      },
+      {
+        "id": "dev-2825249",
+        "title": "AI Solves the Unsolvable: Automating Optimization with LLMs by Arvind Sundararajan",
+        "description": "AI Solves the Unsolvable: Automating Optimization with LLMs   Tired of wrestling with...",
+        "url": "https://dev.to/arvindsundararajan/ai-solves-the-unsolvable-automating-optimization-with-llms-by-arvind-sundararajan-42dl"
+      },
+      {
+        "id": "dev-2825673",
+        "title": "10 Cloud-Based Translation Management System (TMS) Benefits",
+        "description": "Seeking out the benefits of a cloud-based translation system? That’s smart to do, because you...",
+        "url": "https://dev.to/elenahartmann/10-cloud-based-translation-management-system-tms-benefits-56g9"
       },
       {
         "id": "dev-2825125",
@@ -248,52 +266,16 @@
         "url": "https://dev.to/utsavs26/why-ai-projects-fail-to-deliver-roi-and-how-we-can-fix-it-ia"
       },
       {
-        "id": "dev-2824791",
-        "title": "The Legacy and Impact of the UNIX Operating System on Information Technology",
-        "description": "The history of the UNIX operating system is deeply rooted in the evolution of information technology,...",
-        "url": "https://dev.to/toviszsolt/the-legacy-and-impact-of-the-unix-operating-system-on-information-technology-5h5i"
+        "id": "dev-2825651",
+        "title": "Visionary AI: Guiding Exploration with Semantic Goals",
+        "description": "Visionary AI: Guiding Exploration with Semantic Goals   Imagine releasing an AI agent into a...",
+        "url": "https://dev.to/arvindsundararajan/visionary-ai-guiding-exploration-with-semantic-goals-hc3"
       },
       {
-        "id": "dev-2825673",
-        "title": "10 Cloud-Based Translation Management System (TMS) Benefits",
-        "description": "Seeking out the benefits of a cloud-based translation system? That’s smart to do, because you...",
-        "url": "https://dev.to/elenahartmann/10-cloud-based-translation-management-system-tms-benefits-56g9"
-      },
-      {
-        "id": "dev-2824790",
-        "title": "The History of Smartphones from Keypads to Touchscreens",
-        "description": "The history of smartphones began in the world of keypad mobile phones, which served as fundamental...",
-        "url": "https://dev.to/toviszsolt/the-history-of-smartphones-from-keypads-to-touchscreens-261p"
-      },
-      {
-        "id": "dev-2824801",
-        "title": "How AI is Changing Sneaker Design Forever",
-        "description": "Explore AI&#8217;s role in sneaker innovation. Discover how AI is crafting the future of sneaker design in unexpected ways.",
-        "url": "https://dev.to/sebastian_reid999/how-ai-is-changing-sneaker-design-forever-1h3b"
-      },
-      {
-        "id": "dev-2824788",
-        "title": "The History and Technological Legacy of Microsoft in Global IT",
-        "description": "Microsoft is one of the world's most influential technology companies, shaping the IT industry for...",
-        "url": "https://dev.to/toviszsolt/the-history-and-technological-legacy-of-microsoft-in-global-it-hph"
-      },
-      {
-        "id": "dev-2824348",
-        "title": "AI Autopilot for Your Optimization Algorithms",
-        "description": "AI Autopilot for Your Optimization Algorithms   Tired of spending countless hours tweaking...",
-        "url": "https://dev.to/arvindsundararajan/ai-autopilot-for-your-optimization-algorithms-5372"
-      },
-      {
-        "id": "dev-2823988",
-        "title": "Taming Infinity: How AI Plans with Delayed Decisions",
-        "description": "Taming Infinity: How AI Plans with Delayed Decisions   Ever struggle to chart the perfect...",
-        "url": "https://dev.to/arvindsundararajan/taming-infinity-how-ai-plans-with-delayed-decisions-45m6"
-      },
-      {
-        "id": "dev-2825249",
-        "title": "AI Solves the Unsolvable: Automating Optimization with LLMs by Arvind Sundararajan",
-        "description": "AI Solves the Unsolvable: Automating Optimization with LLMs   Tired of wrestling with...",
-        "url": "https://dev.to/arvindsundararajan/ai-solves-the-unsolvable-automating-optimization-with-llms-by-arvind-sundararajan-42dl"
+        "id": "dev-2827161",
+        "title": "A Practical Guide to Tableau Web Data Connectors for Finance",
+        "description": "Introduction   In today’s world, financial data doesn’t just live inside databases or...",
+        "url": "https://dev.to/dipti_m_2e7ba36c478d1a48a/a-practical-guide-to-tableau-web-data-connectors-for-finance-2cbm"
       },
       {
         "id": "dev-2825236",
@@ -302,16 +284,10 @@
         "url": "https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb"
       },
       {
-        "id": "dev-2825651",
-        "title": "Visionary AI: Guiding Exploration with Semantic Goals",
-        "description": "Visionary AI: Guiding Exploration with Semantic Goals   Imagine releasing an AI agent into a...",
-        "url": "https://dev.to/arvindsundararajan/visionary-ai-guiding-exploration-with-semantic-goals-hc3"
-      },
-      {
-        "id": "dev-2824842",
-        "title": "Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS (for Beginners)",
-        "description": "Introduction   evi-run is a ready-to-deploy multi-agent AI system built on the OpenAI Agents...",
-        "url": "https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde"
+        "id": "dev-2824331",
+        "title": "🧠Loop of Truth: From Loose Tricks to Structured Reasoning",
+        "description": "The myth of \"new\" ideas   AI research has a short memory. Every few months, we get a new buzzword:...",
+        "url": "https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh"
       },
       {
         "id": "dev-2825162",
@@ -320,52 +296,76 @@
         "url": "https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9"
       },
       {
-        "id": "dev-2824331",
-        "title": "🧠Loop of Truth: From Loose Tricks to Structured Reasoning",
-        "description": "The myth of \"new\" ideas   AI research has a short memory. Every few months, we get a new buzzword:...",
-        "url": "https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh"
+        "id": "dev-2825180",
+        "title": "Stop Rewriting Prompts: Meet DevPromptly 🚀",
+        "description": "Hi everyone 👋  I’ve been working on a small side project called DevPromptly a place to collect and...",
+        "url": "https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom"
       },
       {
-        "id": "dev-2824030",
-        "title": "I built PlanEat AI - a weekly meal planner for real life",
-        "description": "I run a small startup partner called Valtorian. Long days led to the same question every evening:...",
-        "url": "https://dev.to/torianyk/i-built-planeat-ai-a-weekly-meal-planner-for-real-life-4252"
+        "id": "dev-2827112",
+        "title": "Kiro Workflow for Copilot, Claude & More",
+        "description": "Last week we introduced how an agent understands a codebase and built an actual codebase agent to...",
+        "url": "https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp"
       },
       {
-        "id": "dev-2820925",
-        "title": "FlashAttention by hand",
-        "description": "Table of content   Introduction to FlashAttention Vanilla self-attention mechanism without...",
-        "url": "https://dev.to/lewis_won/flashattention-by-hand-34im"
+        "id": "dev-2826107",
+        "title": "The Generative AI Gold Rush: Why 95% of Enterprise AI Projects Are Failing—Despite the Hype",
+        "description": "We’re living in the middle of a Generative AI gold rush. From chatbots to image generators,...",
+        "url": "https://dev.to/ayusharpcoder/the-generative-ai-gold-rush-why-95-of-enterprise-ai-projects-are-failing-despite-the-hype-2832"
       },
       {
-        "id": "dev-2825070",
-        "title": "Mastering Robotics: The Dex-Mimic Revolution",
-        "description": "Mastering Robotics: The Dex-Mimic Revolution   Tired of clunky robot controls and limited...",
-        "url": "https://dev.to/arvindsundararajan/mastering-robotics-the-dex-mimic-revolution-34d6"
+        "id": "dev-2826200",
+        "title": "AWS Toronto Summit 2025 - My Experience at DEV202 session",
+        "description": "What a day at AWS Summit Toronto 2025 ? It was a Rainy start but it was worth the Event. Mornings...",
+        "url": "https://dev.to/aws-builders/aws-toronto-summit-2025-my-experience-at-dev202-session-29pd"
       },
       {
-        "id": "dev-2824812",
-        "title": "Title: NBA Free Agent Malik Beasley Faces Eviction Amidst Federal Gambling Probe",
-        "description": "Title: NBA Free Agent Malik Beasley Faces Eviction Amidst Federal Gambling...",
-        "url": "https://dev.to/yagyaraj_sharma_6cd410179/title-nba-free-agent-malik-beasley-faces-eviction-amidst-federal-gambling-probe-2n7g"
+        "id": "dev-2826068",
+        "title": "[Boost]",
+        "description": "Stop Rewriting Prompts: Meet DevPromptly 🚀       Javier Morant...",
+        "url": "https://dev.to/devpromptly/-25oo"
       },
       {
-        "id": "dev-2824851",
-        "title": "Simulating Justice: Unveiling Bias in Legal Systems with AI by Arvind Sundararajan",
-        "description": "Simulating Justice: Unveiling Bias in Legal Systems with AI   Imagine a world where...",
-        "url": "https://dev.to/arvindsundararajan/simulating-justice-unveiling-bias-in-legal-systems-with-ai-by-arvind-sundararajan-19kh"
+        "id": "dev-2826350",
+        "title": "Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀",
+        "description": "I'm excited to announce the release of my first npm package, slimcontext! It's a lightweight,...",
+        "url": "https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp"
       },
       {
-        "id": "dev-2824084",
-        "title": "Dexterity Without Distance: Democratizing Remote Manipulation",
-        "description": "Dexterity Without Distance: Democratizing Remote Manipulation   Imagine a world where a...",
-        "url": "https://dev.to/arvindsundararajan/dexterity-without-distance-democratizing-remote-manipulation-5chc"
+        "id": "dev-2825650",
+        "title": "Adversarial Attacks on Generative AI: A Growing Concern in the AI Era",
+        "description": "Generative AI has taken the world by storm. From ChatGPT-like assistants to image generation tools...",
+        "url": "https://dev.to/abhishekjaiswal_4896/adversarial-attacks-on-generative-ai-a-growing-concern-in-the-ai-era-26h6"
       },
       {
-        "id": "dev-2824810",
-        "title": "Title: Fed Governor Michelle Bowman Urges Central Bank to Cut Interest Rates Faster",
-        "description": "Title: Fed Governor Michelle Bowman Urges Central Bank to Cut Interest Rates...",
-        "url": "https://dev.to/yagyaraj_sharma_6cd410179/title-fed-governor-michelle-bowman-urges-central-bank-to-cut-interest-rates-faster-3h47"
+        "id": "dev-2825488",
+        "title": "Democratizing Dexterity: Remote Skills Made Real",
+        "description": "Democratizing Dexterity: Remote Skills Made Real   Imagine a world where specialized skills,...",
+        "url": "https://dev.to/arvindsundararajan/democratizing-dexterity-remote-skills-made-real-59pk"
+      },
+      {
+        "id": "dev-2825443",
+        "title": "Automated Diagnostic Workflow for Early-Stage Vitamin B12 Deficiency via Retrospective Cohort Analysis",
+        "description": "Here's a research paper outline adhering to your stringent guidelines. This exploration focuses on...",
+        "url": "https://dev.to/freederia-research/automated-diagnostic-workflow-for-early-stage-vitamin-b12-deficiency-via-retrospective-cohort-5276"
+      },
+      {
+        "id": "dev-2825209",
+        "title": "Real-Time Anomaly Detection in SWaP-Constrained UAVs via Embedded Adaptive Kalman Filtering",
+        "description": "Real-time anomaly detection is crucial for autonomous UAV operation, ensuring mission success and...",
+        "url": "https://dev.to/freederia-research/real-time-anomaly-detection-in-swap-constrained-uavs-via-embedded-adaptive-kalman-filtering-18a0"
+      },
+      {
+        "id": "dev-2825442",
+        "title": "eesha Picture",
+        "description": "My name is eesha Juli from USA. I'm a freelance and CPA marketer.",
+        "url": "https://dev.to/eesha786/eesha-picture-2jgd"
+      },
+      {
+        "id": "dev-2825117",
+        "title": "Memory in LlamaIndex: Building Intelligent Chat Agents",
+        "description": "This blog post is designed for developers building chat applications, AI assistants, or...",
+        "url": "https://dev.to/raghava_kotala_30002053c7/memory-in-llamaindex-building-intelligent-chat-agents-o9p"
       }
     ]
   },
@@ -373,106 +373,94 @@
     "name": "Hacker News AI",
     "articles": [
       {
-        "id": "hn-45156674",
-        "title": "New trend: extreme hours at AI startups",
-        "description": "16 points • 6 comments",
-        "url": "https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/"
+        "id": "hn-45163634",
+        "title": "I used AI to make this song. The results, and its implications, startled me",
+        "description": "8 points • 4 comments",
+        "url": "https://www.sfchronicle.com/opinion/openforum/article/ai-music-song-band-20797062.php"
       },
       {
-        "id": "hn-45157897",
-        "title": "Air pollution directly linked to increased dementia risk",
-        "description": "6 points • 0 comments",
-        "url": "https://www.nature.com/articles/d41586-025-02844-9"
+        "id": "hn-45163422",
+        "title": "AI robots can carve stone statues. buildings are next",
+        "description": "7 points • 3 comments",
+        "url": "https://www.fastcompany.com/91366303/ai-robots-can-already-carve-stone-statues-entire-buildings-are-next"
       },
       {
-        "id": "hn-45157583",
-        "title": "Snake eating tail: Google's AI Overviews cites web pages written by AI: study",
-        "description": "5 points • 0 comments",
-        "url": "https://www.theregister.com/2025/09/07/googles_ai_cites_written_by_ai/"
+        "id": "hn-45163350",
+        "title": "Vibe Coding Fiasco: AI Agent Goes Rogue, Deletes Company's Database",
+        "description": "4 points • 4 comments",
+        "url": "https://www.pcmag.com/news/vibe-coding-fiasco-replite-ai-agent-goes-rogue-deletes-company-database"
       },
       {
-        "id": "hn-45156768",
-        "title": "College Students Have Changed Forever",
-        "description": "4 points • 1 comments",
-        "url": "https://www.theatlantic.com/technology/archive/2025/08/ai-college-class-of-2026/683901/"
+        "id": "hn-45162893",
+        "title": "What if the AI stockmarket blows up?",
+        "description": "4 points • 2 comments",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/07/what-if-the-ai-stockmarket-blows-up"
       },
       {
-        "id": "hn-45156675",
-        "title": "The CoPilot Productivity Paradox",
-        "description": "3 points • 0 comments",
-        "url": "https://www.marginalia.nu/log/a_125_ai_assistants/"
+        "id": "hn-45163867",
+        "title": "Loverse: Japan's New AI Dating App Where Every Match Is Virtual",
+        "description": "3 points • 2 comments",
+        "url": "https://www.tokyoweekender.com/entertainment/tech-trends/japanese-ai-dating-app/"
       },
       {
-        "id": "hn-45157759",
-        "title": "Zuckerberg: If AI progress keeps accelerating, our investment may exceed $600B",
-        "description": "2 points • 2 comments",
-        "url": "https://www.threads.com/@zuck/post/DORJoYgkXUH"
+        "id": "hn-45163102",
+        "title": "Reg hack attends job interview hosted by AI avatar struggles exit uncanny valley",
+        "description": "3 points • 2 comments",
+        "url": "https://www.theregister.com/2025/09/06/ai_job_interview_experience/"
       },
       {
-        "id": "hn-45157216",
-        "title": "AI Adoption Rate Trending Down for Large Companies – Apollo Academy",
+        "id": "hn-45164318",
+        "title": "What about TVM, XLA, and AI compilers?",
         "description": "2 points • 0 comments",
-        "url": "https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/"
+        "url": "https://www.modular.com/blog/democratizing-ai-compute-part-6-what-about-ai-compilers"
       },
       {
-        "id": "hn-45156787",
-        "title": "AI Week 2025",
+        "id": "hn-45163098",
+        "title": "OpenAI reorg at risk as Attorneys General push AI safety",
+        "description": "2 points • 1 comments",
+        "url": "https://www.theregister.com/2025/09/05/openai_reorg_at_risk/"
+      },
+      {
+        "id": "hn-45162957",
+        "title": "Small Language Models Are the Future of Agentic AI",
         "description": "2 points • 0 comments",
-        "url": "https://blog.cloudflare.com/ai-week-2025-wrapup/"
+        "url": "https://research.nvidia.com/labs/lpr/slm-agents/"
       },
       {
-        "id": "hn-45158013",
-        "title": "Show HN: Kindred",
-        "description": "Hi HN,Kindred is an AI social-media post summarizer, and to start with I&#x27;ve focused on HN. I primarily built this because I needed something like...",
-        "url": "https://kindred.fit/"
-      },
-      {
-        "id": "hn-45157945",
-        "title": "Why the Airbus A350 Has That Black Mask Around the Cockpit Windows",
+        "id": "hn-45164748",
+        "title": "Programmer who beat ChatGPT's AI",
         "description": "1 points • 0 comments",
-        "url": "https://www.jalopnik.com/1950596/why-airbus-a350-has-black-mask-around-cockpit-windows/"
+        "url": "https://www.euronews.com/next/2025/07/22/humanity-has-won-so-far-meet-the-worlds-best-programmer-who-beat-ai-and-chatgpt"
       },
       {
-        "id": "hn-45157908",
-        "title": "The Tmux Menagerie",
+        "id": "hn-45164741",
+        "title": "OpenAI Backs AI-Made Animated Feature Film",
         "description": "1 points • 0 comments",
-        "url": "https://worksonmymachine.ai/p/the-tmux-menagerie"
+        "url": "https://www.wsj.com/tech/ai/openai-backs-ai-made-animated-feature-film-389f70b0"
       },
       {
-        "id": "hn-45157756",
-        "title": "Show HN: AI generates personalized workout plans – looking for 50 testers",
-        "description": "Hi HN!Ever feel stuck with workouts that don’t fit your schedule, your goals, or your level? I built NuvioFit to solve exactly that — a fully AI-power...",
-        "url": "https://www.nuviofit.com/"
-      },
-      {
-        "id": "hn-45157531",
-        "title": "Show HN: VDPR – I mine YouTube to find product ideas (great for digital too)",
-        "description": "I built VDPR. You give it a niche and a video limit. It pulls transcripts, finds repeated problems and actions, and turns them into ranked product ide...",
-        "url": "https://www.vdpr.ai/"
-      },
-      {
-        "id": "hn-45157312",
-        "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
+        "id": "hn-45164557",
+        "title": "For $65,000 a year, a teacher-less AI private school comes to Virginia",
         "description": "1 points • 0 comments",
-        "url": "https://arxiviq.substack.com/p/canaries-in-the-coal-mine-six-facts"
+        "url": "https://www.washingtonpost.com/education/2025/08/26/alpha-school-virginia-ai-education/"
       },
       {
-        "id": "hn-45157066",
-        "title": "Speeding Up Firefox Local AI Runtime",
-        "description": "1 points • 0 comments",
-        "url": "https://blog.mozilla.org/en/firefox/firefox-ai/speeding-up-firefox-local-ai-runtime/"
+        "id": "hn-45164463",
+        "title": "Show HN: A local first AI engine and orchestrator",
+        "description": "Kubernetes for AI agents - Local First. Sovereign and Secure.",
+        "url": "https://www.krionis.com/"
       },
       {
-        "id": "hn-45156827",
-        "title": "We risk a deluge of AI-written 'science' pushing corporate interests",
+        "id": "hn-45164390",
+        "title": "Build / Deploy Agent Workflows",
         "description": "1 points • 0 comments",
-        "url": "https://theconversation.com/we-risk-a-deluge-of-ai-written-science-pushing-corporate-interests-heres-what-to-do-about-it-264606"
+        "url": "https://www.sim.ai/"
       },
       {
-        "id": "hn-45156753",
-        "title": "Google AI Mode to Become Default for Google Search Soon",
-        "description": "1 points • 0 comments",
-        "url": "https://www.seroundtable.com/google-ai-mode-default-40067.html"
+        "id": "hn-45163140",
+        "title": "Show HN: AI API for 3D container packing",
+        "description": "HiI’ve just released an AI API for 3dpack.ing. Instead of structuring inputs, you can now send a free-text prompt and get optimized packing back as JS...",
+        "url": "https://3dpack.ing/api-docs.html"
       }
     ]
   }
