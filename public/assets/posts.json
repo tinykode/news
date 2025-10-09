@@ -7,184 +7,184 @@
     "name": "Dev Community AI",
     "articles": [
       {
-        "id": "dev-2903422",
-        "title": "Instead of spending hours scanning through pull requests, I now use AI to review code like a senior engineer with speed, objectivity, and depth. Do you also want AI to review code like a senior engineer?",
-        "description": "Code Reviews with AI: Making Feedback Fast, Fair, and...",
-        "url": "https://dev.to/jaideepparashar/instead-of-spending-hours-scanning-through-pull-requests-i-now-use-ai-to-review-code-like-a-senior-5a4i"
+        "id": "dev-2902451",
+        "title": "How to Make Agents Talk to Each Other (and Your App) Using A2A + AG-UI",
+        "description": "TL;DR   In this guide, you will learn how to build full-stack Agent-to-Agent(A2A)...",
+        "url": "https://dev.to/copilotkit/how-to-make-agents-talk-to-each-other-and-your-app-using-a2a-ag-ui-4amo"
       },
       {
-        "id": "dev-2903420",
-        "title": "Code Reviews with AI: Making Feedback Fast, Fair, and Effective",
-        "description": "Code reviews are essential — they keep teams aligned, improve quality, and prevent bugs before they...",
-        "url": "https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8"
+        "id": "dev-2866126",
+        "title": "Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!",
+        "description": "We're excited to announce our newest challenge with Auth0, a leading authentication and authorization...",
+        "url": "https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi"
       },
       {
-        "id": "dev-2901935",
-        "title": "🤖 The AI Revolution Is Here And It's Changing Everything",
-        "description": "I've been coding for years, but nothing prepared me for how AI would transform my daily workflow....",
-        "url": "https://dev.to/yaldakhoshpey/the-ai-revolution-is-here-and-its-changing-everything-147g"
+        "id": "dev-2907061",
+        "title": "11+ Best All-in-One AI Platforms for Developers and Teams",
+        "description": "Context switching kills productivity, especially in AI-driven workflows. Here are the best...",
+        "url": "https://dev.to/vinishbhaskar/11-best-all-in-one-ai-platforms-for-developers-and-teams-319l"
       },
       {
-        "id": "dev-2902157",
-        "title": "AI Context Switching: The Technical Challenge Reshaping Artificial Intelligence",
-        "description": "Your AI assistant just \"forgot\" what you were working on—and it's not a bug, it's a fundamental...",
-        "url": "https://dev.to/pullflow/ai-context-switching-the-technical-challenge-reshaping-artificial-intelligence-14g6"
+        "id": "dev-2898261",
+        "title": "Vibe Coding Meets AI Testing - How I Ship With Confidence",
+        "description": "So the cat's out of the bag: after some initial skepticism, we're all coding with AI now, and wow,...",
+        "url": "https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81"
       },
       {
-        "id": "dev-2900654",
-        "title": "Everyone’s Suddenly Talking About AI Agents and MCP Here’s What I Learned",
-        "description": "Every time I open DEV or X these days, someone’s talking about AI agents or something called the...",
-        "url": "https://dev.to/trojanmocx/everyones-suddenly-talking-about-ai-agents-and-mcp-heres-what-i-learned-320g"
+        "id": "dev-2905953",
+        "title": "Automated Server Provisioning: A DevOps Framework for Enterprise Scale",
+        "description": "🧭 Business Goal   Reduce server provisioning time and configuration errors by 75% for...",
+        "url": "https://dev.to/marksantiago02/automated-server-provisioning-a-devops-framework-for-enterprise-scale-peb"
       },
       {
-        "id": "dev-2901248",
-        "title": "Supervising an AI Engineer: Lessons from 212 Sessions",
-        "description": "The Moment Everything Broke   Seventeen failed attempts on the same feature. Different...",
-        "url": "https://dev.to/razoorka/supervising-an-ai-engineer-lessons-from-212-sessions-4gaa"
+        "id": "dev-2904001",
+        "title": "Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?",
+        "description": "You know, I've tried a ton of AI resume builders, first to land a job, and now to figure out which...",
+        "url": "https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-198a"
       },
       {
-        "id": "dev-2901919",
-        "title": "From Figma to Production: How I Optimized Frontend Development Time by 70%",
-        "description": "Look, AI is getting lots of traction, we all know it! Unless you’re living in the woods or on a far...",
-        "url": "https://dev.to/envitab/from-figma-to-production-how-i-optimized-frontend-development-time-by-70-2obk"
+        "id": "dev-2907104",
+        "title": "Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.\r\n\r\nIt gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.",
+        "description": "AI-Powered Pair Programming: How I Code Faster and Learn More...",
+        "url": "https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg"
       },
       {
-        "id": "dev-2901543",
-        "title": "AI Startups Are Sick — But Not in a Good Way",
-        "description": "In today’s tech industry, everyone seems to be talking about “AI.” From modern frontend developers to...",
-        "url": "https://dev.to/ajnull/ai-startups-are-sick-but-not-in-a-good-way-1el"
+        "id": "dev-2907102",
+        "title": "AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT",
+        "description": "Pair programming has always been a great way to learn and improve — two minds, one keyboard. But what...",
+        "url": "https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3"
       },
       {
-        "id": "dev-2902131",
-        "title": "The Next Developer Skill: Knowing What NOT to Automate",
-        "description": "We automate to save time — but somehow, we always end up using that time to automate even more.  AI...",
-        "url": "https://dev.to/marxon/the-next-developer-skill-knowing-what-not-to-automate-2hh9"
+        "id": "dev-2907074",
+        "title": "I Tried 500+ New AI Tools, and Honestly, These Will Blow Your Mind",
+        "description": "We all know that OpenAI actually started the trend of AI tools after releasing ChatGPT.  After that,...",
+        "url": "https://dev.to/nitinfab/i-tried-500-new-ai-tools-and-honestly-these-will-blow-your-mind-230h"
       },
       {
-        "id": "dev-2900921",
-        "title": "How to Create Effective Termbase Glossaries for Machine Translation",
-        "description": "Need to create a termbase glossary for machine translation? Glossaries can really make a big...",
-        "url": "https://dev.to/testjace/how-to-create-effective-termbase-glossaries-for-machine-translation-4718"
+        "id": "dev-2904508",
+        "title": "How to Use OpenAI AgentKit (2025): Build, Deploy, and Optimize AI Agents",
+        "description": "Until recently, building AI agents required juggling fragmented tools manual orchestration, separate...",
+        "url": "https://dev.to/therealmrmumba/how-to-use-openai-agentkit-2025-build-deploy-and-optimize-ai-agents-1p92"
       },
       {
-        "id": "dev-2879935",
-        "title": "What AI Taught Me About Sharing Context With Humans",
-        "description": "The first time I asked an AI to “fix my code,” it gave me something that compiled… but made...",
-        "url": "https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc"
+        "id": "dev-2905049",
+        "title": "Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide",
+        "description": "Why this guide?   OpenAI’s AgentKit gives you an end-to-end way to design, run, and ship...",
+        "url": "https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd"
       },
       {
-        "id": "dev-2900667",
-        "title": "AWS User Group Chennai Meetup - Session 3: A Serverless AI-Powered e-Learning Assistant",
-        "description": "Continuing from our second session blog, here's a detailed breakdown of the third technical session...",
-        "url": "https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-3-a-serverless-ai-powered-e-learning-assistant-15lo"
+        "id": "dev-2901556",
+        "title": "Creating an AI App with Genkit and Gemini: A Beginner’s Guide",
+        "description": "Artificial Intelligence (AI) tools are now easier than ever to build and Genkit by Google makes it...",
+        "url": "https://dev.to/odinga71/creating-an-ai-app-with-genkit-and-gemini-a-beginners-guide-48md"
       },
       {
-        "id": "dev-2903410",
-        "title": "The Hidden Risk of Letting ChatGPT Touch Your Code",
-        "description": "I wrote this after spending an entire day fixing the chaos that ChatGPT caused in my live...",
-        "url": "https://dev.to/michal_harcejnanomagic/the-hidden-risk-of-letting-chatgpt-touch-your-code-2lh0"
+        "id": "dev-2903728",
+        "title": "GitHub Copilot Chat Modes: From Chaos to Command 🎛️",
+        "description": "You’ve built your first GitHub Copilot chat mode—now it’s time to tame it. Here’s how to set up, test, and share custom modes like a professional who occasionally yells at their AI.",
+        "url": "https://dev.to/anchildress1/github-copilot-chat-modes-from-chaos-to-command-54k0"
       },
       {
-        "id": "dev-2901336",
-        "title": "Building a Voice Agent Using n8n, Twilio, and SIP Integration",
-        "description": "🧩 Introduction  In this guide, I share how I built a voice automation agent using n8n integrated with...",
-        "url": "https://dev.to/tanaka_chindakuda_2b2c903/building-a-voice-agent-using-n8n-twilio-and-sip-integration-2ce6"
+        "id": "dev-2905346",
+        "title": "Sora 2 / Sora 2 Pro Python CLI",
+        "description": "Sora 2 / Sora 2 Pro Video CLI   Command-line client for OpenAI's Sora 2 and Sora 2 Pro video...",
+        "url": "https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim"
       },
       {
-        "id": "dev-2902142",
-        "title": "Agentic AI: How LLMs Really Work Behind the Scenes",
-        "description": "Ever wondered what really happens when you upload a PDF (or any file) into ChatGPT?  At first glance,...",
-        "url": "https://dev.to/gayathri_mangalarapu/agentic-ai-how-llms-really-work-behind-the-scenes-31ap"
+        "id": "dev-2905106",
+        "title": "No More Forgetful Robots: My Test Drive with Cognee AI's \"AI Memory\"",
+        "description": "If you've played around with AI chatbots like Gemini or ChatGPT, you know they're super smart, but...",
+        "url": "https://dev.to/pravesh_sudha_3c2b0c2b5e0/no-more-forgetful-robots-my-test-drive-with-cognee-ais-ai-memory-39pd"
       },
       {
-        "id": "dev-2901641",
-        "title": "Claude Sonnet 4.5 vs. GPT-5 Codex: Best model for agentic coding",
-        "description": "OpenAI, with the release of GPT-5 Codex, has added major upgrades to Codex, the CLI agent, including...",
-        "url": "https://dev.to/composiodev/claude-sonnet-45-vs-gpt-5-codex-best-model-for-agentic-coding-9o2"
+        "id": "dev-2904122",
+        "title": "Statistical Analysis Using NumPy and SciPy: A Practical Guide",
+        "description": "Statistical analysis forms the backbone of data-driven decision-making in every field, from finance...",
+        "url": "https://dev.to/dipti_m_2e7ba36c478d1a48a/statistical-analysis-using-numpy-and-scipy-a-practical-guide-3dai"
       },
       {
-        "id": "dev-2900697",
-        "title": "AI is powerful, but privacy must come first. Here’s my take on what’s next for privacy-first AI apps.",
-        "description": "Privacy-First AI Apps: What’s Next? 🔒       Shubham Joshi ・ Oct...",
-        "url": "https://dev.to/shubham_joshi_expert/ai-is-powerful-but-privacy-must-come-first-heres-my-take-on-whats-next-for-privacy-first-ai-24c4"
+        "id": "dev-2907124",
+        "title": "How to Translate XML Files Online",
+        "description": "To make it easier and faster to translate an XML file online into another language, use enterprise...",
+        "url": "https://dev.to/liamcorwin/how-to-translate-xml-files-online-4m42"
       },
       {
-        "id": "dev-2878995",
-        "title": "AI Conference 2025 - CKEditor in da house",
-        "description": "In the middle of September 2025, the CKEditor team attended The AI Conference in San Francisco. The...",
-        "url": "https://dev.to/ckeditor/ai-conference-2025-ckeditor-in-da-house-m11"
+        "id": "dev-2904303",
+        "title": "Abstraction Is the New Literacy for Developers",
+        "description": "We're teaching developers the wrong skills.  Walk into any coding bootcamp, scan any job posting,...",
+        "url": "https://dev.to/rohit_gavali_0c2ad84fe4e0/abstraction-is-the-new-literacy-for-developers-40i8"
       },
       {
-        "id": "dev-2899591",
-        "title": "Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both",
-        "description": "Introduction            The Rise of Stateful LLM Applications   The landscape of LLM...",
-        "url": "https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g"
+        "id": "dev-2905497",
+        "title": "How I Simplified Contributor Workflows with Rules, Prompts, and AI Agents",
+        "description": "How trying to reduce friction for contributors led me to discover the difference between being clever and being more effective with AI using rules and prompts.",
+        "url": "https://dev.to/bekahhw/how-i-simplified-contributor-workflows-with-rules-prompts-and-ai-agents-1pnm"
       },
       {
-        "id": "dev-2900978",
-        "title": "Concatenate observation with received messages",
-        "description": "It was 3 AM when I first witnessed something extraordinary in my multi-agent reinforcement learning system. I had been running a simple predator-prey simulation for 72 hours straight, expecting to see...",
-        "url": "https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic"
+        "id": "dev-2904042",
+        "title": "The Future of Engineering Is Emotional Intelligence",
+        "description": "AI will write most of the code within five years. Not all of it, but most of it. The boilerplate, the...",
+        "url": "https://dev.to/leena_malhotra/the-future-of-engineering-is-emotional-intelligence-14pa"
       },
       {
-        "id": "dev-2903702",
-        "title": "Part 3: Creating Custom MCP Tools - From Concept to Implementation 🚀",
-        "description": "The Tool Design Process Creating effective MCP tools requires thoughtful design before writing code. Successful developers invest time understanding the problem...",
-        "url": "https://dev.to/techstuff/part-3-creating-custom-mcp-tools-from-concept-to-implementation-30j6"
+        "id": "dev-2904896",
+        "title": "The AI panic is turning a generation of professionals into carpenters with hammers the size of cars.",
+        "description": "They see the hype. Fear that their jobs are at risk. Spend months mastering complex tools they may...",
+        "url": "https://dev.to/narednra_reddyyadama_d64/the-ai-panic-is-turning-a-generation-of-professionals-into-carpenters-with-hammers-the-size-of-cars-44b4"
       },
       {
-        "id": "dev-2903042",
-        "title": "🚀 Hello DEV Community! I’m Thiyagarajan Varadharajan – Python Full Stack Developer | AI Enthusiast",
-        "description": "Hey everyone 👋  I’m Thiyagarajan Varadharajan, a Python Full Stack Developer with a strong passion...",
-        "url": "https://dev.to/thiyagu26v/hello-dev-community-im-thiyagarajan-varadharajan-python-full-stack-developer-ai-enthusiast-eb7"
+        "id": "dev-2904701",
+        "title": "The Small Habit That Could Save Your Eyesight",
+        "description": "Every evening, my little girl rubbed her eyes after watching cartoons. Her mom told her to “rest...",
+        "url": "https://dev.to/alexbr/the-small-habit-that-could-save-your-eyesight-4pob"
       },
       {
-        "id": "dev-2902659",
-        "title": "Building Cryptographic Guardrails for AI-Assisted Coding",
-        "description": "Bewaker: local-first cryptographic guardrails for critical code (VS Code + git hooks)   AI...",
-        "url": "https://dev.to/bewakerai/building-cryptographic-guardrails-for-ai-assisted-coding-ong"
+        "id": "dev-2904627",
+        "title": "How Vijil built a trust layer for my first AI agent",
+        "description": "The promise behind AI agents is that they act like peers or direct reports who handle tasks on your...",
+        "url": "https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki"
       },
       {
-        "id": "dev-2903268",
-        "title": "🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬",
-        "description": "OpenAI unveiled a major update during Dev Day yesterday (Oct 6), introducing a new suite of tools to...",
-        "url": "https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn"
+        "id": "dev-2904432",
+        "title": "CapMonster Cloud Review: The All-in-One CAPTCHA Solving Service",
+        "description": "Raise your hand if you think CAPTCHAs are annoying. Well, you’re not alone… For human users, CAPTCHA...",
+        "url": "https://dev.to/antozanini/capmonster-cloud-review-the-all-in-one-captcha-solving-service-58mb"
       },
       {
-        "id": "dev-2901940",
-        "title": "5 Essential MCP Servers That Give Claude & Cursor Real Superpowers (2025)",
-        "description": "TL;DR: Most AI tools are limited to generating code and answering questions. MCP servers break...",
-        "url": "https://dev.to/prithwish_nath/5-essential-mcp-servers-that-give-claude-cursor-real-superpowers-2025-nf6"
+        "id": "dev-2904775",
+        "title": "⚙️ Adaptive Gas Pricing | Using AI to Predict Network Congestion Before It Happens",
+        "description": "In blockchain networks, gas fees are supposed to represent computational cost, a fair way to pay for...",
+        "url": "https://dev.to/umang_suthar_9bad6f345a8a/adaptive-gas-pricing-using-ai-to-predict-network-congestion-before-it-happens-24d9"
       },
       {
-        "id": "dev-2901927",
-        "title": "How to Build a Digital Brand That Connects Emotionally",
-        "description": "In today’s crowded digital landscape, simply having a logo or a catchy tagline is no longer enough....",
-        "url": "https://dev.to/orvian-tech/how-to-build-a-digital-brand-that-connects-emotionally-2db7"
+        "id": "dev-2905108",
+        "title": "Bedrock Agents & Multi-Agent AI | AWS Summit Bangalore 2025",
+        "description": "I had the chance to attend AWS Summit Bangalore 2025, and one presentation in particular caught my...",
+        "url": "https://dev.to/aws-builders/building-smarter-ai-systems-my-experience-with-amazon-bedrock-agents-at-aws-summit-bangalore-2025-3h9g"
       },
       {
-        "id": "dev-2901563",
-        "title": "How AI Helps Organizations Stay Ahead of Evolving Compliance Laws?",
-        "description": "Regulatory frameworks across the world are becoming more complex, frequent, and data-driven. For many...",
-        "url": "https://dev.to/lokeshjoshi/how-ai-helps-organizations-stay-ahead-of-evolving-compliance-laws-3fma"
+        "id": "dev-2905062",
+        "title": "🚀 I Built BusinessAdBooster — an AI Tool to Boost Small Business Visibility",
+        "description": "Hey Dev community 👋  I’m Shemith, a solo founder from Kerala, India 🇮🇳.  After working with small...",
+        "url": "https://dev.to/shemith_mohanan_6361bb8a2/i-built-businessadbooster-an-ai-tool-to-boost-small-business-visibility-4oi4"
       },
       {
-        "id": "dev-2901622",
-        "title": "N8N: The Workflow Automation Tool Worth Knowing About",
-        "description": "I've been using n8n for a while now, and it's one of those tools that just makes sense once you get...",
-        "url": "https://dev.to/aadarsh-nagrath/n8n-the-workflow-automation-tool-worth-knowing-about-44gd"
+        "id": "dev-2904920",
+        "title": "Build a Powerful AI Chatbot UI in Minutes with Next.js",
+        "description": "Vercel AI SDK is a library that allows you to build AI-powered applications in Next.js projects...",
+        "url": "https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j"
       },
       {
-        "id": "dev-2900948",
-        "title": "Day 6 of 100 days dsa coding challenge",
-        "description": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥 The goal:...",
-        "url": "https://dev.to/manasi_patil_/day-6-of-100-days-dsa-coding-challenge-5a81"
+        "id": "dev-2904806",
+        "title": "Decoding the Cosmos: How AI is Making Sense of Starlight's Rhythms by Arvind Sundararajan",
+        "description": "Decoding the Cosmos: How AI is Making Sense of Starlight's Rhythms   Imagine trying to...",
+        "url": "https://dev.to/arvind_sundararajan/decoding-the-cosmos-how-ai-is-making-sense-of-starlights-rhythms-by-arvind-sundararajan-fki"
       },
       {
-        "id": "dev-2900619",
-        "title": "RAG Chunking Strategies That Actually Work (and Why Most Don’t)",
-        "description": "So, you’ve decided to build a RAG (Retrieval-Augmented Generation) system. Congrats! 🎉 You’ve just...",
-        "url": "https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2"
+        "id": "dev-2904817",
+        "title": "Mastering OpenPose Keypoint Detection: The Ultimate Guide",
+        "description": "In the rapidly evolving field of computer vision, pose estimation has emerged as a critical...",
+        "url": "https://dev.to/sohan_lal_241c2d80b2705e7/mastering-openpose-keypoint-detection-the-ultimate-guide-25ni"
       }
     ]
   },
@@ -192,112 +192,118 @@
     "name": "Hacker News AI",
     "articles": [
       {
-        "id": "hn-45510907",
-        "title": "Delays spread to major airports across the country – government shutdown",
-        "description": "24 points • 3 comments",
-        "url": "https://www.cnn.com/2025/10/07/us/shutdown-impacts-travelers"
+        "id": "hn-45522514",
+        "title": "Anthropic’s ‘anti-China’ stance triggers exit of star AI researcher",
+        "description": "11 points • 0 comments",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3328222/anthropics-anti-china-stance-triggers-exit-star-ai-researcher"
       },
       {
-        "id": "hn-45510726",
-        "title": "Top analyst on Nvidia fueling bubble: We've seen this before. It was Enron, Tyco",
-        "description": "21 points • 7 comments",
-        "url": "https://fortune.com/2025/10/07/ai-bubble-cisco-moment-dotcom-crash-nvidia-jensen-huang-top-analyst/"
+        "id": "hn-45523406",
+        "title": "Coding AIs tend to suffer from the Dunning-Kruger effect",
+        "description": "7 points • 0 comments",
+        "url": "https://www.unite.ai/coding-ais-tend-to-suffer-from-the-dunning-kruger-effect/"
       },
       {
-        "id": "hn-45510615",
-        "title": "Billionaire tech investor says 'valuations in AI are at a bubble'",
+        "id": "hn-45523060",
+        "title": "Show HN: Kooder – AI Software Engineer for Full-Stack Development",
+        "description": "I built Kooder, an AI software engineer that generates fully functional full-stack applications from natural language prompts. The goal is to streamli...",
+        "url": "https://kooder.dev"
+      },
+      {
+        "id": "hn-45522922",
+        "title": "Google tells employees: If you want health benefits, sign up with an AI tool",
+        "description": "6 points • 1 comments",
+        "url": "https://www.businessinsider.com/google-ai-health-tool-opt-in-risk-losing-benefits-2025-10"
+      },
+      {
+        "id": "hn-45523914",
+        "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
         "description": "5 points • 1 comments",
-        "url": "https://www.cnbc.com/2025/10/07/tech-vc-orlando-bravo-ai-bubble.html"
+        "url": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/"
       },
       {
-        "id": "hn-45511551",
-        "title": "JPMorgan's Dimon Says AI Cost Savings Now Matching Money Spent",
-        "description": "4 points • 0 comments",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-07/jpmorgan-s-dimon-says-ai-cost-savings-now-matching-money-spent"
+        "id": "hn-45521952",
+        "title": "Doing Math with Embeddings for Better AI Ad Targeting",
+        "description": "5 points • 0 comments",
+        "url": "https://www.ethicalads.io/blog/2025/10/doing-math-with-embeddings-for-better-ai-ad-targeting/"
       },
       {
-        "id": "hn-45512186",
-        "title": "AI Village: Watch frontier AIs interact with each other and the world",
+        "id": "hn-45523439",
+        "title": "The \"enshittification quotient\" of an AI platform is unknown",
         "description": "3 points • 0 comments",
-        "url": "https://theaidigest.org/village"
+        "url": "https://jdauriemma.com/misc/software-ate-the-world-whats-ai-going-to-do-to-software"
       },
       {
-        "id": "hn-45511966",
-        "title": "Inside the Chinese AI threat to security",
-        "description": "3 points • 0 comments",
-        "url": "https://www.politico.com/newsletters/digital-future-daily/2025/10/06/inside-the-chinese-ai-threat-to-security-00594748"
-      },
-      {
-        "id": "hn-45510362",
-        "title": "Paying AIs to Read My Books",
-        "description": "3 points • 0 comments",
-        "url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/"
-      },
-      {
-        "id": "hn-45510146",
-        "title": "Mentat Party Chat",
-        "description": "3 points • 1 comments",
-        "url": "https://mentat.ai/party"
-      },
-      {
-        "id": "hn-45510115",
-        "title": "Robin Williams' Daughter Tells Fans to 'Stop Sending Me AI Videos of Dad'",
-        "description": "3 points • 5 comments",
-        "url": "https://variety.com/2025/film/news/robin-williams-daughter-ai-recreations-gross-1236541633/"
-      },
-      {
-        "id": "hn-45511328",
-        "title": "AI Friend necklace; like wearing your senile, anxious grandmother around neck",
+        "id": "hn-45522912",
+        "title": "Motion sensors in mice can be used as a microphone to spy, converting vibrations",
         "description": "2 points • 1 comments",
-        "url": "https://fortune.com/2025/10/03/friend-ai-necklace-review-avi-schiffmann/"
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/high-performance-mice-can-be-used-as-a-microphone-to-spy-on-users-thanks-to-ai-mic-e-mouse-technique-uses-mouse-sensors-to-convert-acoustic-vibrations-into-speech"
       },
       {
-        "id": "hn-45511000",
-        "title": "AI-generated tests are lying to you",
+        "id": "hn-45522539",
+        "title": "Hyperlink, an Offline Private AI Agent for Local Files",
         "description": "2 points • 0 comments",
-        "url": "https://davidadamojr.com/ai-generated-tests-are-lying-to-you/"
+        "url": "https://hyperlink.nexa.ai/"
       },
       {
-        "id": "hn-45509974",
-        "title": "Why AI image gen fail at cartoon character consistency (and our fix)",
-        "description": "2 points • 1 comments",
-        "url": "https://consistentcharacter.ai"
+        "id": "hn-45522263",
+        "title": "With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI",
+        "description": "2 points • 0 comments",
+        "url": "https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/"
       },
       {
-        "id": "hn-45512435",
-        "title": "AI Tulips",
+        "id": "hn-45522253",
+        "title": "Four ways learning Econ makes people dumber re: future AI",
+        "description": "2 points • 0 comments",
+        "url": "https://www.lesswrong.com/posts/xJWBofhLQjf3KmRgg/four-ways-learning-econ-makes-people-dumber-re-future-ai"
+      },
+      {
+        "id": "hn-45524086",
+        "title": "AI generated Code is 10% Bullshit",
         "description": "1 points • 0 comments",
-        "url": "https://mamund.substack.com/p/ai-tulips"
+        "url": "https://alexanderweichart.de/4_Projects/ai-bs-code/AI-generated-Code-is-10-percent-Bullshit"
       },
       {
-        "id": "hn-45512426",
-        "title": "Drew Cukor – AI Adoption as a National Security Priority [video]",
-        "description": "1 points • 0 comments",
-        "url": "https://www.youtube.com/watch?v=GnO4dRHBzKI"
+        "id": "hn-45523989",
+        "title": "Show HN: GPTLocalhost – Use your local LLMs in Microsoft Word",
+        "description": "Run your favorite and local LLMs in Microsoft Word — right on your computer. GPTLocalhost lets you use latest AI models locally, ensuring complete dat...",
+        "url": "https://gptlocalhost.com/"
       },
       {
-        "id": "hn-45512162",
-        "title": "Show HN: Artisans AI – I build a powerful AI creation suite",
-        "description": "Hi HN , I’m Qiyang, an indie hacker and subway engineer by day.\nAt night, I build solo projects — this is my third one: Artisans AI.\nArtisans delivers...",
-        "url": "https://artisans-ai.com/"
-      },
-      {
-        "id": "hn-45512047",
-        "title": "An Airflow/TimescaleDB Data Pipeline for Garmin Connect",
+        "id": "hn-45523787",
+        "title": "Party in the AI Lab – AI Safety Parody (Weird Al Style) [video]",
         "description": "1 points • 1 comments",
-        "url": "https://github.com/diegoscarabelli/openetl"
+        "url": "https://www.youtube.com/watch?v=-TnsQHdI4eo"
       },
       {
-        "id": "hn-45511046",
-        "title": "Show HN: I made ShipAhead so devs can stop wasting weeks setting up SaaS apps",
-        "description": "I’ve spent months building SaaS apps with Nuxt and kept hitting the same wall — setup time.Every project needed auth, payments, a dashboard layout, SE...",
-        "url": "https://shipahe.ad/"
+        "id": "hn-45523648",
+        "title": "Show HN: EchoMode – A stability layer that prevents persona drift in LLMs",
+        "description": "Hey HN! I’m Sean, and I built EchoMode to solve a frustrating problem with long LLM conversations: persona drift — when models slowly forget their int...",
+        "url": "https://github.com/Seanhong0818/Echo-Mode"
       },
       {
-        "id": "hn-45510970",
-        "title": "Show HN: I built a Solana-Native AI escrow platform for creator ad spend",
-        "description": "Hi everyone, my name is Shakil and I built trustdog.co to improve creator ad spending. Essentially a lot of the existing platforms (such as collabstr)...",
-        "url": "https://trustdog.co/"
+        "id": "hn-45523524",
+        "title": "Show HN: PlayAiOdds – Football probabilities from AI and mathematical models",
+        "description": "I’ve built a site that uses mathematical models like Poisson, Dixon-Coles and Glicko ratings to estimate real football probabilities and generate bett...",
+        "url": "https://www.playaiodds.com/en/"
+      },
+      {
+        "id": "hn-45522727",
+        "title": "Kodisc – Create [Manim] Animations with AI",
+        "description": "1 points • 0 comments",
+        "url": "https://kodisc.com"
+      },
+      {
+        "id": "hn-45522060",
+        "title": "The Parasocial Power of AI",
+        "description": "1 points • 0 comments",
+        "url": "https://www.christiancentury.org/features/parasocial-power-ai"
+      },
+      {
+        "id": "hn-45521912",
+        "title": "If AI can create any scene from a selfie, what's left for photographers?",
+        "description": "1 points • 3 comments",
+        "url": "https://www.jasonstevens.photo/rise-of-the-machines/"
       }
     ]
   }
